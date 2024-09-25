@@ -1,0 +1,20 @@
+# Commodore
+Commodore 64
+Commodore 16, Plus/4
+Commodore PET
+Commodore Amiga
+MOS KIM-1
+# Andere Heimcomputer
+Amstrad CPC
+Sinclair ZX Spectrum
+Microsoft MSX
+BBC Micro
+Tandy Color Computer, Dragon 32
+Triumph-Adler Alphatronics PC
+# Spielekonsolen
+Atari 2600
+Atari 5200
+Atari 7800
+# Moderne Geräte
+Computer
+Open Source Cart Reader

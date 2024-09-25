@@ -1,0 +1,28 @@
+title: Atari 2600 Keyboard Controller
+links:
+    home: https://github.com/tebl/A2600-Keyboard
+photos:
+    IMG_6083.jpeg: aufgebaut
+    IMG_6081.jpeg: Platine
+    IMG_6079.jpeg: Frontplatte
+    IMG_6080.jpeg: BASIC Frontplatte
+    IMG_6054.jpeg: Synthcart Frontplatte
+components: Controller
+    4 Platine
+    1 2x5 Stiftleiste mit Rahmen
+    2 4.7kΩ Widerstand
+    12 6x6x8mm Taster
+    12 Tastenkappen
+    4 M3 8mm Abstandhalter Buchse/Buchse
+    8 M3 Schraube
+components: Kabel
+    0.3 9 poliges Flachbandkabel, 1m
+    1 2x5 Pinsockel für Flachbandkabel
+    1 D-Sub-9 Stecker für Flachbandkabel
+systems:
+    Atari 2600
+    Commodore 64
+---
+Dieses 12-Tasten Keypad war ursprünglich für das Atari 2600 konzipiert, ist aber auch am C64 betreibbar.
+
+Diese Nachbildung stammt von tebl. Ich habe sie aufgebaut und getestet.

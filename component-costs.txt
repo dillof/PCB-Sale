@@ -1,0 +1,130 @@
+# Kondensator
+0.41 10pF Kondensator https://www.mouser.at/ProductDetail/KYOCERA-AVX/AR205A100K4R?qs=sGAEpiMZZMukHu%252BjC5l7YSWUFwlalwtTHZ3uCS25F2s%3D
+0.29 1nF Kondensator https://www.mouser.at/ProductDetail/Vishay-BC-Components/S102K33Y5PP63K5R?qs=QZe2IbIN4jcYj9YGE2FAhA%3D%3D
+0.29 6.8nF Kondensator https://www.mouser.at/ProductDetail/Vishay-BC-Components/VY2682M47Y5VS63V7?qs=Au78WOuo%252BOcNn5p21JIKhw%3D%3D
+0.15 22nF Kondensator https://www.mouser.at/ProductDetail/Vishay-BC-Components/K223K15X7RF5TH5?qs=sGAEpiMZZMsh%252B1woXyUXj06aKT2KSSfsxiN6wOPu7XU%3D
+0.16 47nF Kondensator https://www.mouser.at/ProductDetail/Vishay-Sprague/1C10X7R473K100B?qs=51PGSaDeb6gkLf%2FlGLLkCg%3D%3D
+ 0.03 100nF Kondensator https://www.reichelt.at/at/de/shop/produkt/vielschicht-kerko_100_nf_50_v_rm_5_125_c-246835
+0.17 220nF Kondensator https://www.mouser.at/ProductDetail/Vishay-BC-Components/K224K20X7RF5UH5?qs=ZjM2s42DDyaRFeud2n8Wuw%3D%3D
+0.25 330nF Kondensator https://www.mouser.at/ProductDetail/KYOCERA-AVX/SR215E334MARAP1?qs=urM7c0%2FbhXj%252BGR0gH7TDew%3D%3D
+0.57 1µF Kondensator, 50V https://www.mouser.at/ProductDetail/Elna/RSRJH221M1UF25300T?qs=4ASt3YYao0Wb%2FlIrQJshhg%3D%3D
+
+# Widerstand
+0.04 47Ω Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_47_ohm_0207_250_mw_5_-1431
+0.03 82Ω Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_82_ohm_0207_250_mw_5_-1473
+0.03 100Ω Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_100_ohm_0207_250_mw_5_-1336
+- 150Ω Widerstand
+0.04 220Ω Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_220_ohm_0207_250_mw_5_-1382
+0.03 560Ω Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_560_ohm_0207_250_mw_5_-1446
+0.04 1kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_1_0_kohm_0207_250_mw_5_-1315
+0.04 2.2kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_2_2_kohm_0207_250_mw_5_-1369
+0.04 3.3kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_3_3_kohm_0207_250_mw_5_-1397
+0.05 4.7kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_4_7_kohm_0207_250_mw_5_-1425
+ - 10kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_metalloxyd_10_kohm_0207_1_0_w_5_-1779
+0.04 30kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_30_kohm_0207_250_mw_5_-1408
+0.04 47kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_47_kohm_0207_250_mw_5_-1434
+ - 250kΩ Widerstand 
+0.04 330kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_330_kohm_0207_250_mw_5_-1411
+ - 500kΩ Widerstand
+- 50MΩ Widerstand
+- 10-5 100Ω Widerstandnetzwerk
+0.08 5-4 4.7kΩ Widerstandnetzwerk https://www.reichelt.at/at/de/shop/produkt/widerstandsnetzwerk_4_7_kohm_sternschaltung_4wid_5pins-17707
+- 6-5 4.7kΩ Widerstandnetzwerk
+ 0.09 9-8 8.2kΩ Widerstandsnetzwerk https://www.reichelt.at/at/de/shop/produkt/widerstandsnetzwerk_8_2_kohm_sternschaltung_8wid_9pins-18064
+- 5kΩ Potentiometer
+
+# Diode
+- 1N914 Diode
+- 1N4001 Diode
+0.02 1N4148 Diode https://www.reichelt.at/at/de/shop/produkt/schalt-diode_100_v_150_ma_do-35-1730
+- 1N4735 Diode
+
+# Transistor
+- 2N3906 Transistor
+- BC327 Transistor
+- BC338 Transistor
+
+# Oszilator
+- 1MHz Quarz
+ 2.27 1.843MHz Quarz https://www.reichelt.at/at/de/shop/produkt/standardquarz_grundton_1_84_mhz-245394
+
+# Stiftleiste
+0.05 1x3 Stiftleiste https://www.reichelt.at/at/de/shop/produkt/stiftleiste_36_polig_vergoldet_2_54mm-235640
+0.07 1x4 Stiftleiste https://www.reichelt.at/at/de/shop/produkt/stiftleiste_36_polig_vergoldet_2_54mm-235640
+0.63 1x36 Stiftleiste https://www.reichelt.at/at/de/shop/produkt/stiftleiste_36_polig_vergoldet_2_54mm-235640
+ 0.20 2x8 Stiftleiste https://www.reichelt.at/at/de/shop/produkt/stiftleiste_2x36-polig_vergoldet_2_54-235638
+ 0.87 2x36 Stiftleiste https://www.reichelt.at/at/de/shop/produkt/stiftleiste_2x36-polig_vergoldet_2_54-235638
+ - 2x5 Stiftleiste mit Rahmen
+ 0.70 1x6 90° Pinsocket
+ 0.03 Jumper https://www.reichelt.at/at/de/shop/produkt/jumper_2_54_mm_geschlossen_schwarz-119946
+
+# Taster, Schalter
+ 0.32 6x6x5mm Taster https://www.reichelt.at/at/de/shop/produkt/kurzhubtaster_printmontage_1_schliesser_6_x_6_x_5_mm-360043
+ 0.30 6x6x8mm Taster
+- Tastenkappen
+- Ein/Ein Schalter
+
+# Montagematerial
+- M3 Schraube
+- M3 6mm Abstandhalter Buchse/Buchse
+- M3 8mm Abstandhalter Buchse/Buchse
+
+# Stecker
+- 90° Mini-DIN-8 Buchse
+- 90° D-Sub-9 Stecker
+- 90° D-Sub-15 Buchse
+- D-Sub-9 Buchse
+- D-Sub-9 Stecker
+- D-Sub-15 Buchse
+- D-Sub-15 Stecker
+- D-Sub-15 Gehäuse
+- D-Sub-9 Stecker für Flachbandkabel
+- D-Sub-15 Buchse für Flachbandkabel
+- D-Sub-15 Stecker für Flachbandkabel
+- 2x5 Pinsockel für Flachbandkabel
+
+# Kabel
+- 9 poliges Flachbandkabel, 1m
+- 15 poliges Flachbandkabel, 1m
+- 13 poliges Kabel, 1m
+
+# ICs
+- 556
+- 565
+- 4066
+- 4069
+- 6102
+- 6502 CPU
+- 74HCT04
+- 74LS654
+- 74LS00
+- 74LS04
+- 74LS06
+- 74LS38
+- 74LS145
+- 74LS125
+- CD4051B
+- LM311
+
+# IC Sockel
+- 8-Pol Sockel, schmal
+- 14-Pol Sockel, schmal
+- 16-Pol Sockel, schmal
+- 24-Pol Sockel, schmal
+0.49 28-Pol Sockel, breit https://www.reichelt.at/at/de/shop/produkt/ic-sockel_28-polig_superflach_gedreht_vergold_-8221
+- 40-Pol Sockel, breit
+
+# Sonstiges
+1.20 Platine
+- Ziffernblock
+- 7-Segment-Display
+
+# Sonderposten
+- GAL20V8
+- W65C51S
+- 6530 RRIOT
+2.56 27512 EPROM https://de.aliexpress.com/item/4000424706989.html
+3.30 27512 EPROM https://www.ebay.de/itm/275137449131
+ 2.90 Userport Stecker https://restore-store.de/home/298-userport-stecker-24-pin-hq-.html
+ 5.85 Userport Stecker Gehäuse https://restore-store.de/bauelemente/279-gehaeuse-fuer-userport-stecker.html
+ 8.00 DS3231 Modul https://www.ebay.de/itm/144333592919
