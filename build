@@ -9,18 +9,20 @@ import sys
 
 component_cost_pattern = r"^\s*(\S+)\s+(.*?)(http.*)?$"
 preamble_field_pattern = r"^(\S+):\s*(.*)$"
-component_pattern = r"^\s*([-.0-9]+)\s+(.*?)(€([0-9.]+))?$"
+component_pattern = r"^\s*([-.0-9]+)\s+(.*?)(€([-0-9.]+))?$"
 photo_pattern = r"^\s*([^:]*):\s+(.*)$"
 link_pattern = r"^\s*(.*?)(:(.*))?$"
 page_system_pattern =r"^\s*([^|]*)(\|(.*))?$"
 
 link_name_aliases = {
     "ibom": "Interakiver Bestückungsplan",
-    "home": "Projekt-Homepage"
+    "home": "Projekt-Homepage",
+    "schematics": "Schaltplan"
 }
 
 link_defaults = {
-    "ibom": "ibom.html"
+    "ibom": "ibom.html",
+    "schematics": "schematics.pdf"
 }
 
 seller_links = {
@@ -211,12 +213,13 @@ class Page:
         self.hidden = False
         self.systems = {}
         self.components = {}
+        self.components_names = []
         self.photos = []
         self.content = []
         self.links = []
     
     def write_html(self, file):
-        print(f'<html>\n<head>\n<meta charset="utf-8">\n<title>{self.title}</title>\n<link rel="stylesheet" href="../style.css">\n</head>\n<body>\n<h2>{self.title}</h2>', file=file)
+        print(f'<html>\n<head>\n<meta charset="utf-8">\n<title>{self.title}</title>\n<link rel="stylesheet" href="../style.css">\n</head>\n<body>\n<h1>{self.title}</h1>', file=file)
 
         if len(self.content) > 0:
             print(markdown.markdown("\n".join(self.content)), file=file)
@@ -238,7 +241,7 @@ class Page:
                 print(f'<img src="{photo.file}" alt="{photo.title}">', file=file)
             print('</p>', file=file)
 
-        for components_name in sorted(self.components.keys()):
+        for components_name in self.components_names:
             components = self.components[components_name]
             if components_name:
                 print(f'<h3 class="components">{components_name}</h3>', file=file)
@@ -255,6 +258,9 @@ class Page:
                 if price is not None:
                     if component.is_pcb():
                         total_pcb += price
+                        have_pcb = True
+                    else: 
+                        have_kit = True
                     total_kit += price
                 else:
                     if component.is_pcb():
@@ -263,8 +269,6 @@ class Page:
                 print(component.html(), file=file)
                 if component.is_pcb():
                     have_pcb = True
-                else:
-                    have_kit = True
             if have_pcb:
                 if unknown_pcb_price:
                     total_pcb_string = "—"
@@ -349,6 +353,8 @@ if not ok:
     sys.exit(1)
 
 for directory in [d.name for d in Path(".").iterdir() if d.is_dir()]:
+    if directory.startswith("."):
+        continue
     page = {}
     filename = f"{directory}/index.md"
     current_components_name = ""
@@ -382,6 +388,7 @@ for directory in [d.name for d in Path(".").iterdir() if d.is_dir()]:
                                 state = State(field)
                                 if field == "components":
                                     current_components_name = match.group(2)
+                                    page.components_names.append(current_components_name)
                             except:
                                 print(f"{filename}:{line_number}: Invalid preamble field '{field}'", file=sys.stderr)                                
                                 ok = False
@@ -401,16 +408,19 @@ for directory in [d.name for d in Path(".").iterdir() if d.is_dir()]:
 
                     name = match.group(2).rstrip()
                     price = None
+                    explicit_price = False
                     component_cost = None
                     if match.group(4):
                         try:
-                            price = float(match.group(4))
+                            explicit_price = True
+                            if match.group(4) != "-":
+                                price = float(match.group(4))
                         except:
                             print(f"{filename}:{line_number}: Invalid price '{match.group(4)}'", file=sys.stderr)
                             ok = False
                     if name in components:
                         component_cost = components[name]
-                    if price is None and component_cost is None:
+                    if not explicit_price and component_cost is None:
                         print(f"{filename}:{line_number}: Unknown component '{name}'", file=sys.stderr)
                         ok = False
                     if current_components_name not in page.components:

@@ -2,6 +2,19 @@ body {
     margin: 2ex;
 }
 
+h2.system-category {
+    font-size: 1.66em;
+    border-bottom: solid black 1px;
+    margin-right: 25%;
+}
+h3.system {
+    font-size: 1.5em;
+}
+
+div.links {
+    margin-bottom: 3em;
+}
+
 table.components {
     margin-left: 2ex;
     border-collapse: collapse;

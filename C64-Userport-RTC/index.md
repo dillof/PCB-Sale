@@ -1,4 +1,6 @@
 title: Commodore 64 Userport DS-3231 RTC Modul
+links:
+    ibom
 photos:
     IMG_6068.jpeg: aufgebaut
     IMG_6055.jpeg: Platine
@@ -8,7 +10,7 @@ components:
     1 DS3231 Modul
     1 6x6x5mm Taster
     2 2x8 Stiftleiste
-    1 1x6 90° Pinsocket
+    1 1x6 90° Buchsenleiste
     2 Jumper
 systems:
     Commodore 64 | 1

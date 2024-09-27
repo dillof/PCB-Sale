@@ -8,8 +8,8 @@ photos:
     IMG_6085.jpeg: Kabel
 components: Adapter
     1 Platine
-    1 1µF Kondensator
     5 100nF Kondensator
+    1 1µF Kondensator, 50V
     1 10-5 100Ω Widerstandnetzwerk
     8 6-5 4.7kΩ Widerstandnetzwerk
     5 CD4051B
@@ -26,3 +26,4 @@ systems:
     Commodore 64
     Commodore 16, Plus/4
 ---
+Mit diesem Adapter kann man 8 Joysticks am Userport anschließen. Mit entsprechendem Kabel ist er mit dem Plus/4 oder C64, C128, VC-20 kompatibel.

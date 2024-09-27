@@ -1,6 +1,7 @@
 title: Atari 2600 Keyboard Controller
 links:
     home: https://github.com/tebl/A2600-Keyboard
+    ibom
 photos:
     IMG_6083.jpeg: aufgebaut
     IMG_6081.jpeg: Platine
@@ -15,6 +16,7 @@ components: Controller
     12 Tastenkappen
     4 M3 8mm Abstandhalter Buchse/Buchse
     8 M3 Schraube
+    5 Gummifuß, 8mm
 components: Kabel
     0.3 9 poliges Flachbandkabel, 1m
     1 2x5 Pinsockel für Flachbandkabel

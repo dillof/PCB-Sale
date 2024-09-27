@@ -8,4 +8,4 @@ Der Versand erfolgt aus Österreich, bezahlung per PayPal für Freunde oder Bank
 
 Bei Interesse oder Fragen einfach bei [dillof auf Forum64](https://www.forum64.de/wcf/index.php?user/22674-dillof/) melden oder per email an [pcbs@tpau.group](mailto:pcbs@tpau.group).
 
-Die Seite befindet sich gerade im Aufbau, bei etlichen Platinen fehlen noch Informationen.
+Die Seite befindet sich gerade im Aufbau, bei etlichen Platinen fehlen noch Informationen, vor allem Komponentenpreise.
