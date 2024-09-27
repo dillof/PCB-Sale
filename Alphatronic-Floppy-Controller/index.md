@@ -11,7 +11,7 @@ components:
     1 470pF Kondensator
     1 4.7nF Kondensator
     6 100nF Kondensator
-    2 10µF Kondensator
+    2 10µF Elektrolytkondensator
     1 Kondensator C1 €-
     1 0.01 Kondensator C103 €-
     4 220Ω Widerstand

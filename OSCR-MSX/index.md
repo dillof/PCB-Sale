@@ -1,10 +1,17 @@
 title: Open Source Cart Reader Microsoft MSX Adapter
+links:
+    home: https://github.com/sanni/cartreader/discussions/354
 photos:
     IMG_5233.jpeg: aufgebaut
-    IMG_4962.jpeg: Platine
+    IMG_4963.jpeg: Platine
 components:
     1 Platine
+    1 MSX Modul Buchse
 systems:
     Open Source Cart Reader
     Microsoft MSX
 ---
+Mit diesem Adapter kann man MSX Module mit dem [Open Source Card Reader](https://github.com/sanni/cartreader) auslesen.
+
+Da der Adapter in die SNES Buchse passen soll, ist die Platine 1.2" dick. MSX Module passen nicht in normale 2x25 Edge Buchse, da die Ränder zu breit sind.
+

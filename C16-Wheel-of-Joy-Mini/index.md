@@ -3,12 +3,13 @@ links:
     home: https://github.com/SukkoPera/WheelOfJoyMini
     ibom
 photos:
+    IMG_6098.jpeg: aufgebaut
     IMG_5260.jpeg: Platine
     IMG_6085.jpeg: Kabel
 components: Adapter
     1 Platine
     3 100nF Kondensator SMD 0805
-    1 100µF Kondensator SMD
+    1 100µF Elektrolytkondensator SMD
     2 8-4 100Ω Widerstandnetzerk SMD 4x0603
     6 8-4 4.7kΩ Widerstandnetzerk SMD 4x0603
     3 74LS153 SMD
@@ -25,4 +26,3 @@ systems:
     Commodore 16, Plus/4
 ---
 Mit diesem Adapter kann man 4 Joysticks mit 2 Feuerknöpfen am Userport anschließen. Mit entsprechendem Kabel ist er mit dem Plus/4 oder C64, C128, VC-20 kompatibel. Der zweite Feuerknopf muss jedoch nach GND gehen (wie am Amiga üblich), nicht nach 5V (wie am C64 üblich).
-

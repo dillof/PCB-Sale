@@ -8,7 +8,7 @@ photos:
 components:
     2 Platine
     7 100nF Kondensator
-    1 10µF Kondensator
+    1 10µF Elektrolytkondensator
     6 10kΩ Widerstand
     2 1kΩ Widerstand
     1 330Ω Widerstand

@@ -1,22 +1,26 @@
 # Kondensator
 0.41 10pF Kondensator https://www.mouser.at/ProductDetail/KYOCERA-AVX/AR205A100K4R?qs=sGAEpiMZZMukHu%252BjC5l7YSWUFwlalwtTHZ3uCS25F2s%3D
 - 22pF Kondensator
+- 220pF Kondensator
 - 470pF Kondensator
 0.29 1nF Kondensator https://www.mouser.at/ProductDetail/Vishay-BC-Components/S102K33Y5PP63K5R?qs=QZe2IbIN4jcYj9YGE2FAhA%3D%3D
 - 1.8nF Kondensator
 - 2.2nF Kondensator
 - 4.7nF Kondensator
 0.29 6.8nF Kondensator https://www.mouser.at/ProductDetail/Vishay-BC-Components/VY2682M47Y5VS63V7?qs=Au78WOuo%252BOcNn5p21JIKhw%3D%3D
+- 10nF Kondensator
 0.15 22nF Kondensator https://www.mouser.at/ProductDetail/Vishay-BC-Components/K223K15X7RF5TH5?qs=sGAEpiMZZMsh%252B1woXyUXj06aKT2KSSfsxiN6wOPu7XU%3D
 0.16 47nF Kondensator https://www.mouser.at/ProductDetail/Vishay-Sprague/1C10X7R473K100B?qs=51PGSaDeb6gkLf%2FlGLLkCg%3D%3D
  0.03 100nF Kondensator https://www.reichelt.at/at/de/shop/produkt/vielschicht-kerko_100_nf_50_v_rm_5_125_c-246835
 0.17 220nF Kondensator https://www.mouser.at/ProductDetail/Vishay-BC-Components/K224K20X7RF5UH5?qs=ZjM2s42DDyaRFeud2n8Wuw%3D%3D
 0.25 330nF Kondensator https://www.mouser.at/ProductDetail/KYOCERA-AVX/SR215E334MARAP1?qs=urM7c0%2FbhXj%252BGR0gH7TDew%3D%3D
+- 1µF Kondensator
 0.57 1µF Kondensator, 50V https://www.mouser.at/ProductDetail/Elna/RSRJH221M1UF25300T?qs=4ASt3YYao0Wb%2FlIrQJshhg%3D%3D
-- 10µF Kondensator
+- 10µF Elektrolytkondensator
+- 100µF Elektrolytkondensator
  - 100nF Kondensator SMD 0805
  - 22µF Kondensator SMD 0805
-- 100µF Kondensator SMD
+- 100µF Elektrolytkondensator SMD
 
 # Widerstand
 0.04 47Ω Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_47_ohm_0207_250_mw_5_-1431
@@ -32,13 +36,16 @@
 0.04 3.3kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_3_3_kohm_0207_250_mw_5_-1397
 0.05 4.7kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_4_7_kohm_0207_250_mw_5_-1425
  - 10kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_metalloxyd_10_kohm_0207_1_0_w_5_-1779
+- 15kΩ Widerstand
 - 20kΩ Widerstand
+- 22kΩ Widerstand
 0.04 30kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_30_kohm_0207_250_mw_5_-1408
 - 33kΩ Widerstand
 0.04 47kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_47_kohm_0207_250_mw_5_-1434
 - 100kΩ Widerstand
 - 150kΩ Widerstand
 - 180kΩ Widerstand
+- 220kΩ Widerstand
  - 250kΩ Widerstand 
 0.04 330kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_330_kohm_0207_250_mw_5_-1411
  - 500kΩ Widerstand
@@ -57,6 +64,8 @@
 - 10-5 100Ω Widerstandnetzwerk
 - 5kΩ Potentiometer
 - 10kΩ Potentiometer
+- 47kΩ Potentiometer
+- 500kΩ Potentiometer
 - 1MΩ Potentiometer
 - 1kΩ Widerstand SMD 0805
 - 8-4 100Ω Widerstandnetzerk SMD 4x0603
@@ -79,6 +88,8 @@
 8.20 1MHz Quarz https://www.mouser.at/ProductDetail/ECS/ECS-10-13-1XH?qs=gmcn8Ik9O3EA6OnBIcszhg%3D%3D
 2.27 1.843MHz Quarz https://www.reichelt.at/at/de/shop/produkt/standardquarz_grundton_1_84_mhz-245394
 0.91 1.843MHz Quarz https://www.mouser.at/ProductDetail/ECS/ECS-18-13-1X?qs=CNVyLAqdhH0H%252Bb1%2FM0AXDg%3D%3D
+- 3MHz Quarz
+- 3.579545MHz Quarz
 
 # LEDs
 - 5mm LED, rot
@@ -105,6 +116,7 @@
 # Taster, Schalter
  0.32 6x6x5mm Taster https://www.reichelt.at/at/de/shop/produkt/kurzhubtaster_printmontage_1_schliesser_6_x_6_x_5_mm-360043
  0.30 6x6x8mm Taster
+ - 6x6x9mm Taster
 - 6x6x11mm Taster
 - Tastenkappen
 - 1xEin/Ein Schalter SMD
@@ -120,6 +132,7 @@
 0.14 Gummifuß, 8mm https://www.reichelt.at/at/de/shop/produkt/gummifuesse_8_x_2_8_mm_schwarz_56_stueck-225123
 
 # Stecker
+- 90° DIN-5 Buchse
 - Mini-DIN-8 Stecker
 - 90° Mini-DIN-8 Buchse
 - 90° 3.5" Stereo-Klinke Buchse
@@ -181,6 +194,10 @@
 - CD4051B
 - CD74HCT452
 0.40 LM311 https://www.reichelt.at/at/de/shop/produkt/hochgeschwindigkeits-differentialkomparator_1-fach_dip-8-187489
+- LM324
+- TLC272
+- 6N138
+
 - 74LS153 SMD
 
 # IC Sockel
@@ -204,6 +221,7 @@
 - GAL20V8
 - W65C51S
 - 6530 RRIOT
+- 6551 CIA
 - 6581 SID
 - 8580 SID
 0.91 6532 RIOT https://de.aliexpress.com/item/1005007119328718.html
@@ -218,8 +236,14 @@
  5.85 Userport Stecker Gehäuse https://restore-store.de/bauelemente/279-gehaeuse-fuer-userport-stecker.html
  - ZX-Spectrum Expansion Port Stecker
  8.00 DS3231 Modul https://www.ebay.de/itm/144333592919
+ - 2x12 Edge Buchse
+ - 2x18 Edge Buchse
  - 2x22 Edge Buchse
  - 2x43 Edge Buchse
+ - MSX Modul Buchse
 - µPD765A
 - MT3608 Spannungwandler
 - Ferritperle 998Ω 100MHz
+- YM3014
+- YM3526
+- Arduino Pro Micro

@@ -10,7 +10,7 @@ components: 6581
     1 1nF Kondensator
     2 1.8nF Kondensator
     7 100nF Kondensator
-    2 10µF Kondensator
+    2 10µF Elektrolytkondensator
     3 100Ω Widerstand
     2 1kΩ Widerstand
     1 10kΩ Widerstand
@@ -42,7 +42,7 @@ components: 8580
     2 2.2nF Kondensator
     2 22nF Kondensator
     7 100nF Kondensator
-    2 10µF Kondensator
+    2 10µF Elektrolytkondensator
     3 100Ω Widerstand
     2 1kΩ Widerstand
     1 10kΩ Widerstand
@@ -74,7 +74,7 @@ components: Nachbau mit nur 5V
     2 2.2nF Kondensator
     2 22nF Kondensator
     7 100nF Kondensator
-    2 10µF Kondensator
+    2 10µF Elektrolytkondensator
     3 100Ω Widerstand
     2 1kΩ Widerstand
     1 10kΩ Widerstand
