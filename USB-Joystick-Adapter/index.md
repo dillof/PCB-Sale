@@ -14,7 +14,7 @@ components:
     1 330Ω Widerstand
     4 220kΩ Widerstand
     1 6x6x5mm Taster
-    1 6x6x9mm Taster
+    1 6x6x9.5mm Taster
     8 M3 Schraube
     4 M3 8mm Abstandhalter Buchse/Buchse
 systems:

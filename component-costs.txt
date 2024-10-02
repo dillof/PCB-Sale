@@ -1,73 +1,83 @@
 # Kondensator
+0.06 10pF Kondensator https://www.reichelt.at/at/de/shop/produkt/keramik-kondensator_10p-9268
 0.41 10pF Kondensator https://www.mouser.at/ProductDetail/KYOCERA-AVX/AR205A100K4R?qs=sGAEpiMZZMukHu%252BjC5l7YSWUFwlalwtTHZ3uCS25F2s%3D
-- 22pF Kondensator
-- 220pF Kondensator
-- 470pF Kondensator
+- 16pF Kondensator
+0.04 22pF Kondensator https://www.reichelt.at/at/de/shop/produkt/keramik-kondensator_22_pf_10_npo_500_v_rm_5-9330
+0.04 47pF Kondensator https://www.reichelt.at/at/de/shop/produkt/keramik-kondensator_500v_47p-9343
+0.04 220pF Kondensator https://www.reichelt.at/at/de/shop/produkt/keramik-kondensator_220_pf_10_y5p_500_v_rm_5-9329
+0.04 470pF Kondensator https://www.reichelt.at/at/de/shop/produkt/keramik-kondensator_470_pf_10_y5p_500_v_rm_5-9342
 0.29 1nF Kondensator https://www.mouser.at/ProductDetail/Vishay-BC-Components/S102K33Y5PP63K5R?qs=QZe2IbIN4jcYj9YGE2FAhA%3D%3D
-- 1.8nF Kondensator
-- 2.2nF Kondensator
-- 4.7nF Kondensator
-0.29 6.8nF Kondensator https://www.mouser.at/ProductDetail/Vishay-BC-Components/VY2682M47Y5VS63V7?qs=Au78WOuo%252BOcNn5p21JIKhw%3D%3D
-- 10nF Kondensator
+0.07 1.8nF Kondensator https://www.reichelt.at/at/de/shop/produkt/keramik-kondensator_500v_1_8n-9314
+0.04 2.2nF Kondensator https://www.reichelt.at/at/de/shop/produkt/kerko-scheibe_2_2_nf_z5u_20_500v_rm_5_08-9325
+0.05 4.7nF Kondensator https://www.reichelt.at/at/de/shop/produkt/keramik-kondensator_500v_4_7n-9340
+0.05 6.8nF Kondensator https://www.reichelt.at/at/de/shop/produkt/kerko-scheibe_6_8_nf_y5v_-20_80_500v_rm_5_08-9348
+0.05 10nF Kondensator https://www.reichelt.at/at/de/shop/produkt/kerko-scheibe_6_8_nf_y5v_-20_80_500v_rm_5_08-9348
+0.06 22nF Kondensator https://www.reichelt.at/at/de/shop/produkt/keramik-kondensator_22n-9280
 0.15 22nF Kondensator https://www.mouser.at/ProductDetail/Vishay-BC-Components/K223K15X7RF5TH5?qs=sGAEpiMZZMsh%252B1woXyUXj06aKT2KSSfsxiN6wOPu7XU%3D
+0.10 47nF Kondensator https://www.reichelt.at/at/de/shop/produkt/keramik-kondensator_47n_63_vdc_rm_5_mm-9296
 0.16 47nF Kondensator https://www.mouser.at/ProductDetail/Vishay-Sprague/1C10X7R473K100B?qs=51PGSaDeb6gkLf%2FlGLLkCg%3D%3D
- 0.03 100nF Kondensator https://www.reichelt.at/at/de/shop/produkt/vielschicht-kerko_100_nf_50_v_rm_5_125_c-246835
+0.03 100nF Kondensator https://www.reichelt.at/at/de/shop/produkt/vielschicht-kerko_100_nf_50_v_rm_5_125_c-246835
 0.17 220nF Kondensator https://www.mouser.at/ProductDetail/Vishay-BC-Components/K224K20X7RF5UH5?qs=ZjM2s42DDyaRFeud2n8Wuw%3D%3D
 0.25 330nF Kondensator https://www.mouser.at/ProductDetail/KYOCERA-AVX/SR215E334MARAP1?qs=urM7c0%2FbhXj%252BGR0gH7TDew%3D%3D
-- 1µF Kondensator
-0.57 1µF Kondensator, 50V https://www.mouser.at/ProductDetail/Elna/RSRJH221M1UF25300T?qs=4ASt3YYao0Wb%2FlIrQJshhg%3D%3D
-- 10µF Elektrolytkondensator
-- 100µF Elektrolytkondensator
- - 100nF Kondensator SMD 0805
- - 22µF Kondensator SMD 0805
-- 100µF Elektrolytkondensator SMD
+0.14 1µF Eletrolytkondensator https://www.reichelt.at/at/de/shop/produkt/elko_radial_10_f_50_v_rm_2_85_c_2000_h_20_-228347
+0.14 1µF Eletrolytkondensator, 50V https://www.reichelt.at/at/de/shop/produkt/elko_radial_10_f_50_v_rm_2_85_c_2000_h_20_-228347
+0.57 1µF Eletrolytkondensator, 50V https://www.mouser.at/ProductDetail/Elna/RSRJH221M1UF25300T?qs=4ASt3YYao0Wb%2FlIrQJshhg%3D%3D
+0.13 10µF Elektrolytkondensator https://www.reichelt.at/at/de/shop/produkt/elko_radial_10_f_25_v_rm_2_85_c_2000_h_20_-228345
+0.16 22µF Elektrolytkondensator https://www.reichelt.at/at/de/shop/produkt/elko_radial_22_f_50_v_rm_2_5_85_c_2000_h_20_-228348
+0.13 47µF Elektrolytkondensator https://www.reichelt.at/at/de/shop/produkt/elko_radial_47_f_16_v_rm_2_5_85_c_2000_h_20_-228353
+0.15 100µF Elektrolytkondensator https://www.reichelt.at/at/de/shop/produkt/elko_radial_100_f_16_v_rm_2_5_85_c_1000_h_20_-228311
+0.16 220µF Elektrolytkondensator https://www.reichelt.at/at/de/shop/produkt/elko_radial_220_f_6_3_v_rm_2_5_85_c_1000_h_20_-228309
+0.02 100nF Kondensator SMD 0805 https://www.reichelt.at/at/de/shop/produkt/vielschicht-kerko_100nf_50v_125_c-207073
+0.30 22µF Kondensator SMD 0805 https://www.reichelt.at/at/de/shop/produkt/smd-vielschicht_0805_22_f_x5r_10_6_3v_85_c-207090
+0.18 100µF Elektrolytkondensator SMD https://www.reichelt.at/at/de/shop/produkt/smd-elko_100_f_25v_105_c_2000h-275869
 
 # Widerstand
 0.04 47Ω Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_47_ohm_0207_250_mw_5_-1431
 0.03 82Ω Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_82_ohm_0207_250_mw_5_-1473
 0.03 100Ω Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_100_ohm_0207_250_mw_5_-1336
-- 150Ω Widerstand
+- 150Ω Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_150_ohm_0207_250_mw_5_-1354
 0.04 220Ω Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_220_ohm_0207_250_mw_5_-1382
-- 330Ω Widerstand
+0.04 330Ω Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_300_ohm_0207_250_mw_5_-1406
 0.03 560Ω Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_560_ohm_0207_250_mw_5_-1446
-- 620Ω Widerstand
+0.03 620Ω Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_620_ohm_0207_250_mw_5_-1456
 0.04 1kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_1_0_kohm_0207_250_mw_5_-1315
 0.04 2.2kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_2_2_kohm_0207_250_mw_5_-1369
 0.04 3.3kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_3_3_kohm_0207_250_mw_5_-1397
 0.05 4.7kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_4_7_kohm_0207_250_mw_5_-1425
- - 10kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_metalloxyd_10_kohm_0207_1_0_w_5_-1779
-- 15kΩ Widerstand
-- 20kΩ Widerstand
-- 22kΩ Widerstand
+0.04 10kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_10_kohm_0207_250_mw_5_-1338
+0.04 15kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_15_kohm_0207_250_mw_5_-1356
+0.04 20kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_20_kohm_0207_250_mw_5_-1380
+0.04 22kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_22_kohm_0207_250_mw_5_-1384
 0.04 30kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_30_kohm_0207_250_mw_5_-1408
-- 33kΩ Widerstand
+0.05 33kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_33_kohm_0207_250_mw_5_-1412
 0.04 47kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_47_kohm_0207_250_mw_5_-1434
-- 100kΩ Widerstand
-- 150kΩ Widerstand
-- 180kΩ Widerstand
-- 220kΩ Widerstand
+0.04 100kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_100_kohm_0207_250_mw_5_-1337
+0.04 150kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_150_kohm_0207_250_mw_5_-1355
+0.04 180kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_180_kohm_0207_250_mw_5_-1363
+0.04 220kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_220_kohm_0207_250_mw_5_-1383
  - 250kΩ Widerstand 
 0.04 330kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_330_kohm_0207_250_mw_5_-1411
  - 500kΩ Widerstand
- - 560kΩ Widerstand
- - 1MΩ Widerstand
+0.03 560kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_560_kohm_0207_250_mw_5_-1447
+0.04 1MΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_1_0_mohm_0207_250_mw_5_-1316
 - 50MΩ Widerstand
 0.08 5-4 4.7kΩ Widerstandnetzwerk https://www.reichelt.at/at/de/shop/produkt/widerstandsnetzwerk_4_7_kohm_sternschaltung_4wid_5pins-17707
-- 6-5 4.7kΩ Widerstandnetzwerk
-- 6-5 10kΩ Widerstandnetzwerk
-- 9-8 220Ω Widerstandnetzwerk
-- 9-8 330Ω Widerstandnetzwerk
-- 9-8 4.7kΩ Widerstandnetzwerk
+0.07 6-5 4.7kΩ Widerstandnetzwerk https://www.reichelt.at/at/de/shop/produkt/widerstandsnetzwerk_4_7_kohm_sternschaltung_5wid_6pins-17821
+0.07 6-5 10kΩ Widerstandnetzwerk https://www.reichelt.at/at/de/shop/produkt/widerstandsnetzwerk_5_x_10_kohm_2_sil-6-17791
+0.10 9-8 220Ω Widerstandnetzwerk https://www.reichelt.at/at/de/shop/produkt/widerstandsnetzwerk_220_ohm_sternschaltung_8wid_9pins-18032
+0.10 9-8 330Ω Widerstandnetzwerk https://www.reichelt.at/at/de/shop/produkt/widerstandsnetzwerk_330_ohm_sternschaltung_8wid_9pins-18042
+0.10 9-8 4.7kΩ Widerstandnetzwerk https://www.reichelt.at/at/de/shop/produkt/widerstandsnetzwerk_8_x_4_7_kohm_2_sil-9-18049
  0.09 9-8 8.2kΩ Widerstandsnetzwerk https://www.reichelt.at/at/de/shop/produkt/widerstandsnetzwerk_8_2_kohm_sternschaltung_8wid_9pins-18064
  - 4-3 10kΩ Widerstandnetzwerk
-- 8-4 1kΩ Widerstandnetzwerk
-- 10-5 100Ω Widerstandnetzwerk
+0.09 8-4 1kΩ Widerstandnetzwerk https://www.reichelt.at/at/de/shop/produkt/widerstandsnetzwerk_einzelwiderstaende_1_0_kohm_4wid_8pins-17898
+0.05 10-5 100Ω Widerstandnetzwerk https://www.reichelt.at/at/de/shop/produkt/widerstandsnetzwerk_einzelwiderstaende_100_ohm_4wid_8pins-17903
 - 5kΩ Potentiometer
 - 10kΩ Potentiometer
 - 47kΩ Potentiometer
 - 500kΩ Potentiometer
 - 1MΩ Potentiometer
 - 1kΩ Widerstand SMD 0805
+- 3.3kΩ Widerstand SMD 0805
 - 8-4 100Ω Widerstandnetzerk SMD 4x0603
 - 8-4 4.7kΩ Widerstandnetzerk SMD 4x0603
 
@@ -76,23 +86,24 @@
 0.03 1N4001 Diode https://www.reichelt.at/at/de/shop/produkt/gleichrichterdiode_50_v_1_a_do-41-1723
 0.02 1N4148 Diode https://www.reichelt.at/at/de/shop/produkt/schalt-diode_100_v_150_ma_do-35-1730
 0.09 1N4735 Diode https://www.mouser.at/ProductDetail/onsemi-Fairchild/1N4735A?qs=SSucg2PyLi5YUnIaMJAttg%3D%3D
+0.05 1N5711 Diode https://www.reichelt.at/at/de/shop/produkt/schottkydiode_70_v_0_015_a_do-35-220392
 
 # Transistor
-- 2N3904 Transistor
-0.5 2N3906 Transistor https://www.reichelt.at/at/de/shop/produkt/bipolartransistor_pnp_40v_0_2a_0_5w_to-92-2022
+0.05 2N3904 Transistor https://www.reichelt.at/at/de/shop/produkt/bipolartransistor_npn_40v_0_2a_0_5w_to-92-2020
+0.05 2N3906 Transistor https://www.reichelt.at/at/de/shop/produkt/bipolartransistor_pnp_40v_0_2a_0_5w_to-92-2022
 0.10 BC327 Transistor https://www.mouser.at/ProductDetail/Diotec-Semiconductor/BC327-40?qs=OlC7AqGiEDk3RFYgk5gWUg%3D%3D
 0.10 BC338 Transistor https://www.mouser.at/ProductDetail/Diotec-Semiconductor/BC338-16?qs=OlC7AqGiEDkbTGBbt22t1g%3D%3D
-- BC549C Transistor
+0.03 BC549C Transistor https://www.reichelt.at/at/de/shop/produkt/bipolartransistor_npn_30v_0_1a_0_625w_to-92-219127
 
 # Oszilator
 8.20 1MHz Quarz https://www.mouser.at/ProductDetail/ECS/ECS-10-13-1XH?qs=gmcn8Ik9O3EA6OnBIcszhg%3D%3D
 2.27 1.843MHz Quarz https://www.reichelt.at/at/de/shop/produkt/standardquarz_grundton_1_84_mhz-245394
 0.91 1.843MHz Quarz https://www.mouser.at/ProductDetail/ECS/ECS-18-13-1X?qs=CNVyLAqdhH0H%252Bb1%2FM0AXDg%3D%3D
-- 3MHz Quarz
-- 3.579545MHz Quarz
+0.47 3MHz Quarz https://www.reichelt.at/at/de/shop/produkt/standardquarz_grundton_3_000000_mhz-2388
+0.23 3.579545MHz Quarz https://www.reichelt.at/at/de/shop/produkt/standardquarz_grundton_3_579545_mhz-32836
 
 # LEDs
-- 5mm LED, rot
+0.05 5mm LED, rot https://www.reichelt.at/at/de/shop/produkt/led_5mm_bedrahtet_rot_350_mcd_60_-361630
 
 # Stiftleiste
 0.02 1x1 Stiftleiste https://www.reichelt.at/at/de/shop/produkt/stiftleiste_36_polig_vergoldet_2_54mm-235640
@@ -100,27 +111,34 @@
 0.05 1x3 Stiftleiste https://www.reichelt.at/at/de/shop/produkt/stiftleiste_36_polig_vergoldet_2_54mm-235640
 0.07 1x4 Stiftleiste https://www.reichelt.at/at/de/shop/produkt/stiftleiste_36_polig_vergoldet_2_54mm-235640
 0.63 1x36 Stiftleiste https://www.reichelt.at/at/de/shop/produkt/stiftleiste_36_polig_vergoldet_2_54mm-235640
-- 1x20 Stiftleiste rund
-- 2x4 Stiftleiste
- 0.20 2x8 Stiftleiste https://www.reichelt.at/at/de/shop/produkt/stiftleiste_2x36-polig_vergoldet_2_54-235638
-- 2x17 Stiftleiste
- 0.87 2x36 Stiftleiste https://www.reichelt.at/at/de/shop/produkt/stiftleiste_2x36-polig_vergoldet_2_54-235638
- - 2x5 Stiftleiste mit Rahmen
- - 90° 1x2 Stiftleiste
- - 90° 1x3 Stiftleiste
- - 1x40 Buchsenleiste
- 0.70 1x6 90° Buchsenleiste
- - 90° 2x25 Buchsenleiste
- 0.03 Jumper https://www.reichelt.at/at/de/shop/produkt/jumper_2_54_mm_geschlossen_schwarz-119946
+8.64 1x20 Stiftleiste rund https://www.reichelt.at/at/de/shop/produkt/stiftleisten_2_54_1x50_0_5_mm_vergoldet-292537
+21.58 1x50 Stiftleiste rund https://www.reichelt.at/at/de/shop/produkt/stiftleisten_2_54_1x50_0_5_mm_vergoldet-292537
+0.10 2x4 Stiftleiste https://www.reichelt.at/at/de/shop/produkt/stiftleiste_2x36-polig_vergoldet_2_54-235638
+0.20 2x8 Stiftleiste https://www.reichelt.at/at/de/shop/produkt/stiftleiste_2x36-polig_vergoldet_2_54-235638
+0.41 2x17 Stiftleiste  https://www.reichelt.at/at/de/shop/produkt/stiftleiste_2x36-polig_vergoldet_2_54-235638
+0.87 2x36 Stiftleiste https://www.reichelt.at/at/de/shop/produkt/stiftleiste_2x36-polig_vergoldet_2_54-235638
+0.06 90° 1x2 Stiftleiste https://www.reichelt.at/at/de/shop/produkt/stiftleiste_36-polig_gewinkelt_vergold_-235643
+0.08 90° 1x3 Stiftleiste https://www.reichelt.at/at/de/shop/produkt/stiftleiste_36-polig_gewinkelt_vergold_-235643
+0.94 90° 1x36 Stiftleiste https://www.reichelt.at/at/de/shop/produkt/stiftleiste_36-polig_gewinkelt_vergold_-235643
+1.51 2x5 Stiftleiste mit Rahmen https://www.reichelt.at/at/de/shop/produkt/stifftleiste_10_pol_stifte_din_41651-224943
+- 2x20 Stiftleiste mit Rahmen
+- 90° 2x17 Stiftleiste mit Rahmen
+2.17 1x40 Buchsenleiste https://www.reichelt.at/at/de/shop/produkt/praezisionsbuchsenleiste_40-pol_vergold_-235679
+0.67 90° 1x6 Buchsenleiste https://www.reichelt.at/at/de/shop/produkt/praezisionsbuchsenleiste_gewinkelt_rm_2_54_40-polig-330903
+4.44 90° 1x40 Buchsenleiste https://www.reichelt.at/at/de/shop/produkt/praezisionsbuchsenleiste_gewinkelt_rm_2_54_40-polig-330903
+6.66 90° 2x25 Buchsenleiste https://www.reichelt.at/at/de/shop/produkt/praezisionsbuchsenleiste_gewinkelt_rm_2_54_2x50-polig-330906
+13.31 90° 2x50 Buchsenleiste https://www.reichelt.at/at/de/shop/produkt/praezisionsbuchsenleiste_gewinkelt_rm_2_54_2x50-polig-330906
+0.03 Jumper https://www.reichelt.at/at/de/shop/produkt/jumper_2_54_mm_geschlossen_schwarz-119946
 
 # Taster, Schalter
- 0.32 6x6x5mm Taster https://www.reichelt.at/at/de/shop/produkt/kurzhubtaster_printmontage_1_schliesser_6_x_6_x_5_mm-360043
- 0.30 6x6x8mm Taster
- - 6x6x9mm Taster
+0.32 6x6x5mm Taster https://www.reichelt.at/at/de/shop/produkt/kurzhubtaster_printmontage_1_schliesser_6_x_6_x_5_mm-360043
+0.20 6x6x8mm Taster https://www.reichelt.at/at/de/shop/produkt/kurzhubtaster_6x6mm_hoehe_8_0mm_1_schliesser-375520
+0.30 6x6x9.5mm Taster https://www.reichelt.at/at/de/shop/produkt/kurzhubtaster_printmontage_1_schliesser_6_x_6_x_9_5_mm-360048
 - 6x6x11mm Taster
+0.20 6x6x13mm Taster https://www.reichelt.at/at/de/shop/produkt/kurzhubtaster_6x6_mm_hoehe_13_mm_12_v_vert_-27894
 - Tastenkappen
-- 1xEin/Ein Schalter SMD
-- 2xEin/Ein Schalter
+0.77 90° 1xEin/Ein Schalter SMD https://www.reichelt.at/at/de/shop/produkt/schiebeschalter_1x_um_liegend_smd-112181
+4.69 2xEin/Ein Schalter https://www.reichelt.at/at/de/shop/produkt/schiebeschalter_gerade_rm2_54_-_2x_ein_-_ein-105711
 
 # Montagematerial
 - M3 Schraube
@@ -132,29 +150,36 @@
 0.14 Gummifuß, 8mm https://www.reichelt.at/at/de/shop/produkt/gummifuesse_8_x_2_8_mm_schwarz_56_stueck-225123
 
 # Stecker
-- 90° DIN-5 Buchse
-- Mini-DIN-8 Stecker
-- 90° Mini-DIN-8 Buchse
+1.51 90° DIN-5 Buchse https://www.reichelt.at/at/de/shop/produkt/din-buchse_5-polig_halbrund_printausfuehrung-11178
+0.61 DIN-6 Stecker https://www.reichelt.at/at/de/shop/produkt/din-stecker_6-polig-11200
+1.41 Mini-DIN-8 Stecker https://www.reichelt.at/at/de/shop/produkt/mini-din-stecker_-_8-pol-17459
+0.30 90° Mini-DIN-8 Buchse https://www.reichelt.at/at/de/shop/produkt/mini-din-printbuchse_8-polig-7284
 - 90° 3.5" Stereo-Klinke Buchse
-- 90° D-Sub-9 Buchse
-- 90° D-Sub-9 Stecker
-- 90° D-Sub-15 Buchse
-- D-Sub-9 Buchse
-- D-Sub-9 Stecker
-- D-Sub-15 Buchse
-- D-Sub-15 Stecker
-- D-Sub-15 Gehäuse
-- D-Sub-9 Stecker für Flachbandkabel
+0.35 90° D-Sub-9 Buchse https://www.reichelt.at/at/de/shop/produkt/d-sub-buchse_9-polig_gewinkelt_rm_7_2-6954
+0.36 90° D-Sub-9 Stecker https://www.reichelt.at/at/de/shop/produkt/d-sub-stecker_9-polig_gewinkelt-6992
+0.48 90° D-Sub-15 Buchse https://www.reichelt.at/at/de/shop/produkt/d-sub-buchse_15-polig_gewinkelt_rm_7_2-6962
+0.44 90° D-Sub-15 Stecker https://www.reichelt.at/at/de/shop/produkt/d-sub-stecker_15-polig_gewinkelt_rm_7_2-6998
+0.40 90° D-Sub-15-HD Buchse https://www.reichelt.at/at/de/shop/produkt/d-sub-buchse_high_density_15-polig_print_gew_-8506
+0.20 D-Sub-9 Buchse https://www.reichelt.at/at/de/shop/produkt/d-sub-buchse_9-polig_loetkelch-6948
+0.20 D-Sub-9 Stecker https://www.reichelt.at/at/de/shop/produkt/d-sub-stecker_9-polig_loetkelch-6985
+0.24 D-Sub-9 Stecker mit Pins https://www.reichelt.at/at/de/shop/produkt/d-sub-stecker_9-polig_printausfuehrung-17626
+0.26 D-Sub-15 Buchse https://www.reichelt.at/at/de/shop/produkt/d-sub-buchse_15-polig_loetkelch_weiss-241278
+0.35 D-Sub-15 Stecker https://www.reichelt.at/at/de/shop/produkt/d-sub-stecker_15-polig_loetkelch-6993
+0.80 D-Sub-9 Gehäuse https://www.reichelt.at/at/de/shop/produkt/d-sub-kappe_9_polig_grau-235623
+0.87 D-Sub-15 Gehäuse https://www.reichelt.at/at/de/shop/produkt/d-sub-kappe_15_polig_grau-235624
+0.64 D-Sub-9 Stecker für Flachbandkabel https://www.reichelt.at/at/de/shop/produkt/d-sub-stecker_9-pol_flachbandkabel_mit_isolator-259833
 0.81 D-Sub-9 Buchse für Flachbandkabel https://www.reichelt.at/at/de/shop/produkt/d-sub-buchse_9-pol_flachbandkabel_ohne_isolator-6951
 0.75 D-Sub-15 Buchse für Flachbandkabel https://www.reichelt.at/at/de/shop/produkt/d-sub-buchse_15-pol_flachbandkabel_mit_isolator-259836
 0.74 D-Sub-15 Stecker für Flachbandkabel https://www.reichelt.at/at/de/shop/produkt/d-sub-stecker_15-pol_flachbandkabel_mit_isolator-259837
-- 2x5 Pinsockel für Flachbandkabel
+1.00 2x5 Pinsockel für Flachbandkabel https://www.reichelt.at/at/de/shop/produkt/pfostenbuchse_-_10-pol_rm_2_54_mm-175337
+0.31 2x5 Zugentlastung für Flachbandkabel https://www.reichelt.at/at/de/shop/produkt/zugentlastungsbuegel_10polig-201026
 
 # Kabel
 1.16 9 poliges Flachbandkabel, 1m https://www.reichelt.at/at/de/shop/produkt/flachbandkabel_awg28_9-pol_grau_3m-ring-47636
 0.87 15 poliges Flachbandkabel, 1m https://www.reichelt.at/at/de/shop/produkt/flachbandkabel_awg28_16-pol_grau_3m-ring-47640
 0.87 16 poliges Flachbandkabel, 1m https://www.reichelt.at/at/de/shop/produkt/flachbandkabel_awg28_16-pol_grau_3m-ring-47640
-- 8 poliges Kabel, 1m
+1.18 6 poliges Kabel, 1m https://www.reichelt.at/at/de/shop/produkt/steuerleitung_6x0_14mm_geschirmt_5m-ring-10308
+1.15 8 poliges Kabel, 1m https://www.reichelt.at/at/de/shop/produkt/steuerleitung_8x0_14mm_geschirmt_5m-ring-10313
 1.68 13 poliges Kabel, 1m https://www.reichelt.at/at/de/shop/produkt/steuerleitung_14x0_14mm_geschirmt_5m-ring-10323
 1.68 14 poliges Kabel, 1m https://www.reichelt.at/at/de/shop/produkt/steuerleitung_14x0_14mm_geschirmt_5m-ring-10323
 
@@ -165,38 +190,41 @@
 0.68 4069 https://www.reichelt.at/at/de/shop/produkt/inverter_hex_3_15_v_dip-14-12622
 - 6102
 - 6502 CPU
-- 74HCT04
-- 74HCT245
+- 74HCT01
+0.58 74HCT04 https://www.reichelt.at/at/de/shop/produkt/inverter_hex_4_5_5_5_v_dil-14-3306
+0.89 74HCT245 https://www.reichelt.at/at/de/shop/produkt/octal_bus_puffer_3-state_4_5_5_5_v_dil-20-3356
+- 74HCT374
 0.65 74LS00 https://www.reichelt.at/at/de/shop/produkt/vierfach_2-eingangs-positive-nand-gatter_dil-14-216916
+0.65 74LS00N https://www.reichelt.at/at/de/shop/produkt/vierfach_2-eingangs-positive-nand-gatter_dil-14-216916
 - 74LS02
 0.96 74LS04 https://www.reichelt.at/at/de/shop/produkt/inverter_hex_4_75_5_25_v_dil-14-10588
 0.82 74LS06 https://www.reichelt.at/at/de/shop/produkt/inverter_hex_4_75_5_25_v_dil-14-10590
 - 74LS07
-- 74LS08
+0.77 74LS08 https://www.reichelt.at/at/de/shop/produkt/and-gate_2_element_4_75_5_25_v_dil-14-219262
 - 74LS10
-- 74LS14
+0.65 74LS14 https://www.reichelt.at/at/de/shop/produkt/hex_4_75_5_25_v_dil-14_6-fach_schmitt-trigger-217326
 - 74LS27
-- 74LS32
+0.72 74LS32 https://www.reichelt.at/at/de/shop/produkt/or-gate_2-input_4_75_5_25_v_dil-14-216699
 0.24 74LS38 https://www.reichelt.at/at/de/shop/produkt/nand-gate_2-input_4_75_5_25_v_dil-14-10722
-- 74LS74
+0.68 74LS74 https://www.reichelt.at/at/de/shop/produkt/flip-flop_d-type_lp-schottky_4_75_5_25_v_dil-14-10820
 - 74LS95
 0.23 74LS125 https://www.reichelt.at/at/de/shop/produkt/buffer_3-state_4_75_5_25_v_dil-14-10606
 0.86 74LS138 https://www.reichelt.at/at/de/shop/produkt/decoder_demultiplexer_3_8_4_75_5_25_v_dip-16-216887
 - 74LS139
 1.21 74LS145 https://www.reichelt.at/at/de/shop/produkt/bcd-zu-dezimal-decoder_treiber_10_ausgaenge_5_v_dil-16-216939
-- 74LS244
-- 74LS245
-- 74LS273
-- 74LS368
+1.21 74LS244 https://www.reichelt.at/at/de/shop/produkt/buffer_3-state_8-ch_4_75_5_25_v_dil-20-216948
+- 74LS245 
+1.11 74LS273 https://www.reichelt.at/at/de/shop/produkt/flip-flop_d-type_octal_4_75_5_25_v_dil-20-219525
+0.27 74LS368 https://www.reichelt.at/at/de/shop/produkt/buffer_3-state_4_75_5_25_v_dil-16-10714
 - 74LS621
 - 74LS654
-- 74HCT374
+- 74LVC245A
 - CD4051B
 - CD74HCT452
 0.40 LM311 https://www.reichelt.at/at/de/shop/produkt/hochgeschwindigkeits-differentialkomparator_1-fach_dip-8-187489
-- LM324
-- TLC272
-- 6N138
+0.24 LM324 https://www.reichelt.at/at/de/shop/produkt/operationsverstaerker_4-fach_dip-14-10463
+1.82 TLC272 https://www.reichelt.at/at/de/shop/produkt/operationsverstaerker_2-fach_3_6_v_s_1_7_mhz_dip-8-188980
+0.57 6N138 https://www.reichelt.at/at/de/shop/produkt/optokoppler-2859
 
 - 74LS153 SMD
 
@@ -205,10 +233,11 @@
 0.30 8-Pol Sockel, schmal https://www.reichelt.at/at/de/shop/produkt/ic-sockel_8-polig_superflach_gedreht-8231
 0.25 14-Pol Sockel, schmal https://www.reichelt.at/at/de/shop/produkt/ic-sockel_14-polig_superflach_gedreht_vergold_-8207
 0.25 16-Pol Sockel, schmal https://www.reichelt.at/at/de/shop/produkt/ic-sockel_14-polig_superflach_gedreht_vergold_-8207
-- 20-Pol Sockel, schmal
+1.11 20-Pol Sockel, schmal https://www.reichelt.at/at/de/shop/produkt/praezisionsfassung_20_polig_rm_2_54-213782
 0.43 24-Pol Sockel, schmal https://www.reichelt.at/at/de/shop/produkt/ic-sockel_24-polig_superflach_gedreht_schmal-8219
 0.43 24-Pol Sockel, breit https://www.reichelt.at/at/de/shop/produkt/ic-sockel_24-polig_superflach_gedreht_vergold_-8218
 0.49 28-Pol Sockel, breit https://www.reichelt.at/at/de/shop/produkt/ic-sockel_28-polig_superflach_gedreht_vergold_-8221
+1.56 32-Pol Sockel, breit https://www.reichelt.at/at/de/shop/produkt/praezisionsfassung_32_polig_rm_2_54-213787
 0.71 40-Pol Sockel, breit https://www.reichelt.at/at/de/shop/produkt/ic-sockel_40-polig_superflach_gedreht_vergold_-8225
 
 # Sonstiges
@@ -247,3 +276,7 @@
 - YM3014
 - YM3526
 - Arduino Pro Micro
+8.50 Waveshare Pico LCD 1.3 https://www.welectron.com/Waveshare-19650-Pico-LCD-13
+4.80 Raspberry Pi Pico H https://www.welectron.com/Raspberry-Pi-Pico-H
+- AT29C040 EPROM
+- GM82C765B

@@ -1,4 +1,4 @@
-title: Sinclair ZX Spectrum Interface 2 ROM Modul
+title: Sinclair ZX Spectrum Interface 2.021 ROM Modul
 links:
     home: https://github.com/tebl/ZX-Interface-2.021
     ibom
@@ -10,9 +10,10 @@ components:
     2 100nF Kondensator
     2 27C512 EPROM
     2 28-Pol Sockel, breit
-    2 1xEin/Ein Schalter SMD
+    2 90° 1xEin/Ein Schalter SMD
     4 M3 10mm Abstandhalter Buchse/Buchse
     8 M3 Schraube
 systems:
     Sinclair ZX Spectrum
 ---
+ROM Modul für das ZX Interface 2.021

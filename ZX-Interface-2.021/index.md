@@ -1,4 +1,4 @@
-title: Sinclair ZX Spectrum Interface 2
+title: Sinclair ZX Spectrum Interface 2.021
 links:
     home: https://github.com/tebl/ZX-Interface-2.021
     ibom
@@ -26,7 +26,7 @@ components:
     1 1x3 Stiftleiste
     1 90° 1x3 Stiftleiste
     2 6x6x11mm Taster
-    2 D-Sub-9 Stecker
+    2 D-Sub-9 Stecker mit Pins
     1 ZX-Spectrum Expansion Port Stecker
     1 2x22 Edge Buchse
     6 M3 8mm Abstandhalter Buchse/Buchse
@@ -34,3 +34,4 @@ components:
 systems:
     Sinclair ZX Spectrum
 ---
+Nachbau des Interface 2 mit Verbesserungen

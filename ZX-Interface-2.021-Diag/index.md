@@ -1,4 +1,4 @@
-title: Sinclair ZX Spectrum Interface 2 Diagnostics Modul
+title: Sinclair ZX Spectrum Interface 2.021 Diagnostics Modul
 links:
     home: https://github.com/tebl/ZX-Interface-2.021
     ibom
@@ -21,3 +21,4 @@ components:
 systems:
     Sinclair ZX Spectrum
 ---
+Diagnostic und ROM Modul für das ZX Interface 2.021

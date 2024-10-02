@@ -56,3 +56,4 @@ components:
 systems:
     Triumph-Adler Alphatronics PC
 ---
+Ein Floppy Controller für den Alphatronics PC. Ich nehme an, er erlaubt den Anschluß von PC 3.5" Laufwerken. Einige der Komponenten sind nicht klar bezeichnet, ich recherchiere noch.

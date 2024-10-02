@@ -30,42 +30,48 @@ seller_links = {
     "ebay": "eBay",
     "mouser": "Mouser",
     "reichelt": "Reichelt",
-    "restore-store": "Restore-Store"
+    "restore-store": "Restore-Store",
+    "welectron": "Welectron"
 }
 
 class Systems:
     def __init__(self):
         self.category_list = []
         self.categories = {}
-        self.systems = {}
+        self.pages = {True: {}, False: {}}
     
     def add_category(self, category):
-        if category in self.categories:
+        if self.has_category(category):
             raise RuntimeError(f"duplicate category '{category}'")
         self.category_list.append(category)
         self.categories[category] = []
     
     def add_system(self, category, system):
-        if category not in self.categories:
+        if not self.has_category(category):
             raise RuntimeError(f"unknown category '{category}'")
-        if system in self.systems:
+        if self.has_system(system):
             raise RuntimeError(f"duplicate system '{system}'")
         self.categories[category].append(system)
-        self.systems[system] = []
+        self.pages[True][system] = []
+        self.pages[False][system] = []
 
     def add_page(self, page):
-        if page.hidden:
-            return
         for system in page.systems:
-            self.systems[system].append(page)
+            self.pages[page.hidden][system].append(page)
 
-    def write_html(self, file):
+    def has_category(self, category):
+        return category in self.categories
+    
+    def has_system(self, system):
+        return system in self.pages[False]
+
+    def write_html(self, file, hidden = False):
         for category in self.category_list:
             print(f'<h2 class="system-category">{category}</h2>', file=file)
             for system in self.categories[category]:
-                if len(self.systems[system]) > 0:
+                if len(self.pages[hidden][system]) > 0:
                     print(f'<h3 class="system">{system}</h3>\n<div class="links">', file=file)
-                    sorted_pages = sorted(self.systems[system], key=functools.cmp_to_key(lambda a, b: a.compare_system_list(b, system)))
+                    sorted_pages = sorted(self.pages[hidden][system], key=functools.cmp_to_key(lambda a, b: a.compare_system_list(b, system)))
                     for page in sorted_pages:
                         print(f'<a href="{page.directory}/"><span>', end="", file=file)
                         if len(page.photos) > 0:
@@ -80,6 +86,45 @@ class State(enum.Enum):
     PHOTOS = "photos"
     PREAMBLE = "preamble"
     SYSTEMS = "systems"
+
+class ComponentList:
+    def __init__(self):
+        self.categories_names = {}
+        self.categories_ordered = {}
+        self.category_list = []
+
+    def add_category(self, category):
+        if category in self.categories_names:
+            raise RuntimeError(f"duplicate category '{category}'")
+        self.categories_names[category] = {}
+        self.categories_ordered[category] = []
+        self.category_list.append(category)
+    
+    def add_component(self, category, name):
+        if category not in self.categories_names:
+            raise RuntimeError(f"unknown category '{category}'")
+        if name in self.categories_names[category]:
+            return
+        self.categories_names[category][name] = True
+        self.categories_ordered[category].append(name)
+    
+    def write_html(self, file):
+        print(f'<html>\n<head>\n<meta charset="utf-8">\n<title>Komponenten</title>\n<link rel="stylesheet" href="../style.css">\n</head>\n<body>\n<h1>Komponenten</h1>', file=file)
+
+        for category in self.category_list:
+            print(f'<h2>{category}</h2>', file=file)
+            print(f'<table class="components cost">\n<tr class="header"><td>Komponente</td><td>Preis</td><td>Anbieter</td><tr>', file=file)
+            for name in self.categories_ordered[category]:
+                price = components[name].minimum
+                if price is None:
+                    price = "—"
+                else:
+                    price = f"€{price:.2f}"
+                print(f'<tr class="component"><td>{name}</td><td>{price}</td><td>{components[name].html()}</td></tr>', file=file)
+            print(f'</table>', file=file)
+        print(f'</body></html>', file=file)
+
+
 
 class ComponentCost:
     def __init__(self):
@@ -245,7 +290,7 @@ class Page:
             components = self.components[components_name]
             if components_name:
                 print(f'<h3 class="components">{components_name}</h3>', file=file)
-            print('<table class="components">\n<tr class="header"><td>Komponente</td><td>Anzahl</td><td>Preis</td><td>Anbieter</td></tr>', file=file)
+            print('<table class="components list">\n<tr class="header"><td>Komponente</td><td>Anzahl</td><td>Preis</td><td>Anbieter</td></tr>', file=file)
 
             total_pcb = 0
             total_kit = 0
@@ -322,13 +367,19 @@ with open('systems.txt', 'r') as file:
             systems.add_system(category, line.strip())
 
 components = {}
+component_list = ComponentList()
 
 ok = True
 
 with open('component-costs.txt', 'r') as file:
+    current_category = ''
     for (line_number, line) in enumerate(file):
         line = line.rstrip()
-        if not line or line[0] == "#":
+        if not line:
+            continue
+        if line[0] == "#":
+            current_category = line[1:].strip()
+            component_list.add_category(current_category)
             continue
         
         match = re.search(component_cost_pattern, line)
@@ -345,6 +396,7 @@ with open('component-costs.txt', 'r') as file:
             if name not in components:
                 components[name] = ComponentCost()
             components[name].add(ComponentSeller(price, link))
+            component_list.add_component(current_category, name)
         else:
             print(f"component-costs.txt:{line_number}: Invalid component cost line '{line}'", file=sys.stderr)
             ok = False
@@ -472,7 +524,7 @@ for directory in [d.name for d in Path(".").iterdir() if d.is_dir()]:
                             print(f"{filename}:{line_number}: Invalid system index '{index}'", file=sys.stderr)
                             ok = False
                             continue
-                    if system in systems.systems:
+                    if systems.has_system(system):
                         page.systems[system] = index
                     else:
                         print(f"{filename}:{line_number}: Unknown system '{system}'", file=sys.stderr)
@@ -502,6 +554,14 @@ with open("index.html", "w") as file:
     print(markdown.markdown(content), file=file)
 
     systems.write_html(file)
+
+with open("hidden.html", "w") as file:
+    print('<html>\n<head><meta charset="utf-8"><title>Platinenrestposten</title>\n<link rel="stylesheet" href="style.css">\n</head>\n<body>\n<h1>Platinenrestposten</h1>', file=file)
+
+    systems.write_html(file, True)
+
+with open("component-costs.html", "w") as file:
+    component_list.write_html(file)
 
 if not ok:
     sys.exit(1)

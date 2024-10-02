@@ -4,7 +4,7 @@ links:
     home: https://github.com/eduardocasino/kim-1
     ibom
 systems:
-    MOS KIM-1
+    MOS KIM-1 | 1
 components:
     1 Platine €20
     1 47Ω Widerstand
@@ -30,7 +30,7 @@ components:
     5 100nF Kondensator
     3 220nF Kondensator
     1 330nF Kondensator
-    2 1µF Kondensator, 50V
+    2 1µF Eletrolytkondensator, 50V
     6 BC327 Transistor
     1 BC338 Transistor
     5 1N914 Diode
