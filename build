@@ -154,16 +154,16 @@ class ComponentSeller:
             if other.price is not None:
                 return self.price < other.price
             else:
-                return False
+                return True
         else:
-            return false
+            return False
     
     def __le__(self, other):
         if self.price is not None:
             if other.price is not None:
                 return self.price <= other.price
             else:
-                return False
+                return True
         else:
             return other.price is None
     
@@ -172,7 +172,7 @@ class ComponentSeller:
             if other.price is not None:
                 return self.price == other.price
             else:
-                return false
+                return False
         else:
             return other.price is None
     

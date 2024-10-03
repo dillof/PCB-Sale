@@ -1,7 +1,7 @@
 # Kondensator
 0.06 10pF Kondensator https://www.reichelt.at/at/de/shop/produkt/keramik-kondensator_10p-9268
 0.41 10pF Kondensator https://www.mouser.at/ProductDetail/KYOCERA-AVX/AR205A100K4R?qs=sGAEpiMZZMukHu%252BjC5l7YSWUFwlalwtTHZ3uCS25F2s%3D
-- 16pF Kondensator
+0.24 16pF Kondensator https://www.mouser.at/ProductDetail/KEMET/C325C160KAG5TA?qs=h3%2Fj8evtlm1oq4I4uCiCpA%3D%3D
 0.04 22pF Kondensator https://www.reichelt.at/at/de/shop/produkt/keramik-kondensator_22_pf_10_npo_500_v_rm_5-9330
 0.04 47pF Kondensator https://www.reichelt.at/at/de/shop/produkt/keramik-kondensator_500v_47p-9343
 0.04 220pF Kondensator https://www.reichelt.at/at/de/shop/produkt/keramik-kondensator_220_pf_10_y5p_500_v_rm_5-9329
@@ -36,6 +36,7 @@
 0.03 82Ω Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_82_ohm_0207_250_mw_5_-1473
 0.03 100Ω Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_100_ohm_0207_250_mw_5_-1336
 - 150Ω Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_150_ohm_0207_250_mw_5_-1354
+0.03 150Ω Widerstand https://www.mouser.at/ProductDetail/YAGEO/CFR-12JR-52-150R?qs=sGAEpiMZZMsPqMdJzcrNwrSrS5p3UYvSrDJ9cvzpfDv79c%252BEx13n5w%3D%3D
 0.04 220Ω Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_220_ohm_0207_250_mw_5_-1382
 0.04 330Ω Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_300_ohm_0207_250_mw_5_-1406
 0.03 560Ω Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_560_ohm_0207_250_mw_5_-1446
@@ -55,20 +56,20 @@
 0.04 150kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_150_kohm_0207_250_mw_5_-1355
 0.04 180kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_180_kohm_0207_250_mw_5_-1363
 0.04 220kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_220_kohm_0207_250_mw_5_-1383
- - 250kΩ Widerstand 
+0.35 250kΩ Widerstand https://www.mouser.at/ProductDetail/Vishay-Dale/CMF55250K00CHBF?qs=sGAEpiMZZMsPqMdJzcrNwlGlqEwMEaeoE1qcP1Knuik%3D
 0.04 330kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_330_kohm_0207_250_mw_5_-1411
- - 500kΩ Widerstand
+0.06 500kΩ Widerstand https://www.mouser.at/ProductDetail/YAGEO/CFR-25JT-52C500K?qs=sGAEpiMZZMsPqMdJzcrNwl6kmOwLxsHbRr9CF0Sktl2K1b1ZVnWRSw%3D%3D
 0.03 560kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_560_kohm_0207_250_mw_5_-1447
 0.04 1MΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_1_0_mohm_0207_250_mw_5_-1316
-- 50MΩ Widerstand
+0.24 50MΩ Widerstand https://www.mouser.at/ProductDetail/SEI-Stackpole/HVA05FA50M0?qs=sGAEpiMZZMsPqMdJzcrNwnu7zgZRIOF5qSgb7U%252BCJIYBUfqf8JHp6A%3D%3D
 0.08 5-4 4.7kΩ Widerstandnetzwerk https://www.reichelt.at/at/de/shop/produkt/widerstandsnetzwerk_4_7_kohm_sternschaltung_4wid_5pins-17707
 0.07 6-5 4.7kΩ Widerstandnetzwerk https://www.reichelt.at/at/de/shop/produkt/widerstandsnetzwerk_4_7_kohm_sternschaltung_5wid_6pins-17821
 0.07 6-5 10kΩ Widerstandnetzwerk https://www.reichelt.at/at/de/shop/produkt/widerstandsnetzwerk_5_x_10_kohm_2_sil-6-17791
 0.10 9-8 220Ω Widerstandnetzwerk https://www.reichelt.at/at/de/shop/produkt/widerstandsnetzwerk_220_ohm_sternschaltung_8wid_9pins-18032
 0.10 9-8 330Ω Widerstandnetzwerk https://www.reichelt.at/at/de/shop/produkt/widerstandsnetzwerk_330_ohm_sternschaltung_8wid_9pins-18042
 0.10 9-8 4.7kΩ Widerstandnetzwerk https://www.reichelt.at/at/de/shop/produkt/widerstandsnetzwerk_8_x_4_7_kohm_2_sil-9-18049
- 0.09 9-8 8.2kΩ Widerstandsnetzwerk https://www.reichelt.at/at/de/shop/produkt/widerstandsnetzwerk_8_2_kohm_sternschaltung_8wid_9pins-18064
- - 4-3 10kΩ Widerstandnetzwerk
+0.09 9-8 8.2kΩ Widerstandsnetzwerk https://www.reichelt.at/at/de/shop/produkt/widerstandsnetzwerk_8_2_kohm_sternschaltung_8wid_9pins-18064
+0.12 4-3 10kΩ Widerstandnetzwerk https://www.mouser.at/ProductDetail/Bourns/4604X-101-103LF?qs=jXOqZ2xt48NO%2FqYoJux7tg%3D%3D
 0.09 8-4 1kΩ Widerstandnetzwerk https://www.reichelt.at/at/de/shop/produkt/widerstandsnetzwerk_einzelwiderstaende_1_0_kohm_4wid_8pins-17898
 0.05 10-5 100Ω Widerstandnetzwerk https://www.reichelt.at/at/de/shop/produkt/widerstandsnetzwerk_einzelwiderstaende_100_ohm_4wid_8pins-17903
 - 5kΩ Potentiometer
@@ -76,10 +77,10 @@
 - 47kΩ Potentiometer
 - 500kΩ Potentiometer
 - 1MΩ Potentiometer
-- 1kΩ Widerstand SMD 0805
-- 3.3kΩ Widerstand SMD 0805
-- 8-4 100Ω Widerstandnetzerk SMD 4x0603
-- 8-4 4.7kΩ Widerstandnetzerk SMD 4x0603
+0.01 1kΩ Widerstand SMD 0805 https://www.reichelt.at/at/de/shop/produkt/smd-widerstand_0805_1_0_kohm_125_mw_1_-379203
+0.01 3.3kΩ Widerstand SMD 0805 https://www.reichelt.at/at/de/shop/produkt/smd-widerstand_0805_3_3_kohm_125_mw_1_-379216
+0.05 8-4 100Ω Widerstandnetzerk SMD 4x0603 https://www.reichelt.at/at/de/shop/produkt/smd-widerstandsnetzwerk_1206_4x100_ohm_5_3_2x1_6x0_6_mm-42463
+0.05 8-4 4.7kΩ Widerstandnetzerk SMD 4x0603 https://www.reichelt.at/at/de/shop/produkt/smd-widerstandsnetzwerk_1206_4x4_7_kohm_5_3_2x1_6x0_6_mm-42470
 
 # Diode
 0.04 1N914 Diode https://www.reichelt.at/at/de/shop/produkt/gleichrichterdiode_100_v_0_2_a_do-35-1763
@@ -121,8 +122,8 @@
 0.08 90° 1x3 Stiftleiste https://www.reichelt.at/at/de/shop/produkt/stiftleiste_36-polig_gewinkelt_vergold_-235643
 0.94 90° 1x36 Stiftleiste https://www.reichelt.at/at/de/shop/produkt/stiftleiste_36-polig_gewinkelt_vergold_-235643
 1.51 2x5 Stiftleiste mit Rahmen https://www.reichelt.at/at/de/shop/produkt/stifftleiste_10_pol_stifte_din_41651-224943
-- 2x20 Stiftleiste mit Rahmen
-- 90° 2x17 Stiftleiste mit Rahmen
+0.74 2x20 Stiftleiste mit Rahmen https://www.reichelt.at/at/de/shop/produkt/stiftwanne_40_pol_gerade_raster_2_54_mm-280535
+0.55 90° 2x17 Stiftleiste mit Rahmen https://www.reichelt.at/at/de/shop/produkt/pfostenstecker_34-polig_mit_verrieglung_gew_-14873
 2.17 1x40 Buchsenleiste https://www.reichelt.at/at/de/shop/produkt/praezisionsbuchsenleiste_40-pol_vergold_-235679
 0.67 90° 1x6 Buchsenleiste https://www.reichelt.at/at/de/shop/produkt/praezisionsbuchsenleiste_gewinkelt_rm_2_54_40-polig-330903
 4.44 90° 1x40 Buchsenleiste https://www.reichelt.at/at/de/shop/produkt/praezisionsbuchsenleiste_gewinkelt_rm_2_54_40-polig-330903
@@ -141,12 +142,12 @@
 4.69 2xEin/Ein Schalter https://www.reichelt.at/at/de/shop/produkt/schiebeschalter_gerade_rm2_54_-_2x_ein_-_ein-105711
 
 # Montagematerial
-- M3 Schraube
-- M3 Beilagscheibe
-- M3 6mm Abstandhalter Buchse/Buchse
-- M3 8mm Abstandhalter Buchse/Buchse
-- M3 10mm Abstandhalter Buchse/Buchse
-- M3 12mm Abstandhalter Buchse/Buchse
+0.01 M3 Schraube https://www.reichelt.at/at/de/shop/produkt/raspberry_pi_-_abstandshalter-sortiment_380tlg_m2_5_schwarz-291439?nbc=1&q=%2Fat%2Fde%2Fshop%2Fraspberry-pi-abstandshalter-sortiment-380tlg-m2-5-schwarz-rpi-mountingkit5-p291439.html
+0.01 M3 Beilagscheibe https://www.reichelt.at/at/de/shop/produkt/raspberry_pi_-_abstandshalter-sortiment_380tlg_m2_5_schwarz-291439?nbc=1&q=%2Fat%2Fde%2Fshop%2Fraspberry-pi-abstandshalter-sortiment-380tlg-m2-5-schwarz-rpi-mountingkit5-p291439.html
+0.01 M3 6mm Abstandhalter Buchse/Buchse https://www.reichelt.at/at/de/shop/produkt/raspberry_pi_-_abstandshalter-sortiment_380tlg_m2_5_schwarz-291439?nbc=1&q=%2Fat%2Fde%2Fshop%2Fraspberry-pi-abstandshalter-sortiment-380tlg-m2-5-schwarz-rpi-mountingkit5-p291439.html
+0.01 M3 8mm Abstandhalter Buchse/Buchse https://www.reichelt.at/at/de/shop/produkt/raspberry_pi_-_abstandshalter-sortiment_380tlg_m2_5_schwarz-291439?nbc=1&q=%2Fat%2Fde%2Fshop%2Fraspberry-pi-abstandshalter-sortiment-380tlg-m2-5-schwarz-rpi-mountingkit5-p291439.html
+0.01 M3 10mm Abstandhalter Buchse/Buchse https://www.reichelt.at/at/de/shop/produkt/raspberry_pi_-_abstandshalter-sortiment_380tlg_m2_5_schwarz-291439?nbc=1&q=%2Fat%2Fde%2Fshop%2Fraspberry-pi-abstandshalter-sortiment-380tlg-m2-5-schwarz-rpi-mountingkit5-p291439.html
+0.01 M3 12mm Abstandhalter Buchse/Buchse https://www.reichelt.at/at/de/shop/produkt/raspberry_pi_-_abstandshalter-sortiment_380tlg_m2_5_schwarz-291439?nbc=1&q=%2Fat%2Fde%2Fshop%2Fraspberry-pi-abstandshalter-sortiment-380tlg-m2-5-schwarz-rpi-mountingkit5-p291439.html
 0.14 Gummifuß, 8mm https://www.reichelt.at/at/de/shop/produkt/gummifuesse_8_x_2_8_mm_schwarz_56_stueck-225123
 
 # Stecker
@@ -193,40 +194,40 @@
 - 74HCT01
 0.58 74HCT04 https://www.reichelt.at/at/de/shop/produkt/inverter_hex_4_5_5_5_v_dil-14-3306
 0.89 74HCT245 https://www.reichelt.at/at/de/shop/produkt/octal_bus_puffer_3-state_4_5_5_5_v_dil-20-3356
-- 74HCT374
+0.52 74HCT374 https://www.mouser.at/ProductDetail/Texas-Instruments/SN74HCT374N?qs=3pnr37ZAbK%252BcZximK15Xdw%3D%3D
 0.65 74LS00 https://www.reichelt.at/at/de/shop/produkt/vierfach_2-eingangs-positive-nand-gatter_dil-14-216916
 0.65 74LS00N https://www.reichelt.at/at/de/shop/produkt/vierfach_2-eingangs-positive-nand-gatter_dil-14-216916
-- 74LS02
+0.45 74LS02 https://www.mouser.at/ProductDetail/Texas-Instruments/SN74LS02N?qs=spW5eSrOWB4KM%252BpAgRke5g%3D%3D
 0.96 74LS04 https://www.reichelt.at/at/de/shop/produkt/inverter_hex_4_75_5_25_v_dil-14-10588
 0.82 74LS06 https://www.reichelt.at/at/de/shop/produkt/inverter_hex_4_75_5_25_v_dil-14-10590
-- 74LS07
+0.49 74LS07 https://www.mouser.at/ProductDetail/Texas-Instruments/SN74LS07N?qs=8k%2FZSzWMuCNUfZENSbcq8Q%3D%3D
 0.77 74LS08 https://www.reichelt.at/at/de/shop/produkt/and-gate_2_element_4_75_5_25_v_dil-14-219262
-- 74LS10
+0.73 74LS10 https://www.mouser.at/ProductDetail/Texas-Instruments/SN74LS109AN?qs=sGAEpiMZZMutXGli8Ay4kP28D9wZ8SQIwCalxp9tquU%3D
 0.65 74LS14 https://www.reichelt.at/at/de/shop/produkt/hex_4_75_5_25_v_dil-14_6-fach_schmitt-trigger-217326
-- 74LS27
+1.09 74LS27 https://www.mouser.at/ProductDetail/Texas-Instruments/SN74LS273NE4?qs=sGAEpiMZZMutXGli8Ay4kP28D9wZ8SQIle3hfC5n52c%3D
 0.72 74LS32 https://www.reichelt.at/at/de/shop/produkt/or-gate_2-input_4_75_5_25_v_dil-14-216699
 0.24 74LS38 https://www.reichelt.at/at/de/shop/produkt/nand-gate_2-input_4_75_5_25_v_dil-14-10722
 0.68 74LS74 https://www.reichelt.at/at/de/shop/produkt/flip-flop_d-type_lp-schottky_4_75_5_25_v_dil-14-10820
 - 74LS95
 0.23 74LS125 https://www.reichelt.at/at/de/shop/produkt/buffer_3-state_4_75_5_25_v_dil-14-10606
 0.86 74LS138 https://www.reichelt.at/at/de/shop/produkt/decoder_demultiplexer_3_8_4_75_5_25_v_dip-16-216887
-- 74LS139
+0.56 74LS139 https://www.mouser.at/ProductDetail/Texas-Instruments/SN74LS139AN?qs=3pnr37ZAbK%2FhW2T3DHZDAw%3D%3D
 1.21 74LS145 https://www.reichelt.at/at/de/shop/produkt/bcd-zu-dezimal-decoder_treiber_10_ausgaenge_5_v_dil-16-216939
 1.21 74LS244 https://www.reichelt.at/at/de/shop/produkt/buffer_3-state_8-ch_4_75_5_25_v_dil-20-216948
-- 74LS245 
+0.69 74LS245 https://www.mouser.at/ProductDetail/Texas-Instruments/SN74LS245N?qs=tJ5HNKWh3OU3CUIGSPX6%2Fg%3D%3D
 1.11 74LS273 https://www.reichelt.at/at/de/shop/produkt/flip-flop_d-type_octal_4_75_5_25_v_dil-20-219525
 0.27 74LS368 https://www.reichelt.at/at/de/shop/produkt/buffer_3-state_4_75_5_25_v_dil-16-10714
 - 74LS621
 - 74LS654
-- 74LVC245A
-- CD4051B
-- CD74HCT452
+0.78 74LVC245A https://www.mouser.at/ProductDetail/Texas-Instruments/SN74LVC245AN?qs=N6WZOzgtpqVHY3EQAIUFKw%3D%3D
+0.46 CD4051B https://www.mouser.at/ProductDetail/Texas-Instruments/CD4051BE?qs=q2XTDbzbm6DxulBsMcV7tA%3D%3D
+0.45 CD74HCT452 https://www.mouser.at/ProductDetail/Texas-Instruments/CD74HCT4520E?qs=afYny40WCj2BFv%252Brl366Rw%3D%3D
 0.40 LM311 https://www.reichelt.at/at/de/shop/produkt/hochgeschwindigkeits-differentialkomparator_1-fach_dip-8-187489
 0.24 LM324 https://www.reichelt.at/at/de/shop/produkt/operationsverstaerker_4-fach_dip-14-10463
 1.82 TLC272 https://www.reichelt.at/at/de/shop/produkt/operationsverstaerker_2-fach_3_6_v_s_1_7_mhz_dip-8-188980
 0.57 6N138 https://www.reichelt.at/at/de/shop/produkt/optokoppler-2859
 
-- 74LS153 SMD
+0.52 74LS153 SMD https://www.mouser.at/ProductDetail/Texas-Instruments/SN74LS153DR?qs=SL3LIuy2dWyFs2m7ewa9VQ%3D%3D
 
 # IC Sockel
 - 4-Pol Sockel, schmal
