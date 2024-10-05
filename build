@@ -109,7 +109,7 @@ class ComponentList:
         self.categories_ordered[category].append(name)
     
     def write_html(self, file):
-        print(f'<html>\n<head>\n<meta charset="utf-8">\n<title>Komponenten</title>\n<link rel="stylesheet" href="../style.css">\n</head>\n<body>\n<h1>Komponenten</h1>', file=file)
+        print(f'<html>\n<head>\n<meta charset="utf-8">\n<title>Komponenten</title>\n<link rel="stylesheet" href="style.css">\n</head>\n<body>\n<h1>Komponenten</h1>', file=file)
 
         for category in self.category_list:
             print(f'<h2>{category}</h2>', file=file)
