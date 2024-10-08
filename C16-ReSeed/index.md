@@ -33,7 +33,7 @@ components: 6581
     4 1x1 Stiftleiste
     1 1x3 Stiftleiste
     2 Ferritperle 998Ω 100MHz
-    2 90° 3.5" Stereo-Klinke Buchse
+    2 SJ1-3525N 90° 3.5" Stereo-Klinke Buchse
     1 90° D-Sub-9 Stecker
 components: 8580
     1 Platine
@@ -65,7 +65,7 @@ components: 8580
     4 1x1 Stiftleiste
     1 1x3 Stiftleiste
     2 Ferritperle 998Ω 100MHz
-    2 90° 3.5" Stereo-Klinke Buchse
+    2 SJ1-3525N 90° 3.5" Stereo-Klinke Buchse
     1 90° D-Sub-9 Stecker
 components: Nachbau mit nur 5V
     1 Platine
@@ -96,7 +96,7 @@ components: Nachbau mit nur 5V
     4 1x1 Stiftleiste
     1 1x3 Stiftleiste
     2 Ferritperle 998Ω 100MHz
-    2 90° 3.5" Stereo-Klinke Buchse
+    2 SJ1-3525N 90° 3.5" Stereo-Klinke Buchse
     1 90° D-Sub-9 Stecker
 systems:
     Commodore 16, Plus/4

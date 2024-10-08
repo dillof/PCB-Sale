@@ -4,7 +4,7 @@ Bei einigen Platinen kann ich auch Bausätze anbieten. Sofern ich nicht alle Tei
 
 Falls jemand nicht löten kann, kann ich einfache Platinen auch fertig aufgebaut anbieten. Auch hier kann es länger dauern, bis ich die Zeit dafür finde und ich würde mich über ein Trinkgeld für den Aufwand freuen.
 
-Etwa bis zu drei Platinen (je nach Größe) gehen sich noch in einem Kouvert aus, Bestellungen mit mehr oder größeren Platinen oder mit Bausätzen benötigen ein Paket. Es gibt jeweils die Möglichkeit, mit oder ohne Sendungsverfolgung zu verschicken.
+Bis 75g (2-5 Platinen, je nach Größe) gehen sich noch in einem Kouvert aus, Bestellungen mit mehr oder größeren Platinen oder mit Bausätzen benötigen ein Paket. Es gibt jeweils die Möglichkeit, mit oder ohne Sendungsverfolgung zu verschicken.
 
 <table class="components postage">
 <tr class="header"><th rowspan="2">Land</th><th colspan="2">Kouvert</th><th colspan="2">Paket</th></tr>
@@ -15,7 +15,7 @@ Etwa bis zu drei Platinen (je nach Größe) gehen sich noch in einem Kouvert aus
 
 Ein paar generelle Punkte:
 
-- Der Versand erfolgt aus Österreich, bezahlung per PayPal für Freunde oder Banküberweisung. Bitte vor der Zahlung meine Rückmeldung über Verfügbarkeit und endgültigen Preis abwarten.
+- Der **Versand erfolgt aus Österreich**, bezahlung per PayPal für Freunde oder Banküberweisung. Bitte vor der Zahlung meine Rückmeldung über Verfügbarkeit und endgültigen Preis abwarten.
 
 - Dies ist kein Shop sondern mein Hobby, ich mache dabei auch keinen Gewinn. Dementsprechend bitte ich um Rücksicht und Geduld.
 

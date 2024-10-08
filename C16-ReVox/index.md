@@ -11,19 +11,20 @@ components:
     1 1µF Eletrolytkondensator
     1 10µF Elektrolytkondensator
     1 100µF Elektrolytkondensator
-    9 22kΩ Widerstand
+    7 11kΩ Widerstand 1%
+    9 22kΩ Widerstand 1%
     1 2.2kΩ Widerstand
     1 3.3kΩ Widerstand
     1 10kΩ Widerstand
     4 100kΩ Widerstand
-    1 500kΩ Potentiometer
+    1 6mm 500kΩ Potentiometer
     1 74LS273
     1 GAL20V8
     1 TLC272
     1 8-Pol Sockel, schmal
     1 20-Pol Sockel, schmal
     1 24-Pol Sockel, schmal
-    1 90° 3.5" Stereo-Klinke Buchse
+    1 SJ1-3525N 90° 3.5" Stereo-Klinke Buchse
 systems:
     Commodore 16, Plus/4
 ---

@@ -62,6 +62,10 @@
 0.03 560kΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_560_kohm_0207_250_mw_5_-1447
 0.04 1MΩ Widerstand https://www.reichelt.at/at/de/shop/produkt/widerstand_kohleschicht_1_0_mohm_0207_250_mw_5_-1316
 0.24 50MΩ Widerstand https://www.mouser.at/ProductDetail/SEI-Stackpole/HVA05FA50M0?qs=sGAEpiMZZMsPqMdJzcrNwnu7zgZRIOF5qSgb7U%252BCJIYBUfqf8JHp6A%3D%3D
+
+0.03 11kΩ Widerstand 1% https://www.reichelt.at/at/de/shop/produkt/widerstand_metallschicht_11_0_kohm_0207_0_6_w_1_-11466
+0.03 22kΩ Widerstand 1% https://www.reichelt.at/at/de/shop/produkt/widerstand_metallschicht_22_0_kohm_0207_0_6_w_1_-11622
+
 0.08 5-4 4.7kΩ Widerstandnetzwerk https://www.reichelt.at/at/de/shop/produkt/widerstandsnetzwerk_4_7_kohm_sternschaltung_4wid_5pins-17707
 0.07 6-5 4.7kΩ Widerstandnetzwerk https://www.reichelt.at/at/de/shop/produkt/widerstandsnetzwerk_4_7_kohm_sternschaltung_5wid_6pins-17821
 0.07 6-5 10kΩ Widerstandnetzwerk https://www.reichelt.at/at/de/shop/produkt/widerstandsnetzwerk_5_x_10_kohm_2_sil-6-17791
@@ -75,7 +79,7 @@
 - 5kΩ Potentiometer
 - 10kΩ Potentiometer
 - 47kΩ Potentiometer
-- 500kΩ Potentiometer
+0.36 6mm 500kΩ Potentiometer https://www.reichelt.at/at/de/shop/produkt/einstellpotentiometer_liegend_500_kohm_6_mm-14990
 - 1MΩ Potentiometer
 0.01 1kΩ Widerstand SMD 0805 https://www.reichelt.at/at/de/shop/produkt/smd-widerstand_0805_1_0_kohm_125_mw_1_-379203
 0.01 3.3kΩ Widerstand SMD 0805 https://www.reichelt.at/at/de/shop/produkt/smd-widerstand_0805_3_3_kohm_125_mw_1_-379216
@@ -155,7 +159,7 @@
 0.61 DIN-6 Stecker https://www.reichelt.at/at/de/shop/produkt/din-stecker_6-polig-11200
 1.41 Mini-DIN-8 Stecker https://www.reichelt.at/at/de/shop/produkt/mini-din-stecker_-_8-pol-17459
 0.30 90° Mini-DIN-8 Buchse https://www.reichelt.at/at/de/shop/produkt/mini-din-printbuchse_8-polig-7284
-- 90° 3.5" Stereo-Klinke Buchse
+0.75 SJ1-3525N 90° 3.5" Stereo-Klinke Buchse https://www.mouser.at/ProductDetail/Same-Sky/SJ1-3525N?qs=WyjlAZoYn505QPmBO3I74g%3D%3D
 0.35 90° D-Sub-9 Buchse https://www.reichelt.at/at/de/shop/produkt/d-sub-buchse_9-polig_gewinkelt_rm_7_2-6954
 0.36 90° D-Sub-9 Stecker https://www.reichelt.at/at/de/shop/produkt/d-sub-stecker_9-polig_gewinkelt-6992
 0.48 90° D-Sub-15 Buchse https://www.reichelt.at/at/de/shop/produkt/d-sub-buchse_15-polig_gewinkelt_rm_7_2-6962
@@ -248,7 +252,7 @@
 
 # Sonderposten
 - GAL16V8
-- GAL20V8
+1.70 GAL20V8 https://www.ebay.de/itm/324747112356
 - W65C51S
 - 6530 RRIOT
 - 6551 CIA

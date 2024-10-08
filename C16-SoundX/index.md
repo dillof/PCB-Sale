@@ -36,7 +36,7 @@ components:
     1 24-Pol Sockel, schmal
     1 24-Pol Sockel, breit
     1 28-Pol Sockel, breit
-    1 90° 3.5" Stereo-Klinke Buchse
+    1 SJ1-3525N 90° 3.5" Stereo-Klinke Buchse
     2 90° DIN-5 Buchse
 systems:
     Commodore 16, Plus/4

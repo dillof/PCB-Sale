@@ -405,7 +405,7 @@ if not ok:
     sys.exit(1)
 
 for directory in [d.name for d in Path(".").iterdir() if d.is_dir()]:
-    if directory.startswith("."):
+    if directory.startswith(".") or directory == "orders":
         continue
     page = {}
     filename = f"{directory}/index.md"
