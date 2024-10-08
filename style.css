@@ -17,7 +17,7 @@ div.links {
     margin-bottom: 3em;
 }
 
-table.components {
+table.components, table.postage {
     margin-left: 2ex;
     border-collapse: collapse;
 }
@@ -85,3 +85,19 @@ div.links img {
     max-height: 100px;
 }
 
+table.postage td, table.postage th {
+    padding-left: .75ex;
+    padding-right: .75ex;
+}
+
+table.postage th {
+    vertical-align: top;
+}
+
+table.postage {
+    margin-left: 5ex;
+}
+
+table.postage tr:nth-child(even of tr.country) {
+    background-color: #f0f0f0;
+}

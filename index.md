@@ -4,6 +4,15 @@ Bei einigen Platinen kann ich auch Bausätze anbieten. Sofern ich nicht alle Tei
 
 Falls jemand nicht löten kann, kann ich einfache Platinen auch fertig aufgebaut anbieten. Auch hier kann es länger dauern, bis ich die Zeit dafür finde und ich würde mich über ein Trinkgeld für den Aufwand freuen.
 
+Etwa bis zu drei Platinen (je nach Größe) gehen sich noch in einem Kouvert aus, Bestellungen mit mehr oder größeren Platinen oder mit Bausätzen benötigen ein Paket. Es gibt jeweils die Möglichkeit, mit oder ohne Sendungsverfolgung zu verschicken.
+
+<table class="components postage">
+<tr class="header"><th rowspan="2">Land</th><th colspan="2">Kouvert</th><th colspan="2">Paket</th></tr>
+<tr class="header"><th>mit</th><th>ohne</th><th>mit</th><th>ohne</th></tr>
+<tr class="country"><td>Österreich</td><td>€1.50</td><td>€4.—</td><td>€3.—</td><td>€5.50</td></tr>
+<tr class="country"><td>Deutschland</td><td>€2.—</td><td>€5.50</td><td>€6.50</td><td>€11.20</td></tr>
+</table>
+
 Ein paar generelle Punkte:
 
 - Der Versand erfolgt aus Österreich, bezahlung per PayPal für Freunde oder Banküberweisung. Bitte vor der Zahlung meine Rückmeldung über Verfügbarkeit und endgültigen Preis abwarten.
