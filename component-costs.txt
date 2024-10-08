@@ -187,7 +187,7 @@
 # ICs
 0.51 556 Timer https://www.reichelt.at/at/de/shop/produkt/dual_bipolar_timer-ic_dip-14-13398
 - 565
-- 4066
+0.36 4066 https://www.reichelt.at/at/de/shop/produkt/4-kanal-analogschalter_spst_3_18_v_dil-14-216551
 0.68 4069 https://www.reichelt.at/at/de/shop/produkt/inverter_hex_3_15_v_dip-14-12622
 - 6102
 - 6502 CPU
