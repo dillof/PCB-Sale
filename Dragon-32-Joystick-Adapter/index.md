@@ -13,6 +13,7 @@ components:
     1 4066
     1 14-Pol Sockel, schmal
     1 90° 1x2 Stiftleiste
+    1 Jumper
     1 90° D-Sub-9 Stecker
     1 DIN-6 Stecker
     0.2 6 poliges Kabel, 1m
