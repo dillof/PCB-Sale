@@ -276,11 +276,11 @@
  - 2x43 Edge Buchse
  - MSX Modul Buchse
 - µPD765A
-- MT3608 Spannungwandler
+3.24 MT3608 Spannungwandler https://www.ebay.de/itm/255283310854
 - Ferritperle 998Ω 100MHz
 - YM3014
 - YM3526
-- Arduino Pro Micro
+7.39 Arduino Pro Micro https://www.reichelt.at/at/de/shop/produkt/arduino_-_mikrocontroller_atmega32u4_usb-330660
 8.50 Waveshare Pico LCD 1.3 https://www.welectron.com/Waveshare-19650-Pico-LCD-13
 4.80 Raspberry Pi Pico H https://www.welectron.com/Raspberry-Pi-Pico-H
 - AT29C040 EPROM
