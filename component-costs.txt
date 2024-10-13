@@ -269,7 +269,7 @@
  2.90 Userport Stecker https://restore-store.de/home/298-userport-stecker-24-pin-hq-.html
  5.85 Userport Stecker Gehäuse https://restore-store.de/bauelemente/279-gehaeuse-fuer-userport-stecker.html
  - ZX-Spectrum Expansion Port Stecker
- 8.00 DS3231 Modul https://www.ebay.de/itm/144333592919
+5.97 DS3231 Modul https://www.ebay.de/itm/255283194273
  - 2x12 Edge Buchse
  - 2x18 Edge Buchse
  - 2x22 Edge Buchse
