@@ -5,12 +5,13 @@ photos:
     IMG_5264.jpeg: Platine
 components:
     1 Platine
-    1 16pF Kondensator
+    1 15pF Kondensator
     1 47pF Kondensator
     1 47µF Elektrolytkondensator
     1 220µF Elektrolytkondensator
     5 150Ω Widerstand
     1 3.3kΩ Widerstand SMD 0805
+    1 16MHz Quarz
     1 90° 1x3 Stiftleiste
     1 90° 2x17 Stiftleiste mit Rahmen
     2 74LS00N
@@ -18,7 +19,6 @@ components:
     1 GM82C765B
     2 14-Pin Sockel, schmal
     1 32-Pin Sockel, breit
-    1 40-Pin Sockel, breit
 systems:
     Commodore 64
 ---

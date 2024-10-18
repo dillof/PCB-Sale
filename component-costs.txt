@@ -1,6 +1,7 @@
 # Kondensator
 0.06 10pF Kondensator https://www.reichelt.at/at/de/shop/produkt/keramik-kondensator_10p-9268
 0.41 10pF Kondensator https://www.mouser.at/ProductDetail/KYOCERA-AVX/AR205A100K4R?qs=sGAEpiMZZMukHu%252BjC5l7YSWUFwlalwtTHZ3uCS25F2s%3D
+0.03 15pF Kondensator https://www.reichelt.at/at/de/shop/produkt/keramik-kondensator_500v_15p-9322
 0.24 16pF Kondensator https://www.mouser.at/ProductDetail/KEMET/C325C160KAG5TA?qs=h3%2Fj8evtlm1oq4I4uCiCpA%3D%3D
 0.04 22pF Kondensator https://www.reichelt.at/at/de/shop/produkt/keramik-kondensator_22_pf_10_npo_500_v_rm_5-9330
 0.04 47pF Kondensator https://www.reichelt.at/at/de/shop/produkt/keramik-kondensator_500v_47p-9343
@@ -129,6 +130,7 @@
 0.47 3MHz Quarz https://www.reichelt.at/at/de/shop/produkt/standardquarz_grundton_3_000000_mhz-2388
 0.23 3.579545MHz Quarz https://www.reichelt.at/at/de/shop/produkt/standardquarz_grundton_3_579545_mhz-32836
 - 4.4336Mhz Quarz
+0.21 16MHz Quarz https://www.reichelt.at/at/de/shop/produkt/standardquarz_grundton_16_000000_mhz-32852
 
 # LEDs
 0.05 5mm LED, rot https://www.reichelt.at/at/de/shop/produkt/led_5mm_bedrahtet_rot_350_mcd_60_-361630
@@ -332,3 +334,4 @@
 - SI5351 Taktgeber
 - 1.5µH Drosselspule
 - 2.2µH Drosselspule, 8mm
+1.22 ST1167 Spannungswandler https://www.reichelt.at/at/de/shop/produkt/entwicklerboards_-_ttl_logic_level_converter_3_3v_5v-282702
