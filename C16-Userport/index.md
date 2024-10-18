@@ -16,9 +16,9 @@ components:
     1 74LS654
     1 GAL20V8
     1 W65C51S
-    1 14-Pol Sockel, schmal
-    2 24-Pol Sockel, schmal
-    1 28-Pol Sockel, breit
+    1 14-Pin Sockel, schmal
+    2 24-Pin Sockel, schmal
+    1 28-Pin Sockel, breit
     1 1x3 Stiftleiste
     1 Jumper
 systems:

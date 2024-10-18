@@ -13,6 +13,9 @@ components:
     2 2x8 Stiftleiste
     1 90° 1x6 Buchsenleiste
     2 Jumper
+    1 M3 Schraube
+    1 M3 6mm Abstandhalter Buchse/Buchse
+    1 CR2032 Batterie
 systems:
     Commodore 64 | 1
 ---

@@ -11,7 +11,7 @@ components:
     1 Platine
     1 100nF Kondensator
     1 74LS244
-    1 20-Pol Sockel, schmal
+    1 20-Pin Sockel, schmal
     1 10-5 100Ω Widerstandnetzwerk
     1 6-5 10kΩ Widerstandnetzwerk
     2 1x2 Stiftleiste

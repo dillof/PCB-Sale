@@ -14,8 +14,8 @@ components:
     1 90° 1x2 Stiftleiste
     1 74HCT374
     1 27C512 EPROM
-    1 20-Pol Sockel, schmal
-    1 28-Pol Sockel, breit
+    1 20-Pin Sockel, schmal
+    1 28-Pin Sockel, breit
     4 M3 10mm Abstandhalter Buchse/Buchse
     8 M3 Schraube
 systems:

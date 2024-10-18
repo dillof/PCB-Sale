@@ -27,9 +27,9 @@ components: 6581
     1 6581 SID
     1 GAL16V8
     1 MT3608 Spannungwandler
-    1 40-Pol Sockel, breit
-    1 16-Pol Sockel, schmal
-    1 20-Pol Sockel, schmal
+    1 40-Pin Sockel, breit
+    1 16-Pin Sockel, schmal
+    1 20-Pin Sockel, schmal
     4 1x1 Stiftleiste
     1 1x3 Stiftleiste
     2 Ferritperle 998Ω 100MHz
@@ -59,9 +59,9 @@ components: 8580
     1 8580 SID
     1 GAL16V8
     1 MT3608 Spannungwandler
-    1 40-Pol Sockel, breit
-    1 16-Pol Sockel, schmal
-    1 20-Pol Sockel, schmal
+    1 40-Pin Sockel, breit
+    1 16-Pin Sockel, schmal
+    1 20-Pin Sockel, schmal
     4 1x1 Stiftleiste
     1 1x3 Stiftleiste
     2 Ferritperle 998Ω 100MHz
@@ -90,9 +90,9 @@ components: Nachbau mit nur 5V
     1 CD74HCT452
     1 8580 SID
     1 GAL16V8
-    1 40-Pol Sockel, breit
-    1 16-Pol Sockel, schmal
-    1 20-Pol Sockel, schmal
+    1 40-Pin Sockel, breit
+    1 16-Pin Sockel, schmal
+    1 20-Pin Sockel, schmal
     4 1x1 Stiftleiste
     1 1x3 Stiftleiste
     2 Ferritperle 998Ω 100MHz

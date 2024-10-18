@@ -47,12 +47,12 @@ components:
     1 74LS621
     1 LS74 24-Pol €-
     1 µPD765A
-    4 4-Pol Sockel, schmal
-    11 14-Pol Sockel, schmal
-    2 16-Pol Sockel, schmal
-    2 20-Pol Sockel, schmal
-    1 24-Pol Sockel, breit
-    1 40-Pol Sockel, breit
+    4 4-Pin Sockel, schmal
+    11 14-Pin Sockel, schmal
+    2 16-Pin Sockel, schmal
+    2 20-Pin Sockel, schmal
+    1 24-Pin Sockel, breit
+    1 40-Pin Sockel, breit
 systems:
     Triumph-Adler Alphatronics PC
 ---

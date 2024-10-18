@@ -20,9 +20,9 @@ components:
     2 74LS138
     2 74LS245
     1 74LS273
-    2 14-Pol Sockel, schmal
-    2 16-Pol Sockel, schmal
-    3 20-Pol Sockel, schmal
+    2 14-Pin Sockel, schmal
+    2 16-Pin Sockel, schmal
+    3 20-Pin Sockel, schmal
     1 1x3 Stiftleiste
     1 90° 1x3 Stiftleiste
     2 6x6x11mm Taster

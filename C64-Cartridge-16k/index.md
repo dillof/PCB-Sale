@@ -11,7 +11,7 @@ components:
     1 1kΩ Widerstand
     2 1N4148 Diode
     1 27512 EPROM
-    1 28-Pol Sockel, breit
+    1 28-Pin Sockel, breit
     1 6x6x5mm Taster
     2 1x3 Stiftleiste
     2 Jumper

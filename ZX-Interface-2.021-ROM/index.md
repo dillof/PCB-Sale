@@ -9,7 +9,7 @@ components:
     2 Platine
     2 100nF Kondensator
     2 27C512 EPROM
-    2 28-Pol Sockel, breit
+    2 28-Pin Sockel, breit
     2 90° 1xEin/Ein Schalter SMD
     4 M3 10mm Abstandhalter Buchse/Buchse
     8 M3 Schraube

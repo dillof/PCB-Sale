@@ -31,11 +31,11 @@ components:
     1 6N138
     1 YM3014
     1 LM324
-    2 8-Pol Sockel, schmal
-    1 14-Pol Sockel, schmal
-    1 24-Pol Sockel, schmal
-    1 24-Pol Sockel, breit
-    1 28-Pol Sockel, breit
+    2 8-Pin Sockel, schmal
+    1 14-Pin Sockel, schmal
+    1 24-Pin Sockel, schmal
+    1 24-Pin Sockel, breit
+    1 28-Pin Sockel, breit
     1 SJ1-3525N 90° 3.5" Stereo-Klinke Buchse
     2 90° DIN-5 Buchse
 systems:

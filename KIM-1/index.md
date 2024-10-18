@@ -49,10 +49,10 @@ components:
     2 74LS145
     2 74LS125
     1 LM311
-    1 8-Pol Sockel, schmal
-    8 14-Pol Sockel, schmal
-    10 16-Pol Sockel, schmal
-    3 40-Pol Sockel, breit
+    1 8-Pin Sockel, schmal
+    8 14-Pin Sockel, schmal
+    10 16-Pin Sockel, schmal
+    3 40-Pin Sockel, breit
     6 7-Segment-Display
 --- 
 Dies ist eine getreue Replik des MOS KIM-1.

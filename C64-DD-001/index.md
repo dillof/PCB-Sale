@@ -16,9 +16,9 @@ components:
     2 74LS00N
     1 AT29C040 EPROM
     1 GM82C765B
-    2 14-Pol Sockel, schmal
-    1 32-Pol Sockel, breit
-    1 40-Pol Sockel, breit
+    2 14-Pin Sockel, schmal
+    1 32-Pin Sockel, breit
+    1 40-Pin Sockel, breit
 systems:
     Commodore 64
 ---

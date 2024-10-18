@@ -8,9 +8,9 @@ Bis 75g (2-5 Platinen, je nach Größe) gehen sich noch in einem Kouvert aus, Be
 
 <table class="components postage">
 <tr class="header"><th rowspan="2">Land</th><th colspan="2">Kouvert</th><th colspan="2">Paket</th></tr>
-<tr class="header"><th>mit</th><th>ohne</th><th>mit</th><th>ohne</th></tr>
+<tr class="header"><th>ohne</th><th>mit</th><th>ohne</th><th>mit</th></tr>
 <tr class="country"><td>Österreich</td><td>€1.50</td><td>€4.—</td><td>€3.—</td><td>€5.50</td></tr>
-<tr class="country"><td>Deutschland</td><td>€2.—</td><td>€5.50</td><td>€6.50</td><td>€11.20</td></tr>
+<tr class="country"><td>Deutschland</td><td>€1.90</td><td>€5.25</td><td>€6.50</td><td>€11.15</td></tr>
 </table>
 
 Ein paar generelle Punkte:

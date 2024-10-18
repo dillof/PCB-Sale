@@ -9,7 +9,7 @@ components:
     1 Platine
     2 100nF Kondensator
     2 2764 EPROM
-    2 28-Pol Sockel, breit
+    2 28-Pin Sockel, breit
 systems:
     Triumph-Adler Alphatronics PC
 ---

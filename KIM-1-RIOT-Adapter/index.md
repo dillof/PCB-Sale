@@ -11,9 +11,9 @@ components:
     1 74LS00
     1 74LS04
     1 74LS138
-    2 14-Pol Sockel, schmal
-    1 16-Pol Sockel, schmal
-    2 40-Pol Sockel, breit
+    2 14-Pin Sockel, schmal
+    1 16-Pin Sockel, schmal
+    2 40-Pin Sockel, breit
 systems:
     MOS KIM-1
 ---

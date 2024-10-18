@@ -21,9 +21,9 @@ components:
     1 74LS273
     1 GAL20V8
     1 TLC272
-    1 8-Pol Sockel, schmal
-    1 20-Pol Sockel, schmal
-    1 24-Pol Sockel, schmal
+    1 8-Pin Sockel, schmal
+    1 20-Pin Sockel, schmal
+    1 24-Pin Sockel, schmal
     1 SJ1-3525N 90° 3.5" Stereo-Klinke Buchse
 systems:
     Commodore 16, Plus/4

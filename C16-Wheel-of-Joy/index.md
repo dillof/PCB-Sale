@@ -13,7 +13,7 @@ components: Adapter
     1 10-5 100Ω Widerstandnetzwerk
     8 6-5 4.7kΩ Widerstandnetzwerk
     5 CD4051B
-    5 16-Pol Sockel, schmal
+    5 16-Pin Sockel, schmal
     8 D-Sub-9 Stecker
     1 D-Sub-15 Buchse
 components: Kabel

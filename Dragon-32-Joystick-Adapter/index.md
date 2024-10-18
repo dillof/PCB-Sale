@@ -11,7 +11,7 @@ components:
     4 10kΩ Widerstand
     4 47kΩ Widerstand
     1 4066
-    1 14-Pol Sockel, schmal
+    1 14-Pin Sockel, schmal
     1 90° 1x2 Stiftleiste
     1 Jumper
     1 90° D-Sub-9 Stecker

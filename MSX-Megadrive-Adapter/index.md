@@ -9,7 +9,7 @@ components:
     1 100nF Kondensator
     2 1N5711 Diode
     1 74HCT01
-    1 14-Pol Sockel, schmal
+    1 14-Pin Sockel, schmal
     1 90° D-Sub-9 Stecker
     1 90° D-Sub-9 Buchse
 systems:
