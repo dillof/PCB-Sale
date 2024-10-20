@@ -405,7 +405,7 @@ if not ok:
     sys.exit(1)
 
 for directory in [d.name for d in Path(".").iterdir() if d.is_dir()]:
-    if directory.startswith(".") or directory == "orders":
+    if directory.startswith(".") or directory == "orders" or directory == "packages":
         continue
     page = {}
     filename = f"{directory}/index.md"
@@ -416,11 +416,9 @@ for directory in [d.name for d in Path(".").iterdir() if d.is_dir()]:
 
         for (line_number, line) in enumerate(file):
             line = line.rstrip()
+            if state != State.CONTENT and (not line or line[0] == "#"):
+                continue
             if state != State.PREAMBLE and state != State.CONTENT:
-                if not line:
-                    print(f"{filename}:{line_number}: Invalid preamble line '{line}'")
-                    ok = False
-                    continue
                 if line[0] != " ":
                     state = State.PREAMBLE
             
@@ -433,7 +431,7 @@ for directory in [d.name for d in Path(".").iterdir() if d.is_dir()]:
                         field = match.group(1)
                         if field == "title":
                             page.title = match.group(2)
-                        elif field == "hidden":
+                        elif field == "page":
                             page.hidden = True
                         else:
                             try:

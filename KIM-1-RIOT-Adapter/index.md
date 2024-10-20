@@ -1,5 +1,5 @@
 title: MOS KIM-1 RIOT Adapter
-hidden:
+page: upcoming
 links:
     home: https://github.com/eduardocasino/kim-1-dual-6532-adapter
     ibom

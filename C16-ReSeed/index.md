@@ -3,6 +3,7 @@ links:
     home: https://github.com/SukkoPera/ReSeed
     ibom
 photos:
+    IMG_6167.jpeg: aufgebaut
     IMG_4972.jpeg: Platine
 components: 6581
     1 Platine

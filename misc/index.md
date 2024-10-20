@@ -1,4 +1,4 @@
 title: miscellaneous other items
-hidden:
+page: private
 systems:
     Computer

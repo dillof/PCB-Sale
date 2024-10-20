@@ -1,5 +1,5 @@
 title: MOS KIM-1 Replica
-hidden:
+page: upcoming
 links:
     home: https://github.com/eduardocasino/kim-1
     ibom

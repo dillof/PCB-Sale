@@ -1,5 +1,6 @@
 title: MicroPET
-hidden: obsolete?
+# obsolete?
+page: private
 links:
     home: https://github.com/fachat/MicroPET
 photos:

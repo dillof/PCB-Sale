@@ -1,5 +1,5 @@
 title: VGA Breakout Platine
-hidden:
+page: upcoming
 links:
     home: https://github.com/T-Pau/VGA-Breakout
     ibom
