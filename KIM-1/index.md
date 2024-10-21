@@ -38,8 +38,8 @@ components:
     1 1N4735 Diode
     1 1MHz Quarz
     1 556 Timer
-    1 565
-    8 6102
+    1 565 PLL
+    8 6102 SRAM
     1 6502 CPU
     2 6530 RRIOT
     1 74LS00
@@ -53,8 +53,12 @@ components:
     8 14-Pin Sockel, schmal
     10 16-Pin Sockel, schmal
     3 40-Pin Sockel, breit
-    6 7-Segment-Display
+    6 MAN72A 7-Segment-Display
 --- 
 Dies ist eine getreue Replik des MOS KIM-1.
 
-Die beiden 6530 RRIOT sind kaum aufzutreiben, können aber mit einer [Adapterplatine](../KIM-1-RIOT-Adapter/) durch 6532 RIOT ersetzt werden.
+Benötigt wird noch ein Keypad ([normale Ausführung](../KIM-1-Keypad/) oder [mit MX Switches](../KIM-1-Keypad-MX/)). 
+
+Die beiden 6530 RRIOT sind kaum aufzutreiben, können aber mit einer [Adapterplatine](../KIM-1-RIOT-Adapter/) durch 6532 RIOT ersetzt werden. 
+
+Die 6102 SRAM sind recht teuer (ca. €5 pro Stück), ich arbeite an einer [Adapterplatine](../KIM-6102-Adapter/) für größere SRAM Chips.

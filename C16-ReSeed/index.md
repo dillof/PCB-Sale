@@ -28,11 +28,11 @@ components: 6581
     1 6581 SID
     1 GAL16V8
     1 MT3608 Spannungwandler
-    1 40-Pin Sockel, breit
     1 16-Pin Sockel, schmal
     1 20-Pin Sockel, schmal
     4 1x1 Stiftleiste
     1 1x3 Stiftleiste
+    2 1x20 Buchsenleiste
     2 Ferritperle 998Ω 100MHz
     2 SJ1-3525N 90° 3.5" Stereo-Klinke Buchse
     1 90° D-Sub-9 Stecker
@@ -60,11 +60,11 @@ components: 8580
     1 8580 SID
     1 GAL16V8
     1 MT3608 Spannungwandler
-    1 40-Pin Sockel, breit
     1 16-Pin Sockel, schmal
     1 20-Pin Sockel, schmal
     4 1x1 Stiftleiste
     1 1x3 Stiftleiste
+    2 1x20 Buchsenleiste
     2 Ferritperle 998Ω 100MHz
     2 SJ1-3525N 90° 3.5" Stereo-Klinke Buchse
     1 90° D-Sub-9 Stecker
@@ -91,11 +91,11 @@ components: Nachbau mit nur 5V
     1 CD74HCT452
     1 8580 SID
     1 GAL16V8
-    1 40-Pin Sockel, breit
     1 16-Pin Sockel, schmal
     1 20-Pin Sockel, schmal
     4 1x1 Stiftleiste
     1 1x3 Stiftleiste
+    2 1x20 Buchsenleiste
     2 Ferritperle 998Ω 100MHz
     2 SJ1-3525N 90° 3.5" Stereo-Klinke Buchse
     1 90° D-Sub-9 Stecker
