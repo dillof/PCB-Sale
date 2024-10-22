@@ -3,6 +3,8 @@ page: upcoming
 links:
     home: https://github.com/eduardocasino/kim-1-dual-6532-adapter
     ibom
+photos:
+    kim-1-with-daughterboard.png: Render
 components:
     1 Platine
     4 100nF Kondensator
@@ -15,6 +17,6 @@ components:
     1 16-Pin Sockel, schmal
     2 40-Pin Sockel, breit
 systems:
-    MOS KIM-1
+    MOS KIM-1 | 2
 ---
 Dieser Adapter ersetzt die beiden 6530 RRIOT ICs mit leichter erhältlichen 6532 RIOT Ics.

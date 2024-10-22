@@ -3,6 +3,8 @@ page: upcoming
 links:
     home: https://github.com/eduardocasino/kim-1
     ibom
+photos:
+    kim-1-comp.png: Render
 systems:
     MOS KIM-1 | 1
 components:
