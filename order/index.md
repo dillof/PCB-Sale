@@ -1,4 +1,5 @@
 title: Component Order
+page: private
 links:
 
 photos:
@@ -103,8 +104,7 @@ components: Reichelt
     4 2x4 Stiftleiste mit Rahmen
     9 2x5 Stiftleiste mit Rahmen
     1 90° 2x25 Buchsenleiste
-    36 6x6x8mm Taster
-    40 6x6x7.3mm Taster mit Rille
+    76 6x6x7.3mm Taster mit Rille
     2 90° 1xEin/Ein Schalter SMD
     1 1xEin/Ein Schalter, 10x2.5mm
     1 2xEin/Ein Schalter, 14.1x12.5mm
@@ -127,7 +127,6 @@ components: Reichelt
     2 74HCT245
     2 74LS06
     5 74LS08
-    1 74LS13
     5 74LS20
     1 74LS26
     3 74LS109
@@ -161,6 +160,7 @@ components: Unavailable
     16 MM5280 4kx1 DRAM
     1 PAL16L8
     1 SED-9420C
+    1 74LS13
     2 74LS55
     1 74LS95
     1 74LS133

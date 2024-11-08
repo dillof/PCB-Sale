@@ -13,5 +13,7 @@ systems:
 ---
 Mit diesem Adapter kann man MSX Module mit dem [Open Source Card Reader](https://github.com/sanni/cartreader) auslesen.
 
-Da der Adapter in die SNES Buchse passen soll, ist die Platine 1.2" dick. MSX Module passen nicht in normale 2x25 Edge Buchse, da die Ränder zu breit sind.
+Da der Adapter in die SNES Buchse passen soll, ist die Platine 1.2" dick. 
+
+**Vorsicht:** MSX Module passen nicht in normale 2x25 Edge Buchse, da die Ränder zu breit sind.
 

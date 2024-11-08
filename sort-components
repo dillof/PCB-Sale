@@ -107,7 +107,7 @@ for item in sorted(list.items.values()):
         suppliers[ supplier] = []
     suppliers[ supplier].append(item)
 
-print("title: Component Order\nlinks:\n\nphotos:")
+print("title: Component Order\npage: private\nlinks:\n\nphotos:")
 for  supplier in sorted(suppliers.keys()):
     print(f"components: {supplier}")
     for item in suppliers[supplier]:
