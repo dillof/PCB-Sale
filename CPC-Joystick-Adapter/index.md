@@ -15,7 +15,7 @@ components: Adapter
     8 M3 Schraube
 components: Kabel
     0.3 9 poliges Flachbandkabel, 1m
-    1 2x5 Pinsockel für Flachbandkabel
+    1 2x5 Buchsenleiste für Flachbandkabel
     1 D-Sub-9 Stecker für Flachbandkabel
 systems:
     Amstrad CPC

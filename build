@@ -27,6 +27,8 @@ link_defaults = {
 
 seller_links = {
     "aliexpress": "AliExpress",
+    "amazon": "Amazon",
+    "berrybase": "BerryBase",
     "ebay": "eBay",
     "mouser": "Mouser",
     "reichelt": "Reichelt",
@@ -378,6 +380,8 @@ with open('component-costs.txt', 'r') as file:
         if not line:
             continue
         if line[0] == "#":
+            if line[1] == "#":
+                continue
             current_category = line[1:].strip()
             component_list.add_category(current_category)
             continue
@@ -452,7 +456,7 @@ for directory in [d.name for d in Path(".").iterdir() if d.is_dir()]:
                     try:
                         amount = float(match.group(1))
                     except:
-                        print(f"{filename}:{line_number}: Invalid amount '{match.group(4)}'", file=sys.stderr)
+                        print(f"{filename}:{line_number}: Invalid amount '{match.group(1)}'", file=sys.stderr)
                         ok = False
                         continue
 

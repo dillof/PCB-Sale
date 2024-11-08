@@ -15,7 +15,7 @@ components:
     1 90° 1x3 Stiftleiste
     1 90° 2x17 Stiftleiste mit Rahmen
     2 74LS00N
-    1 AT29C040 EPROM
+    1 AT29C040 EEPROM
     1 GM82C765B
     2 14-Pin Sockel, schmal
     1 32-Pin Sockel, breit

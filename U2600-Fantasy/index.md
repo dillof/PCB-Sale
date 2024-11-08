@@ -18,8 +18,8 @@ components: console
     1 470nF Kondensator
     1 10µF Elektrolytkondensator, 16V 4x5mm
     1 100µF Elektrolytkondensator, 16V 6x8mm
-    1 470µF Elektrolytkondensator, 25V 10x12mm
-    1 1000µF Elektrolytkondensator, 25V 10x12mm
+    1 470µF Elektrolytkondensator, 25V 10x12.5mm
+    1 1mF Elektrolytkondensator, 25V 10x20mm
     4 100Ω Widerstand
     2 220Ω Widerstand
     2 330Ω Widerstand
@@ -33,14 +33,14 @@ components: console
     1 18kΩ Widerstand
     1 22kΩ Widerstand
     1 470kΩ Widerstand
-    1 500kΩ Potentiometer
+    1 10mm 500kΩ Potentiometer
     2 1N4148 Diode
     1 1N5818 Diode
     1 2N3904 Transistor
     1 4.4336Mhz Quarz
     2 2xEin/Ein Schalter, groß
     1 90° 5.5/2.1mm Hohlstecker Buchse
-    1 90° Mini-DIN-8 Buchse
+    1 90° Mini-DIN-4 Buchse
     1 90° USB-A Buchse
     2 90° D-Sub-9 Stecker
     1 90° 4-Pol 3.5" Stereo-Klinke Buchse
@@ -67,7 +67,7 @@ components: Video Modulator
     1 47pF Kondensator
     1 100nF Kondensator
     1 220pF Kondensator
-    1 47µF Ekeltrolytkondensator, 25V 5x8mm
+    1 47µF Elektrolytkondensator, 25V 5x11mm
     2 100Ω Widerstand
     1 150Ω Widerstand
     1 220Ω Widerstand

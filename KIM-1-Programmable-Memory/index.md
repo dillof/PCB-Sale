@@ -4,6 +4,6 @@ links:
 page: upcoming
 photos:
     kim-1-programmable-memory.png: Render
-links:
+    preview.png: Platine Vorschau
 systems:
     MOS KIM-1

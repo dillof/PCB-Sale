@@ -29,9 +29,9 @@ components:
     1 Diode €-
     1 1MHz Quarz
     1 2x4 Stiftleiste
-    1 2x17 Stiftleiste
+    1 2x17 Stiftleiste mit Rahmen
     1 90° 2x25 Buchsenleiste
-    4 A302 €-
+    4 A302 Schmitt-Trigger
     1 74LS02
     1 74LS06
     1 74LS07
@@ -45,7 +45,7 @@ components:
     1 74LS244
     1 74LS368
     1 74LS621
-    1 LS74 24-Pol €-
+    1 SED-9420C
     1 µPD765A
     4 4-Pin Sockel, schmal
     11 14-Pin Sockel, schmal
@@ -57,3 +57,5 @@ systems:
     Triumph-Adler Alphatronics PC
 ---
 Ein Floppy Controller für den Alphatronics PC. Ich nehme an, er erlaubt den Anschluß von PC 3.5" Laufwerken. Einige der Komponenten sind nicht klar bezeichnet, ich recherchiere noch.
+
+**Vorsicht:** Der 2x17 Floppy-Stecker muß auf der Unterseite montiert werden.

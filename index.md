@@ -19,7 +19,7 @@ Ein paar generelle Punkte:
 
 - Dies ist kein Shop sondern mein Hobby, ich mache dabei auch keinen Gewinn. Dementsprechend bitte ich um Rücksicht und Geduld.
 
-- Die Komponentenpreise sind die Einkaufspreise meiner letzten Bestellung. Wenn ich Teile nachbestellen muß, kann es sein, dass ich die Preise seither geändert haben. 
+- Die Komponentenpreise sind die Einkaufspreise meiner letzten Bestellung. Wenn ich Teile nachbestellen muß, kann es sein, dass sich die Preise seither geändert haben. 
 
 - Ich verwende Präzesionssockel (die mit den runden Löchern). Ich habe auch ein paar Federsockel, falls jemand die lieber hat.
 

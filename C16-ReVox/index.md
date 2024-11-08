@@ -8,7 +8,7 @@ components:
     1 Platine
     1 1.8nF Kondensator
     4 100nF Kondensator
-    1 1µF Eletrolytkondensator
+    1 1µF Elektrolytkondensator
     1 10µF Elektrolytkondensator
     1 100µF Elektrolytkondensator
     7 11kΩ Widerstand 1%
@@ -17,7 +17,7 @@ components:
     1 3.3kΩ Widerstand
     1 10kΩ Widerstand
     4 100kΩ Widerstand
-    1 6mm 500kΩ Potentiometer
+    1 10mm 500kΩ Potentiometer
     1 74LS273
     1 GAL20V8
     1 TLC272

@@ -8,7 +8,7 @@ photos:
 components:
     2 Platine
     7 100nF Kondensator
-    1 10µF Elektrolytkondensator
+    1 10µF Elektrolytkondensator, 16V 4x5mm
     6 10kΩ Widerstand
     2 1kΩ Widerstand
     1 330Ω Widerstand
@@ -25,7 +25,7 @@ components:
     3 20-Pin Sockel, schmal
     1 1x3 Stiftleiste
     1 90° 1x3 Stiftleiste
-    2 6x6x11mm Taster
+    2 6x6x11.3mm Taster
     2 D-Sub-9 Stecker mit Pins
     1 ZX-Spectrum Expansion Port Stecker
     1 2x22 Edge Buchse

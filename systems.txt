@@ -5,10 +5,12 @@ Commodore PET
 Commodore Amiga
 MOS KIM-1
 # Andere Heimcomputer
+Atari 8-Bit
 Amstrad CPC
-Sinclair ZX Spectrum
-Microsoft MSX
 BBC Micro
+Commander X16
+Microsoft MSX
+Sinclair ZX Spectrum
 Tandy Color Computer, Dragon 32
 Triumph-Adler Alphatronics PC
 # Spielekonsolen

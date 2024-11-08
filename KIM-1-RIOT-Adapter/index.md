@@ -5,6 +5,7 @@ links:
     ibom
 photos:
     kim-1-with-daughterboard.png: Render
+    preview.png: Platine Vorschau
 components:
     1 Platine
     4 100nF Kondensator

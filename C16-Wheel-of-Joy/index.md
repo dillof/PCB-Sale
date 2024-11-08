@@ -9,7 +9,7 @@ photos:
 components: Adapter
     1 Platine
     5 100nF Kondensator
-    1 1µF Eletrolytkondensator, 50V
+    1 1µF Elektrolytkondensator, 50V
     1 10-5 100Ω Widerstandnetzwerk
     8 6-5 4.7kΩ Widerstandnetzwerk
     5 CD4051B

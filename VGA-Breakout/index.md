@@ -6,7 +6,7 @@ links:
     schematics
 photos:
     VGA-Breakout.jpg: render
-    pcb.png: Platine
+    preview.png: Platine Vorschau
 components:
     1 Platine
     1 90° D-Sub-15-HD Buchse
