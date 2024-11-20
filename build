@@ -29,6 +29,7 @@ seller_links = {
     "aliexpress": "AliExpress",
     "amazon": "Amazon",
     "berrybase": "BerryBase",
+    "conrad": "Conrad",
     "ebay": "eBay",
     "mouser": "Mouser",
     "reichelt": "Reichelt",
@@ -75,7 +76,10 @@ class Systems:
                     print(f'<h3 class="system">{system}</h3>\n<div class="links">', file=file)
                     sorted_pages = sorted(self.pages[hidden][system], key=functools.cmp_to_key(lambda a, b: a.compare_system_list(b, system)))
                     for page in sorted_pages:
-                        print(f'<a href="{page.directory}/"><span>', end="", file=file)
+                        print(f'<a href="{page.directory}/"', file=file, end="")
+                        if page.tags:
+                            print(f' class="{" ".join(page.tags)}"', file=file, end="")
+                        print(f'><span>', end="", file=file)
                         if len(page.photos) > 0:
                             print(f'<img src="{page.directory}/{page.photos[0].file}">', end="", file=file)
                         print(f'</span><span>{page.link_title(system)}</span></a>', file=file)
@@ -264,6 +268,7 @@ class Page:
         self.photos = []
         self.content = []
         self.links = []
+        self.tags = []
     
     def write_html(self, file):
         print(f'<html>\n<head>\n<meta charset="utf-8">\n<title>{self.title}</title>\n<link rel="stylesheet" href="../style.css">\n</head>\n<body>\n<h1>{self.title}</h1>', file=file)
@@ -437,6 +442,8 @@ for directory in [d.name for d in Path(".").iterdir() if d.is_dir()]:
                             page.title = match.group(2)
                         elif field == "page":
                             page.hidden = True
+                        elif field == "tags":
+                            page.tags = match.group(2).split(" ")
                         else:
                             try:
                                 state = State(field)

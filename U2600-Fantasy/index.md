@@ -51,7 +51,7 @@ components: console
     1 74LS08
     3 74LVC245A
     1 Teensy 4.1
-    1 TIA
+    1 UM6526P1 TIA
     1 8-Pin Sockel, schmal
     3 14-Pin Sockel, schmal
     3 20-Pin Sockel, schmal

@@ -2,6 +2,7 @@ title: Atari CX85 Keypad mit MX Tasten
 page: later
 links:
 photos:
+    IMG_6223.jpeg: Platine
 components: Keypad
     1 Platine
     1 10nF Kondensator

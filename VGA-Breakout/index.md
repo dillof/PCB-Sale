@@ -1,12 +1,12 @@
 title: VGA Breakout Platine
-page: upcoming
+# page: upcoming
 links:
     home: https://github.com/T-Pau/VGA-Breakout
     ibom
     schematics
 photos:
-    VGA-Breakout.jpg: render
-    preview.png: Platine Vorschau
+    IMG_6245.jpeg: aufgebaut
+    IMG_6238.jpeg: Platine
 components:
     1 Platine
     1 90° D-Sub-15-HD Buchse

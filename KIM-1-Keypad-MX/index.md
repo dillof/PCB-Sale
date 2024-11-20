@@ -1,6 +1,8 @@
 title: MOS KIM-1 Keypad mit MX Switches
 page: later
 links:
+photos:
+    keys.jpeg: Tasten
 systems:
     MOS KIM-1 | 5
 components:

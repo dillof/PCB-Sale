@@ -54,4 +54,4 @@ components:
     10 16-Pin Sockel, schmal
     16 22-Pin Sockel, halb-breit
     1 8xDIP Schalter
-    1 90° 2-Pol Chinch Buchse
+    1 90° 2-Pol Cinch Buchse

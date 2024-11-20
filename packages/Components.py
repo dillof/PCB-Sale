@@ -6,6 +6,7 @@ seller_links = {
     "aliexpress": "AliExpress",
     "amazon": "Amazon",
     "berrybase": "BerryBase",
+    "conrad": "Conrad",
     "ebay": "eBay",
     "mouser": "Mouser",
     "reichelt": "Reichelt",

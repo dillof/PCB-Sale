@@ -1,11 +1,11 @@
 title: MOS KIM-1 MTU AUX Karte
+# page: upcoming
 links:
     home: https://github.com/eduardocasino/kim-1-mtu-motherboard
     ibom
-page: upcoming
 photos:
     kim-1-aux-card.jpg: Render
-    preview.png: Platine Vorschau
+    IMG_6229.jpeg: Platine
 systems:
     MOS KIM-1 | 11
 components:

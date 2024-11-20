@@ -1,11 +1,11 @@
 title: Coplin Keypad mit MX Tasten
-page: upcoming
+# page: upcoming
 links:
 photos:
-    preview-keys.png: Tasten-Platine Vorschau
-    preview-logic.png: Logik-Platine Vorschau
-    preview-base.png: Boden-Platine Vorschau
-    keys.png: Tatsten Vorschau
+    IMG_6222.jpeg: Tasten
+    IMG_6232.jpeg: Tasten-Platine
+    IMG_6231.jpeg: Logik-Platine
+    IMG_6230.jpeg: Boden-Platine
 components: Keypad
     3 Platine
     1 100nF Kondensator
@@ -20,6 +20,10 @@ components: Keypad
     2 74LS10
     1 74LS20
     5 14-Pin Sockel, schmal
+    3 M3 8mm Abstandhalter Buchse/Buchse
+    4 M3 8mm Abstandhalter Buchse/Stift
+    10 M3 Schraube
+    5 Gummifuß, 8mm
 components: Kabel
     0.3 9 poliges Flachbandkabel, 1m
     1 2x5 Buchsenleiste für Flachbandkabel

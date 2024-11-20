@@ -1,10 +1,11 @@
 title: Commodore 64 SuperPad64 auf Ninja SNES Pad Adapter
-page: upcoming
+# page: upcoming
 links:
+    home: https://github.com/T-Pau/SNES-Pad
     ibom
 photos:
-    Adapter.jpg: Render
-    preview.png: Platine Vorschau
+    IMG_6246.jpeg: aufgebaut
+    IMG_6224.jpeg: Platine
 components: Adapter
     1 Platine
     2 D-Sub-9 Buchse
@@ -18,4 +19,4 @@ components: Kabel
 systems:
     Commodore 64
 ---
-Mit diesem Adapter kann man ein SuperPad64 an den beiden Joystick Ports anschließen und als Ninja SNES Pad verwenden. Für C64/C128 können die Stecker direkt auf der Platine montiert werden, für andere Computer via zwei Flachbandkabel.
+Mit diesem Adapter kann man ein [SuperPad64](https://www.polyplay.xyz/SuperPad64-8-Spieler-Interface-Commodore-64) an den beiden Joystick Ports anschließen und als Ninja SNES Pad verwenden. Am C64/C128 kann der Adapter direkt mit den auf der Platine montierten Steckern angeschlossen werden, für andere Computer via zwei Flachbandkabeln.

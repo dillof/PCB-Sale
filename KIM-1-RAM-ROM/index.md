@@ -1,11 +1,11 @@
 title: MOS KIM-1 MTU RAM/ROM Card
+# page: upcoming
 links:
     home: https://github.com/eduardocasino/kim-1-mtu-ram-rom
     ibom
-page: upcoming
 photos:
     kim-1-RAM-ROM.png: Render
-    preview.png: Platine Vorschau
+    IMG_6240.jpeg: Platine
 systems:
     MOS KIM-1
 components:

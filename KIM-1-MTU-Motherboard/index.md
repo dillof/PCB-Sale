@@ -1,11 +1,11 @@
 title: MOS KIM-1 MTU Motherboard
+# page: upcoming
 links:
     home: https://github.com/eduardocasino/kim-1-mtu-motherboard
     ibom
-page: upcoming
 photos:
     kim-1-mtu-motherboard.png: Render
-    preview.png: Platine Vorschau
+    IMG_6241.jpeg: Platine
 links:
 systems:
     MOS KIM-1 | 10

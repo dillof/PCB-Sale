@@ -12,7 +12,7 @@ components: Controller
     4 Platine
     1 2x5 Stiftleiste mit Rahmen
     2 4.7kΩ Widerstand
-    12 6x6x8mm Taster
+    12 6x6x7.3mm Taster mit Rille
     12 Tastenkappe
     4 M3 8mm Abstandhalter Buchse/Buchse
     8 M3 Schraube

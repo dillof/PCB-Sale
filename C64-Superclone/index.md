@@ -1,11 +1,11 @@
 title: Commodore 64 SuperClone 5.0 Modul
-page: upcoming
+# page: upcoming
 links:
     home: https://github.com/Kalidomra/SuperClone-5.0
     ibom
 photos:
     SuperClone.jpg: Render
-    preview.png: Platine Vorschau
+    IMG_6226.jpeg: Platine
 components:
     1 Platine
     3 100nF Kondensator

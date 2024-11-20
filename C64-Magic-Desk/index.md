@@ -1,10 +1,10 @@
 title: Commodore 64 Magic Desk Modul
-page: upcoming
+# page: upcoming
 links:
     home: https://github.com/msolajic/c64-magic-desk-512k
 photos:
-    MDCC_512k.jpg: Render
-    preview.png: Platine Vorschau
+    IMG_6253.jpeg: aufgebaut
+    IMG_6228.jpeg: Platine
 components:
     1 Platine
     1 6x6x7mm Taster

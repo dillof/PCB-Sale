@@ -89,7 +89,7 @@ components: Nachbau mit nur 5V
     1 BC549C Transistor
     1 74HCT245
     1 CD74HCT452
-    1 8580 SID
+    1 SID Ersatz €-
     1 GAL16V8
     1 16-Pin Sockel, schmal
     1 20-Pin Sockel, schmal

@@ -2,6 +2,7 @@ title: Cardco Cardkey 1 Keypad mit MX Tasten
 page: later
 links:
 photos:
+    keys.jpeg: Tasten
 components: Keypad
     1 Platine
     48 1N4148 Diode

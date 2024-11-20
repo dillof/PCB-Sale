@@ -3,6 +3,7 @@ links:
     home: https://github.com/SukkoPera/ReVox
     ibom
 photos:
+    IMG_6261.jpeg: aufgebaut
     IMG_6057.jpeg: Platine
 components:
     1 Platine
