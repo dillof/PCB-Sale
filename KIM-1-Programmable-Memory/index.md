@@ -6,7 +6,7 @@ photos:
     kim-1-programmable-memory.png: Render
     IMG_6243.jpeg: Platine
 components:
-    1 Platine, teilbestückt €10
+    1 Platine, teilbestückt €15
     1 Jumper
     1 Raspberry Pi Pico W
     1 SD Card Slot SMD

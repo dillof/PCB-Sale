@@ -9,7 +9,7 @@ photos:
 systems:
     MOS KIM-1 | 1
 components:
-    1 Platine €20
+    1 Platine €7
     1 47Ω Widerstand
     7 82Ω Widerstand
     6 100Ω Widerstand

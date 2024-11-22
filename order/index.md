@@ -31,6 +31,7 @@ components: Unavailable
     1 1.2µH Drosselspule
     1 0.01 Kondensator C103
     1 40pF Varicap
+    1 9VAC PSU
     1 Kondensator C1
 systems:
     Computer

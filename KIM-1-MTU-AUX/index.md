@@ -9,7 +9,7 @@ photos:
 systems:
     MOS KIM-1 | 11
 components:
-    1 Platine €3
+    1 Platine €2
     1 100nF Kondensator
     5 220nF Kondensator
     1 8-7 3.3kΩ Widerstandnetzwerk
