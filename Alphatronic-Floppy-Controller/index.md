@@ -39,7 +39,7 @@ components:
     1 74LS10
     2 74LS14
     1 74LS32
-    1 74LS74
+    2 74LS74
     1 74LS95
     1 74LS139
     1 74LS244

@@ -39,6 +39,7 @@ components: console
     1 2N3904 Transistor
     1 4.4336Mhz Quarz
     2 2xEin/Ein Schalter, groß
+    2 90° 2mm 2xEin/Ein Schalter
     1 90° 5.5/2.1mm Hohlstecker Buchse
     1 90° Mini-DIN-4 Buchse
     1 90° USB-A Buchse

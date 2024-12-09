@@ -4,8 +4,8 @@ links:
     home: https://github.com/eduardocasino/kim-1
     ibom
 photos:
-    kim-1.jpg: Render
-    preview.png: Platine Vorschau
+    IMG_6354.jpeg: aufgebaut
+    IMG_6283.jpeg: Platine Vorschau
 systems:
     MOS KIM-1 | 1
 components:
@@ -23,16 +23,16 @@ components:
     1 30kΩ Widerstand
     2 47kΩ Widerstand
     1 330kΩ Widerstand
-    1 50MΩ Widerstand
+    1 5MΩ Widerstand
     1 5kΩ Potentiometer PT15LV18
     1 10pF Kondensator
-    1 1nF Kondensator
-    3 6.8nF Kondensator
-    1 22nF Kondensator
-    1 47nF Kondensator
-    5 100nF Kondensator
-    3 220nF Kondensator
-    1 330nF Kondensator
+    1 102MWR630K 1nF Kondensator
+    3 WMC08D68K-F 6.8nF Kondensator
+    1 223MWR102K 22nF Kondensator
+    1 473MPW160K 47nF Kondensator
+    5 104MWR400K 100nF Kondensator
+    3 224MWR100K 220nF Kondensator
+    1 334MPW160K 330nF Kondensator
     2 1µF Elektrolytkondensator, 50V
     6 BC327 Transistor
     1 BC338 Transistor

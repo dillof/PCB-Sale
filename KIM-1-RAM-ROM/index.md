@@ -31,7 +31,7 @@ components:
     1 2xDIP Schalter
     1 3xDIP Schalter
     1 5xDIP Schalter
-    1 7xDIP Schalter
+    1 6xDIP Schalter
     1 8xDIP Schalter
     1 3x6 Stiftleiste
     1 3x8 Stiftleiste

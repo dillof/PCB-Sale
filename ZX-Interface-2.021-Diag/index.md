@@ -9,7 +9,7 @@ components:
     2 Platine
     2 100nF Kondensator
     8 330Ω Widerstand
-    1 1kΩ Widerstand
+    1 10kΩ Widerstand
     8 5mm LED, rot
     1 90° 1x2 Stiftleiste
     1 74HCT374

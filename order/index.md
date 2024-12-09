@@ -3,36 +3,32 @@ page: private
 links:
 
 photos:
+components: Retro Ronny Little Sixteen V3
+    2 10nF Kondensator
+    4 100nF, Kondensator 25V
+    2 220nF Kondensator
+    2 10-5 100Ω Widerstandnetzwerk
+    1 ATF16V8
+    2 8-4 68Ω Widerstandnetzwerk
+    1 220Ω Potentiometer 3296W
+    1 10µF Eletrolytkondensator
+    4 220nF Kondensator
+    1 330pF Kondensator
+    1 CM4545Z131B-10
+    1 10µ Inductor
+    1 90° DIN-8 Buchse
+    1 90° DIN-7 Buchse
+
 components: BerryBase
     1 Teensy Ethernet Kit
-components: Conrad
-    20 M2 Schraube
-    20 M2 Mutter
-components: Reichelt
-    9 1nF Kondensator
-    1 6mm 500kΩ Potentiometer
-    3 1x36 Stiftleiste rund
-    5 1x36 Stiftleiste rund kurz
-    12 12x12x7.3mm Taster mit Rille
-    1 M3 6mm Abstandhalter Buchse/Buchse
-    72 Gummifuß, 8mm
 components: Unavailable
-    1 Platine €10.00
-    10 Platine
+    2 Platine
     2 90° 2mm 2xEin/Ein Schalter
-    1 90° Ethernet Buchse
-    1 UM6526P1 TIA
     5 27C512 EPROM
     1 SED-9420C
     2 74LS55
     1 90° 2mm 2x25 Edge Buchse
-    1 LM347T5 Spannungswandler
     1 D36V28F5 Spannungswandler
-    1 1.2µH Drosselspule
-    1 0.01 Kondensator C103
-    1 40pF Varicap
-    1 9VAC PSU
-    1 Kondensator C1
 systems:
     Computer
 ---

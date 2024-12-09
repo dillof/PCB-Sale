@@ -31,7 +31,7 @@ components:
     1 2N2907 Transistor
     2 2N3646 (2N2369) Transistor
     2 2N4916 (2N2907) Transistor
-    1 LM347T5 Spannungswandler
+    1 LM340T5 Spannungswandler
     1 LM340T12 Spannungswandler
     5 74LS04
     3 74LS393
@@ -50,8 +50,9 @@ components:
     1 74LS93
     1 74LS26
     16 MM5280 4kx1 DRAM
-    21 14-Pin Sockel, schmal
-    10 16-Pin Sockel, schmal
+    22 14-Pin Sockel, schmal
+    9 16-Pin Sockel, schmal
     16 22-Pin Sockel, halb-breit
     1 8xDIP Schalter
     1 90° 2-Pol Cinch Buchse
+    1 TV5G Kühlkörper

@@ -4,7 +4,7 @@ links:
     home: https://github.com/Kalidomra/SuperClone-5.0
     ibom
 photos:
-    SuperClone.jpg: Render
+    IMG_6337.jpeg: aufgebaut
     IMG_6226.jpeg: Platine
 components:
     1 Platine

@@ -3,6 +3,7 @@ links:
     home: https://github.com/tebl/ZX-Interface-2.021
     ibom
 photos:
+    IMG_6358.jpeg: aufgebaut
     IMG_6059.jpeg: Platine
     IMG_6058.jpeg: Frontplatte
 components:
@@ -15,6 +16,7 @@ components:
     1 20kΩ Widerstand
     15 1N4148 Diode
     1 2N3904 Transistor
+    1 5mm LED, rot
     1 74LS04
     1 74LS27
     2 74LS138

@@ -1,8 +1,10 @@
 title: Coplin Keypad mit MX Tasten
 # page: upcoming
 links:
+    Interaktiver Bestückungsplan (Tasten): ibom-keys.html
+    Interaktiver Bestückungsplan (Logik): ibom-logic.html
 photos:
-    IMG_6222.jpeg: Tasten
+    IMG_6309.jpeg: aufgebaut
     IMG_6232.jpeg: Tasten-Platine
     IMG_6231.jpeg: Logik-Platine
     IMG_6230.jpeg: Boden-Platine

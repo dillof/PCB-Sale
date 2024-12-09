@@ -3,8 +3,9 @@ title: MOS KIM-1 RIOT Adapter
 links:
     home: https://github.com/eduardocasino/kim-1-dual-6532-adapter
     ibom
+    schematics
 photos:
-    kim-1-with-daughterboard.png: Render
+    IMG_6360.jpeg: aufgebaut
     IMG_6235.jpeg: Platine
 components:
     1 Platine
@@ -26,4 +27,4 @@ components:
 systems:
     MOS KIM-1 | 2
 ---
-Dieser Adapter ersetzt die beiden 6530 RRIOT ICs mit leichter erhältlichen 6532 RIOT Ics.
+Dieser Adapter ersetzt die beiden 6530 RRIOT ICs mit leichter erhältlichen 6532 RIOT und 27C64 ICs.

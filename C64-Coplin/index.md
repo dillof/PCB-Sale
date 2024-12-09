@@ -1,6 +1,7 @@
 title: Coplin Keypad
 # page: upcoming
 links:
+    ibom
 photos:
     IMG_6233.jpeg: Platine
     IMG_6239.jpeg: Deck-Platine

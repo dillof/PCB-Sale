@@ -1,6 +1,7 @@
 title: MOS KIM-1 6501 Adapter
 # page: upcoming
 photos:
+    IMG_6281.jpeg: aufgebaut
     IMG_6237.jpeg: Platine
 links:
     home: https://github.com/T-Pau/KIM-1-6102-Adapter
