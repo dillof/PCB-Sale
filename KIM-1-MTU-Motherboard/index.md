@@ -10,7 +10,7 @@ links:
 systems:
     MOS KIM-1 | 10
 components:
-    1 Platine €7
+    1 Platine €9
     35 100nF Kondensator
     25 47µF Elektrolytkondensator, 2x5mm
     4 100µF Elektrolytkondensator, 2.5x6.3mm

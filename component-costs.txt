@@ -297,6 +297,7 @@
 0.12 Gummifuß, 8mm https://www.reichelt.at/at/de/shop/produkt/gummifuesse_8_x_2_8_mm_schwarz_56_stueck-225123
 
 # Stecker
+- 90° DIN-4 Buchse
 1.51 90° DIN-5 Buchse https://www.reichelt.at/at/de/shop/produkt/din-buchse_5-polig_halbrund_printausfuehrung-11178
 1.60 90° DIN-6 Buchse https://www.reichelt.at/at/de/shop/produkt/din-einbaukupplung_-_90_6-pol_fuer_pcb-171913
 0.61 90° DIN-7 Buchse https://www.aliexpress.com/item/32981543684.html
