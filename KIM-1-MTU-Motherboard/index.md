@@ -17,7 +17,7 @@ components:
     1 330Ω Widerstand
     1 1kΩ Widerstand
     4 16-8 33Ω Widerstandnetzwerk, DIP-16
-    1 6-5 3.3kΩ Widerstandnetzerk
+    1 6-5 3.3kΩ Widerstandnetzwerk
     3 1x1 Stiftleiste
     5 1x2 Stiftleiste
     1 1x3 Stiftleiste

@@ -9,7 +9,7 @@ components:
     1 Platine
     4 100nF Kondensator
     2 10kΩ Widerstand
-    1 9-8 8.2kΩ Widerstandsnetzwerk
+    1 9-8 8.2kΩ Widerstandnetzwerk
     1 1.843MHz Quarz
     1 90° Mini-DIN-8 Buchse
     1 74HCT04

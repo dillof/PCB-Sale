@@ -10,8 +10,8 @@ components: Adapter
     1 Platine
     3 100nF Kondensator SMD 0805
     1 100µF Elektrolytkondensator SMD
-    2 8-4 100Ω Widerstandnetzerk SMD 4x0603
-    6 8-4 4.7kΩ Widerstandnetzerk SMD 4x0603
+    2 8-4 100Ω Widerstandnetzwerk SMD 4x0603
+    6 8-4 4.7kΩ Widerstandnetzwerk SMD 4x0603
     3 74LS153 SMD
     1 90° D-Sub-15 Buchse
     4 90° D-Sub-9 Stecker
