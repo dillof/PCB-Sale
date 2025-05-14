@@ -4,7 +4,8 @@ links:
     ibom
     schematics
 photos:
-    sm_red_top.png: Platine render
+    IMG_7027.jpeg: aufgebaut
+    IMG_7017.jpeg: Platine
 systems:
     Computer
 components:

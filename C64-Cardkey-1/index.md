@@ -3,8 +3,7 @@ links:
     home: https://github.com/T-Pau/Cardkey-Keypad
     ibom
 photos:
-    sm_blue_top-1.png: Platine render 
-    sm_blue_top.png: Platine render
+    IMG_7014.jpeg: Platinen
 systems:
     Commodore 64
 components: Keypad

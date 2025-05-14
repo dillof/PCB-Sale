@@ -3,7 +3,8 @@ links:
     home: https://github.com/T-Pau/PAL-2-KIM-1-Adapter
     ibom
 photos:
-    sm_green_top.png: PCB top render
+    IMG_7035.jpeg: aufgebaut
+    IMG_7012.jpeg: Platine
 systems:
     MOS KIM-1
 components:

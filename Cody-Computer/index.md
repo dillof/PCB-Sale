@@ -4,7 +4,8 @@ links:
     ibom
     schematics
 photos:
-    sm_black_top-1.png: Platine render
+    IMG_7033.jpeg: aufgebaut
+    IMG_7019.jpeg: Platine
 systems:
     Cody | 1
 components:

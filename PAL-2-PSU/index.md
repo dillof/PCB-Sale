@@ -3,7 +3,8 @@ links:
     home: https://github.com/T-Pau/PAL-2-PSU
     ibom
 photos:
-    PAL-2-PSU.png: PCB front render
+    IMG_7036.jpeg: aufgebaut
+    IMG_7013.jpeg: Platine
 systems:
     MOS KIM-1
 components:

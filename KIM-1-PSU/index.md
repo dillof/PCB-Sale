@@ -2,7 +2,7 @@ title: MOS KIM-1 PSU
 links:
     ibom
 photos:
-    sm_green_top.png: PCB top render
+    IMG_7016.jpeg: Platine
 components:
     1 Platine
     4 220nF Kondensator

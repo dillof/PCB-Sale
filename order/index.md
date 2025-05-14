@@ -10,7 +10,6 @@ components: AliExpress
     1 2x15 Edge Buchse
     1 DD0315NA -5V Spannungswandler
 components: Unavailable
-    3 500Ω Widerstand 1%
     68 MX Schalter, flach
     2 90° 2mm 2xEin/Ein Schalter
     1 Lynx Cartridge Buchse

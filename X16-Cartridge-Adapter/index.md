@@ -1,7 +1,8 @@
 title: Commander X16 90° Cartridge Adapter
 links:
 photos:
-    IMG_6234.jpeg: Platine
+    IMG_6678.jpeg: aufgebaut
+    IMG_6652.jpeg: Platine
 components:
     1 Platine
     1 2x30 Edge Buchse
