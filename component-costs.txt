@@ -32,7 +32,7 @@
 0.03 100nF Kondensator https://www.reichelt.de/at/de/shop/produkt/vielschicht-kerko_100_nf_50_v_rm_5_125_c-246835
 0.05 100nF Kondensator https://www.reichelt.de/at/de/shop/produkt/vielschicht-kerko_100_nf_50_100_v_z5u_20_rm_2_5-22977
 0.17 220nF Kondensator https://www.mouser.at/ProductDetail/Vishay-BC-Components/K224K20X7RF5UH5?qs=ZjM2s42DDyaRFeud2n8Wuw%3D%3D
-0.08 220nF Kondensator https://www.reichelt.de/de/de/shop/produkt/vielschicht-keramikkondensator_220n_20_-22980
+0.07 220nF Kondensator https://www.reichelt.de/de/de/shop/produkt/vielschicht-keramikkondensator_220n_20_-22980
 0.08 220nF Kondensator, 25V https://www.reichelt.de/de/de/shop/produkt/vielschicht-keramikkondensator_220n_20_-22980
 0.25 330nF Kondensator https://www.mouser.at/ProductDetail/KYOCERA-AVX/SR215E334MARAP1?qs=urM7c0%2FbhXj%252BGR0gH7TDew%3D%3D
 0.33 470nF Kondensator https://www.mouser.at/ProductDetail/KYOCERA-AVX/SL151A180JABTR1?qs=%252BdQmOuGyFcE2Ln25TiPoYA%3D%3D
@@ -56,7 +56,7 @@
 0.02 2.2µF Elektrolytkondensator https://www.reichelt.de/de/de/shop/produkt/elko_radial_2_2_f_100_v_rm_2_0_85_c_2000h_20_-15106
 0.02 2.2µF Elektrolytkondensator, 5x2mm https://www.reichelt.de/de/de/shop/produkt/elko_radial_2_2_f_100_v_rm_2_0_85_c_2000h_20_-15106
 - 4.7µF Elektrolytkondensator
-0.11 10µF Elektrolytkondensator https://www.reichelt.de/at/de/shop/produkt/elko_radial_10_f_25_v_rm_2_85_c_2000_h_20_-228345
+0.15 10µF Elektrolytkondensator https://www.reichelt.de/at/de/shop/produkt/elko_radial_10_f_25_v_rm_2_85_c_2000_h_20_-228345
 0.13 10µF Elektrolytkondensator, 16V 4x5mm https://www.reichelt.de/at/de/shop/produkt/elko_radial_10_f_16_v_rm_2_85_c_2000_h_20_-228342
 0.03 10µF Elektrolytkondensator, 5x11mm https://www.reichelt.de/at/de/shop/produkt/elko_radial_10_f_63_v_rm_2_0_85_c_2000h_20_-15099
 0.17 10µF Elektrolytkondensator, 25V https://www.reichelt.de/de/de/shop/produkt/elko_radial_10_f_25_v_rm_1_5_85_c_1000_h_20_-228313
@@ -69,11 +69,11 @@
 - 100µF Elektrolytkondensator, 5x10mm
 - 100µF Elektrolytkondensator, 16V 6x8mm
 0.16 220µF Elektrolytkondensator https://www.reichelt.de/at/de/shop/produkt/elko_radial_220_f_6_3_v_rm_2_5_85_c_1000_h_20_-228309
-0.24 470µF Elektrolytkondensator, 25V 10x12.5mm https://www.reichelt.de/at/de/shop/produkt/elko_radial_470_f_25_v_rm_5_0_85_c_2000h_20_-199845
+0.25 470µF Elektrolytkondensator, 25V 10x12.5mm https://www.reichelt.de/at/de/shop/produkt/elko_radial_470_f_25_v_rm_5_0_85_c_2000h_20_-199845
 - 1mF Elektrolytkondensator, 6.35x16mm
-0.23 1mF Eletrolytkondensator, 8mm https://www.reichelt.de/de/de/shop/produkt/elko_radial_1000_f_6_3_v_85_c_8x11_5_rm_3_5_-199850
+0.20 1mF Eletrolytkondensator, 8mm https://www.reichelt.de/de/de/shop/produkt/elko_radial_1000_f_6_3_v_85_c_8x11_5_rm_3_5_-199850
 0.33 1mF Elektrolytkondensator, 25V 10x20mm https://www.reichelt.de/at/de/shop/produkt/elko_radial_1_0_mf_25_v_rm_5_0_85_c_2000h_20_-199852
-0.99 2.2mF Elektrolytkondensator, 25V https://www.reichelt.de/de/de/shop/produkt/elko_axial_2200_f_25_v_105_c_1000h_20_-249119
+0.83 2.2mF Elektrolytkondensator, 25V https://www.reichelt.de/de/de/shop/produkt/elko_axial_2200_f_25_v_105_c_1000h_20_-249119
 
 ## Tantal-Kondensator
 0.83 10µF Tantal-Kondensator https://www.reichelt.de/at/de/shop/produkt/tantal_bedrahtet_10_f_25v_125_c-206413
@@ -85,8 +85,8 @@
 - 100nF Kondensator SMD
 
 # Widerstand
-0.20 4.7Ω Widerstand, 1W https://www.reichelt.de/de/de/shop/produkt/widerstand_metalloxyd_4_7_ohm_0207_1_0_w_5_-1821
-0.40 10Ω Widerstand, 2.5W https://www.reichelt.de/de/de/shop/produkt/sicherungswiderstand_axial_2_5_w_10_ohm_5_-107431
+0.10 4.7Ω Widerstand, 1W https://www.reichelt.de/de/de/shop/produkt/widerstand_metalloxyd_4_7_ohm_0207_1_0_w_5_-1821
+0.34 10Ω Widerstand, 2.5W https://www.reichelt.de/de/de/shop/produkt/sicherungswiderstand_axial_2_5_w_10_ohm_5_-107431
 - 270Ω Widerstand
 - 33Ω Widerstand
 0.04 47Ω Widerstand https://www.reichelt.de/at/de/shop/produkt/widerstand_kohleschicht_47_ohm_0207_250_mw_5_-1431
@@ -105,17 +105,17 @@
 0.03 560Ω Widerstand https://www.reichelt.de/at/de/shop/produkt/widerstand_kohleschicht_560_ohm_0207_250_mw_5_-1446
 0.03 620Ω Widerstand https://www.reichelt.de/at/de/shop/produkt/widerstand_kohleschicht_620_ohm_0207_250_mw_5_-1456
 0.04 1kΩ Widerstand https://www.reichelt.de/at/de/shop/produkt/widerstand_kohleschicht_1_0_kohm_0207_250_mw_5_-1315
-0.12 1.1kΩ Widerstand https://www.reichelt.de/de/de/shop/produkt/widerstand_kohleschicht_1_1_kohm_0207_250_mw_5_-1318
+0.04 1.1kΩ Widerstand https://www.reichelt.de/de/de/shop/produkt/widerstand_kohleschicht_1_1_kohm_0207_250_mw_5_-1318
 - 1.2kΩ Widerstand
-0.09 1.5kΩ Widerstand https://www.reichelt.de/at/de/shop/produkt/widerstand_kohleschicht_1_5_kohm_0207_250_mw_5_-1327
+0.03 1.5kΩ Widerstand https://www.reichelt.de/at/de/shop/produkt/widerstand_kohleschicht_1_5_kohm_0207_250_mw_5_-1327
 0.12 2kΩ Widerstand https://www.reichelt.de/de/de/shop/produkt/widerstand_kohleschicht_2_0_kohm_0207_250_mw_5_-1366
-0.04 2.2kΩ Widerstand https://www.reichelt.de/at/de/shop/produkt/widerstand_kohleschicht_2_2_kohm_0207_250_mw_5_-1369
+0.03 2.2kΩ Widerstand https://www.reichelt.de/at/de/shop/produkt/widerstand_kohleschicht_2_2_kohm_0207_250_mw_5_-1369
 0.03 3.3kΩ Widerstand https://www.reichelt.de/at/de/shop/produkt/widerstand_kohleschicht_3_3_kohm_0207_250_mw_5_-1397
 - 4kΩ Widerstand
 0.03 4.7kΩ Widerstand https://www.reichelt.de/at/de/shop/produkt/widerstand_kohleschicht_4_7_kohm_0207_250_mw_5_-1425
 - 5.6kΩ Widerstand
 - 6.8kΩ Widerstand
-0.04 10kΩ Widerstand https://www.reichelt.de/at/de/shop/produkt/widerstand_kohleschicht_10_kohm_0207_250_mw_5_-1338
+0.02 10kΩ Widerstand https://www.reichelt.de/at/de/shop/produkt/widerstand_kohleschicht_10_kohm_0207_250_mw_5_-1338
 - 12kΩ Widerstand
 0.04 15kΩ Widerstand https://www.reichelt.de/at/de/shop/produkt/widerstand_kohleschicht_15_kohm_0207_250_mw_5_-1356
 - 18kΩ Widerstand
@@ -135,13 +135,14 @@
 0.06 500kΩ Widerstand https://www.mouser.at/ProductDetail/YAGEO/CFR-25JT-52C500K?qs=sGAEpiMZZMsPqMdJzcrNwl6kmOwLxsHbRr9CF0Sktl2K1b1ZVnWRSw%3D%3D
 0.03 560kΩ Widerstand https://www.reichelt.de/at/de/shop/produkt/widerstand_kohleschicht_560_kohm_0207_250_mw_5_-1447
 0.04 1MΩ Widerstand https://www.reichelt.de/at/de/shop/produkt/widerstand_kohleschicht_1_0_mohm_0207_250_mw_5_-1316
-0.12 5MΩ Widerstand https://www.mouser.at/ProductDetail/603-CFR-50JT-52-5M
+0.04 5MΩ Widerstand https://www.mouser.at/ProductDetail/603-CFR-50JT-52-5M
 0.24 50MΩ Widerstand https://www.mouser.at/ProductDetail/SEI-Stackpole/HVA05FA50M0?qs=sGAEpiMZZMsPqMdJzcrNwnu7zgZRIOF5qSgb7U%252BCJIYBUfqf8JHp6A%3D%3D
 
 - 500Ω Widerstand 1%
-0.07 1kΩ Widerstand 1% https://www.reichelt.de/de/de/shop/produkt/widerstand_metallschicht_1_00_kohm_0207_0_6_w_1_-11403
-0.07 2kΩ Widerstand 1% https://www.reichelt.de/de/de/shop/produkt/widerstand_metallschicht_2_00_kohm_0207_0_6_w_1_-11578
-0.07 4kΩ Widerstand 1% https://www.reichelt.de/de/de/shop/produkt/widerstand_metallschicht_4_02_kohm_0207_0_6_w_1_-11773
+0.51 500Ω Widerstand 1% 3W https://www.mouser.at/ProductDetail/708-WW3FT500R
+0.03 1kΩ Widerstand 1% https://www.reichelt.de/de/de/shop/produkt/widerstand_metallschicht_1_00_kohm_0207_0_6_w_1_-11403
+0.03 2kΩ Widerstand 1% https://www.reichelt.de/de/de/shop/produkt/widerstand_metallschicht_2_00_kohm_0207_0_6_w_1_-11578
+0.03 4kΩ Widerstand 1% https://www.reichelt.de/de/de/shop/produkt/widerstand_metallschicht_4_02_kohm_0207_0_6_w_1_-11773
 0.03 11kΩ Widerstand 1% https://www.reichelt.de/at/de/shop/produkt/widerstand_metallschicht_11_0_kohm_0207_0_6_w_1_-11466
 0.03 22kΩ Widerstand 1% https://www.reichelt.de/at/de/shop/produkt/widerstand_metallschicht_22_0_kohm_0207_0_6_w_1_-11622
 
@@ -153,8 +154,8 @@
 0.05 10-5 100Ω Widerstandnetzwerk https://www.reichelt.de/at/de/shop/produkt/widerstandnetzwerk_einzelwiderstaende_100_ohm_4wid_8pins-17903
 0.08 9-8 220Ω Widerstandnetzwerk https://www.reichelt.de/at/de/shop/produkt/widerstandnetzwerk_220_ohm_sternschaltung_8wid_9pins-18032
 0.10 9-8 330Ω Widerstandnetzwerk https://www.reichelt.de/at/de/shop/produkt/widerstandnetzwerk_330_ohm_sternschaltung_8wid_9pins-18042
-0.07 6-5 1kΩ Widerstandnetzwerk https://www.reichelt.de/de/de/shop/produkt/widerstandsnetzwerk_1_0_kohm_sternschaltung_5wid_6pins-17784
-0.14 8-7 1kΩ Widerstandnetzwerk https://www.reichelt.de/de/de/shop/produkt/widerstandsnetzwerk_1_0_kohm_sternschaltung_7wid_8pins-17955
+0.06 6-5 1kΩ Widerstandnetzwerk https://www.reichelt.de/de/de/shop/produkt/widerstandsnetzwerk_1_0_kohm_sternschaltung_5wid_6pins-17784
+0.12 8-7 1kΩ Widerstandnetzwerk https://www.reichelt.de/de/de/shop/produkt/widerstandsnetzwerk_1_0_kohm_sternschaltung_7wid_8pins-17955
 0.08 8-4 1kΩ Widerstandnetzwerk https://www.reichelt.de/at/de/shop/produkt/widerstandnetzwerk_einzelwiderstaende_1_0_kohm_4wid_8pins-17898
 0.11 4-3 3.3kΩ Widerstandnetzwerk https://www.mouser.at/ProductDetail/Bourns/4604X-101-332LF?qs=HN2KmhdtZEFauY5zPEy%2F5A%3D%3D
 0.07 5-4 3.3kΩ Widerstandnetzwerk https://www.reichelt.de/at/de/shop/produkt/widerstandnetzwerk_4_x_3_3_kohm_2_sil-5-17697
@@ -178,9 +179,9 @@
 0.34 47kΩ Potentiometer https://www.reichelt.de/at/de/shop/produkt/trimmpotentiometer_47_kohm_linear-232377
 0.36 6mm 500kΩ Potentiometer https://www.reichelt.de/at/de/shop/produkt/einstellpotentiometer_liegend_500_kohm_6_mm-14990
 0.24 10mm 500kΩ Potentiometer https://www.reichelt.de/at/de/shop/produkt/einstellpotentiometer_liegend_500_kohm_10_mm-14630
-0.29 1MΩ Potentiometer https://www.reichelt.de/at/de/shop/produkt/einstellpotentiometer_liegend_1_0_mohm_6_mm-14980
+0.19 1MΩ Potentiometer https://www.reichelt.de/at/de/shop/produkt/einstellpotentiometer_liegend_1_0_mohm_6_mm-14980
 1.18 220Ω Potentiometer 3296W https://www.reichelt.de/at/de/shop/produkt/spindeltrimmer_25_gaenge_220_ohm_linear-238574
-1.87 10kΩ Potentiometer SIP https://www.reichelt.de/at/de/shop/produkt/praezisionspotentiometer_25_gaenge_stehend_10_kohm-2699
+1.56 10kΩ Potentiometer SIP https://www.reichelt.de/at/de/shop/produkt/praezisionspotentiometer_25_gaenge_stehend_10_kohm-2699
 0.22 1MΩ Potentiometer SIP https://www.reichelt.de/at/de/shop/produkt/praezisionspotentiometer_25_gaenge_stehend_1_0_mohm-2695
 
 
@@ -213,14 +214,14 @@
 0.05 2N3904 Transistor https://www.reichelt.de/at/de/shop/produkt/bipolartransistor_npn_40v_0_2a_0_5w_to-92-2020
 0.05 2N3906 Transistor https://www.reichelt.de/at/de/shop/produkt/bipolartransistor_pnp_40v_0_2a_0_5w_to-92-2022
 0.42 2N4916 (2N2907) Transistor https://www.reichelt.de/at/de/shop/produkt/bipolartransistor_pnp_40v_0_6a_0_4w_to-18-1981
-0.08 2N7000 Transistor https://www.reichelt.de/de/de/shop/produkt/mosfet_n-ch_60v_0_115a_0_4w_to-92-219075
+0.07 2N7000 Transistor https://www.reichelt.de/de/de/shop/produkt/mosfet_n-ch_60v_0_115a_0_4w_to-92-219075
 0.10 BC327 Transistor https://www.mouser.at/ProductDetail/Diotec-Semiconductor/BC327-40?qs=OlC7AqGiEDk3RFYgk5gWUg%3D%3D
 0.10 BC338 Transistor https://www.mouser.at/ProductDetail/Diotec-Semiconductor/BC338-16?qs=OlC7AqGiEDkbTGBbt22t1g%3D%3D
 0.03 BC546B Transistor https://www.reichelt.de/at/de/shop/produkt/bipolartransistor_npn_65v_0_1a_0_5w_to-92-219129
 0.03 BC549C Transistor https://www.reichelt.de/at/de/shop/produkt/bipolartransistor_npn_30v_0_1a_0_625w_to-92-219127
 0.72 BD239 Transistor https://www.digikey.at/de/products/detail/stmicroelectronics/BD239C/2827177?s=N4IgTCBcDaICwE4DsBaAjGNBmAHCgcgCIgC6AvkA
 0.04 PN2222A Transistor https://www.reichelt.de/at/de/shop/produkt/bipolartransistor_npn_40v_0_6a_0_625w_to-92-353600
-0.43 2SD880 Transistor https://www.reichelt.de/de/de/shop/produkt/hf-bipolartransistor_npn_60v_3a_30w_to-220-17342?search=2sd880&
+0.36 2SD880 Transistor https://www.reichelt.de/de/de/shop/produkt/hf-bipolartransistor_npn_60v_3a_30w_to-220-17342?search=2sd880&
 0.05 2SC1815 Transistor https://www.reichelt.de/de/de/shop/produkt/bipolartransistor_npn_50v_0_15a_0_4w_to-92-16334
 
 # Oszilator
@@ -241,9 +242,9 @@
 0.05 5mm LED, rot https://www.reichelt.de/at/de/shop/produkt/led_5mm_bedrahtet_rot_350_mcd_60_-361630
 - 5mm LED, gelb
 0.08 SMD 0402 LED, rot https://www.reichelt.de/at/de/shop/produkt/led_smd_0402_rot_30_mcd_120_-231633
-0.16 SMD 0402 LED, gelb https://www.reichelt.de/at/de/shop/produkt/led_smd_0402_gelb_38_mcd_120_-231634
+0.14 SMD 0402 LED, gelb https://www.reichelt.de/at/de/shop/produkt/led_smd_0402_gelb_38_mcd_120_-231634
 0.16 SMD 0402 LED, grün https://www.mouser.de/ProductDetail/Stanley-Electric/FHD1105P-TR?qs=sGAEpiMZZMvVL5Kk7ZYykfR0dfvFIxRBX8030bRMwJH8ALpO3OwJhw%3D%3D
-0.10 SMD 0402 LED, blau https://www.reichelt.de/at/de/shop/produkt/led_smd_0402_blau_72_mcd_120_-231631
+0.09 SMD 0402 LED, blau https://www.reichelt.de/at/de/shop/produkt/led_smd_0402_blau_72_mcd_120_-231631
 0.16 SMD 0402 LED, orange https://www.mouser.de/ProductDetail/Stanley-Electric/FHA1105P-TR?qs=sGAEpiMZZMvVL5Kk7ZYykfR0dfvFIxRBU%2FeKCIOu3ALlw%252BPvoy%2FJIg%3D%3D
 
 # Stiftleiste
@@ -292,7 +293,7 @@
 0.94 90° 1x{36} Stiftleiste https://www.reichelt.de/at/de/shop/produkt/stiftleiste_36-polig_gewinkelt_vergold_-235643
 - 90° 2x22 Stiftleiste
 
-0.36 2x3 Stiftleiste mit Rahmen https://www.reichelt.de/de/de/shop/produkt/stiftwanne_6-pol_kontakte_vergoldet_2_54mm-235688
+0.30 2x3 Stiftleiste mit Rahmen https://www.reichelt.de/de/de/shop/produkt/stiftwanne_6-pol_kontakte_vergoldet_2_54mm-235688
 0.34 2x4 Stiftleiste mit Rahmen https://www.reichelt.de/at/de/shop/produkt/stiftwanne_8-pol_kontakte_vergoldet_2_54mm-235689
 0.34 2x5 Stiftleiste mit Rahmen https://www.reichelt.de/at/de/shop/produkt/stiftwanne_10-pol_kontakte_vergoldet_2_54mm-235690
 0.47 2x12 Stiftleiste mit Rahmen https://www.mouser.at/ProductDetail/Adam-Tech/BHR-24-VUA?qs=NSmkAkPvkZnX4wWOD6sDew%3D%3D
@@ -321,7 +322,7 @@
 2.94 1x50 Buchsenleiste rund https://www.reichelt.de/at/de/shop/produkt/praezisions-sockelstreifen_2_54_mm_50-polig-119951
 
 # Taster, Schalter
-0.32 6x6x5mm Taster https://www.reichelt.de/at/de/shop/produkt/kurzhubtaster_printmontage_1_schliesser_6_x_6_x_5_mm-360043
+0.35 6x6x5mm Taster https://www.reichelt.de/at/de/shop/produkt/kurzhubtaster_printmontage_1_schliesser_6_x_6_x_5_mm-360043
 0.24 6x6x7mm Taster https://www.reichelt.de/at/de/shop/produkt/kurzhubtaster_printmontage_1_schliesser_6_x_6_x_7_mm-360045
 0.20 6x6x8mm Taster https://www.reichelt.de/at/de/shop/produkt/kurzhubtaster_6x6mm_hoehe_8_0mm_1_schliesser-375520
 0.30 6x6x9.5mm Taster https://www.reichelt.de/at/de/shop/produkt/kurzhubtaster_printmontage_1_schliesser_6_x_6_x_9_5_mm-360048
@@ -336,9 +337,9 @@
 0.19 12mm Tastenkappe rot https://www.mouser.at/ProductDetail/Diptronics/KTSC-22R?qs=sGAEpiMZZMsqIr59i2oRcr6gQedWCBTnIXnjNVjxO9Y%3D
 0.64 90° 1xEin/Ein Schalter SMD https://www.reichelt.de/at/de/shop/produkt/schiebeschalter_1x_um_liegend_smd-112181
 2.44 1xEin/Ein Schalter https://www.reichelt.de/de/de/shop/produkt/schiebeschalter_gerade_rm2_54_-_1x_ein_-_ein-105709
-4.69 2xEin/Ein Schalter https://www.reichelt.de/at/de/shop/produkt/schiebeschalter_gerade_rm2_54_-_2x_ein_-_ein-105711
+3.91 2xEin/Ein Schalter https://www.reichelt.de/at/de/shop/produkt/schiebeschalter_gerade_rm2_54_-_2x_ein_-_ein-105711
 - 2xEin/Ein Schalter, groß
-0.41 2xEin/Ein Schalter, 2.54mm https://eu.mouser.com/ProductDetail/CK/JS202011CQN?qs=LgMIjt8LuD%2Fe%252BE3iTcEFYw%3D%3D
+0.40 2xEin/Ein Schalter, 2.54mm https://eu.mouser.com/ProductDetail/CK/JS202011CQN?qs=LgMIjt8LuD%2Fe%252BE3iTcEFYw%3D%3D
 0.53 1xEin/Ein Schalter, 10x2.5mm https://www.reichelt.de/at/de/shop/produkt/schiebeschalter_1x_um_stehend_print_rm_2_54-112178
 3.91 2xEin/Ein Schalter, 14.1x12.5mm https://www.reichelt.de/at/de/shop/produkt/schiebeschalter_gerade_rm2_54_-_2x_ein_-_ein-105711
 0.88 1xDIP Schalter https://www.mouser.at/ProductDetail/Wurth-Elektronik/418117270901?qs=wr8lucFkNMXoidz%252BMVxNfg%3D%3D
@@ -353,7 +354,7 @@
 0.52 MX Schalter https://www.amazon.de/Switches-Pre-lubed-switches-Compatible-Mechanical/dp/B0D1G5SV4D/ref=sr_1_2?__mk_de_DE=ÅMÅŽÕÑ&crid=2VIP65OA5YPCE&dib=eyJ2IjoiMSJ9.6VhPjQXOxosLtRBueIr6s9ZyufxT274DU5ARlHWXR3jB5Jc2Er5tbPGg_K6AyF_nUmhxvEy6Kug5fhO9Z9ehkBFJpqLniohWUlbkc-aKvQ8EyaS55l7nqpSOPL1X8WyplP1SaJsm1Lm-zyqVP4D0Ey-q9Nx7OvLoqwgRlcpHDhw5Spsq8_0jqafAs61HqQh1Tnix6uKVtmkHE10QwUqWpKCXIH9yj-_W9pOROtlaMycDJlmBd_VMigTSyfLZfRKmblKf_BXq0cSliOFUZv5qLaXNWxI1e8KjwEwLV9DLPTo.64XlPbe3eDetyEyfJi1sqyB-5t-MYylas6aAN0Ez5vc&dib_tag=se&keywords=gateron%2Bblau&qid=1746471654&s=computers&sprefix=gateron%2Bblau%2Ccomputers%2C123&sr=1-2&th=1
 - MX Schalter, flach
 1.27 MX Taste https://yuzukeycaps.com/playground
-3.99 1xEin/Aus/Ein Schalter https://www.reichelt.de/de/de/shop/produkt/schiebeschalter_gerade_rm2_54_-_1x_ein_-_aus_-_ein-105710
+3.35 1xEin/Aus/Ein Schalter https://www.reichelt.de/de/de/shop/produkt/schiebeschalter_gerade_rm2_54_-_1x_ein_-_aus_-_ein-105710
 5.76 2xEin/Aus/Ein Schalter https://www.reichelt.de/at/de/shop/produkt/schiebeschalter_gerade_rm2_54_-_2x_ein_-_aus_-_ein-105712
 - 90° 2mm 2xEin/Ein Schalter
 - C64 Stromschalter
@@ -401,8 +402,8 @@
 0.18 D-Sub-9 Stecker mit Pins https://www.reichelt.de/at/de/shop/produkt/d-sub-stecker_9-polig_printausfuehrung-17626
 0.26 D-Sub-15 Buchse https://www.reichelt.de/at/de/shop/produkt/d-sub-buchse_15-polig_loetkelch_weiss-241278
 0.35 D-Sub-15 Stecker https://www.reichelt.de/at/de/shop/produkt/d-sub-stecker_15-polig_loetkelch-6993
-0.30 D-Sub-25 Buchse https://www.reichelt.de/de/de/shop/produkt/d-sub-buchse_25-polig_loetkelch-6965
-0.24 D-Sub-25 Stecker https://www.reichelt.de/de/de/shop/produkt/d-sub-stecker_25-polig_loetkelch-7001
+0.25 D-Sub-25 Buchse https://www.reichelt.de/de/de/shop/produkt/d-sub-buchse_25-polig_loetkelch-6965
+0.20 D-Sub-25 Stecker https://www.reichelt.de/de/de/shop/produkt/d-sub-stecker_25-polig_loetkelch-7001
 0.80 D-Sub-9 Gehäuse https://www.reichelt.de/at/de/shop/produkt/d-sub-kappe_9_polig_grau-235623
 0.87 D-Sub-15 Gehäuse https://www.reichelt.de/at/de/shop/produkt/d-sub-kappe_15_polig_grau-235624
 0.64 D-Sub-9 Stecker für Flachbandkabel https://www.reichelt.de/at/de/shop/produkt/d-sub-stecker_9-pol_flachbandkabel_mit_isolator-259833
@@ -413,7 +414,7 @@
 0.20 2x4 Buchsenleiste für Flachbandkabel https://www.reichelt.de/at/de/shop/produkt/pfostenbuchse_8-polig_mit_zugentlastung-284853
 0.08 2x5 Buchsenleiste für Flachbandkabel https://www.reichelt.de/at/de/shop/produkt/pfostenbuchse_10-polig_mit_zugentlastung-14571
 - 2x6 Buchsenleiste für Flachbandkabel
-0.79 2x10 Buchsenleiste für Flachbandkabel https://www.reichelt.de/de/de/shop/produkt/pfosten-verbinder_2x10polig_kontakte_vergoldet-235684
+0.66 2x10 Buchsenleiste für Flachbandkabel https://www.reichelt.de/de/de/shop/produkt/pfosten-verbinder_2x10polig_kontakte_vergoldet-235684
 - 2x12 Buchsenleiste für Flachbandkabel
 - 90° Cinch Buchse
 1.60 90° 2-Pol Cinch Buchse https://www.reichelt.de/at/de/shop/produkt/cinch-einbaubuchse_farbcodierung_schwarz_vergoldet-198330
@@ -457,13 +458,13 @@
 - 8501 CPU
 - 8580 SID
 - 65C02 CPU
-16.60 65C22 VIA https://www.reichelt.de/de/de/shop/produkt/65xx_68xx_vielseitiger_schnittstellenadapter_pdip-40-323440
+13.95 65C22 VIA https://www.reichelt.de/de/de/shop/produkt/65xx_68xx_vielseitiger_schnittstellenadapter_pdip-40-323440
 - UM6526P1 TIA
 4.04 6264 8k SRAM https://www.mouser.at/ProductDetail/Alliance-Memory/AS6C6264-55PCN?qs=LD2UibpCYJoQnvGJLyETNg%3D%3D
 3.93 6264 8k SRAM https://www.digikey.at/de/products/detail/alliance-memory-inc/AS6C6264-55PCN/4234595
 2.02 62256 32k SRAM https://www.reichelt.de/at/de/shop/produkt/sram_256_kb_32_k_x_8_4_5_5_5_v_dil-28-2673
 4.33 628128 128kx8 RAM https://www.reichelt.de/at/de/shop/produkt/sram_1_mb_128_k_x_8_4_5_5_5_v_dip-32-2677
-6.65 AS6C1008 128k SRAM https://www.reichelt.de/de/de/shop/produkt/sram_1_mb_128_k_x_8_5_v_55ns_dil-32-146552?search=AS6C1008&
+5.59 AS6C1008 128k SRAM https://www.reichelt.de/de/de/shop/produkt/sram_1_mb_128_k_x_8_5_v_55ns_dil-32-146552?search=AS6C1008&
 - AS6C4008 512k SRAM
 3.12 SST39SF020 EEPROM https://www.mouser.at/ProductDetail/Microchip-Technology/SST39SF020A-70-4C-PHE?qs=RKLR0Pe6v1lBETiSouLjAQ%3D%3D
 - 27C64 EPROM https://de.aliexpress.com/
@@ -473,8 +474,9 @@
 10.60 AT29C040 EEPROM https://www.ebay.de/itm/385196208326
 1.31 27C800 EPROM https://de.aliexpress.com/item/1005008068040412.html?spm=a2g0o.productlist.main.1.27a3150byUFH1J&algo_pvid=4d085d3e-ab9d-40ff-a94a-1aa18564cc90&algo_exp_id=4d085d3e-ab9d-40ff-a94a-1aa18564cc90-0&pdp_ext_f=%7B%22order%22%3A%2217%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%217.00%217.00%21%21%217.75%217.75%21%40210385bb17464724708983744ec46d%2112000043523683522%21sea%21AT%214802728327%21X&curPageLogUid=ObcG72jZQWA6&utparam-url=scene%3Asearch%7Cquery_from%3A
 2.97 27C322 EPROM https://de.aliexpress.com/item/1005007210437647.html?spm=a2g0o.productlist.main.3.55df61c8ddRG9k&algo_pvid=92fd5fe6-7d8f-4cc5-a918-2887e6d8e310&algo_exp_id=92fd5fe6-7d8f-4cc5-a918-2887e6d8e310-1&pdp_ext_f=%7B%22order%22%3A%2233%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%2130.08%2130.08%21%21%2133.30%2133.30%21%402103868817464726692368118e0fcb%2112000039818574344%21sea%21AT%214802728327%21X&curPageLogUid=8ztLTTHAH7ed&utparam-url=scene%3Asearch%7Cquery_from%3A
-1.25 25LC256 I2C EPROM https://www.reichelt.de/de/de/shop/produkt/eeprom_256_kb_32_k_x_8_spi_10_mhz_2_5_5_5_v_dip-8-96667
-- 25LC1024 I2C EPROM
+- 24LC256 I2C EPROM
+1.05 25LC256 SPI EPROM https://www.reichelt.de/de/de/shop/produkt/eeprom_256_kb_32_k_x_8_spi_10_mhz_2_5_5_5_v_dip-8-96667
+- 25LC1024 SPI EPROM
 - SST39SF Flash ROM
 0.82 MM5280 4kx1 DRAM https://www.aliexpress.com/item/1005001682152034.html
 1.49 MCM74C923N Key Encoder https://www.aliexpress.com/item/4000540774501.html
@@ -489,9 +491,9 @@
 0.79 CD4052 https://www.mouser.at/ProductDetail/Texas-Instruments/CD4052BEE4?qs=LSR%252BNeaw%2FwDve8P9UiHkig%3D%3D
 0.78 74HC541 https://www.mouser.at/ProductDetail/Texas-Instruments/CD74HC541E?qs=N6WZOzgtpqWbvVrSU2HZqw%3D%3D
 - 74HCT01 
-0.65 74HCT02 https://www.reichelt.de/de/de/shop/produkt/nor-gate_2-input_4_5_5_5_v_dil-14-3304?search=74HCT%252002&
+0.55 74HCT02 https://www.reichelt.de/de/de/shop/produkt/nor-gate_2-input_4_5_5_5_v_dil-14-3304?search=74HCT%252002&
 0.58 74HCT04 https://www.reichelt.de/at/de/shop/produkt/inverter_hex_4_5_5_5_v_dil-14-3306
-0.60 74HCT08 https://www.reichelt.de/de/de/shop/produkt/and-gate_2_element_4_5_5_5_v_dil-14-3307?search=74HCT08&
+0.50 74HCT08 https://www.reichelt.de/de/de/shop/produkt/and-gate_2_element_4_5_5_5_v_dil-14-3307?search=74HCT08&
 - 74HCT74
 - 74HCT139
 0.75 74HCT245 https://www.reichelt.de/at/de/shop/produkt/octal_bus_puffer_3-state_4_5_5_5_v_dil-20-3356
@@ -501,7 +503,7 @@
 - 74HCT573
 0.65 74LS00 https://www.reichelt.de/at/de/shop/produkt/vierfach_2-eingangs-positive-nand-gatter_dil-14-216916
 0.65 74LS00N https://www.reichelt.de/at/de/shop/produkt/vierfach_2-eingangs-positive-nand-gatter_dil-14-216916
-0.45 74LS02 https://www.mouser.at/ProductDetail/Texas-Instruments/SN74LS02N?qs=spW5eSrOWB4KM%252BpAgRke5g%3D%3D
+0.48 74LS02 https://www.mouser.at/ProductDetail/Texas-Instruments/SN74LS02N?qs=spW5eSrOWB4KM%252BpAgRke5g%3D%3D
 0.96 74LS04 https://www.reichelt.de/at/de/shop/produkt/inverter_hex_4_75_5_25_v_dil-14-10588
 0.68 74LS06 https://www.reichelt.de/at/de/shop/produkt/inverter_hex_4_75_5_25_v_dil-14-10590
 0.66 74LS05 https://www.mouser.at/ProductDetail/Texas-Instruments/SN74LS05N?qs=spW5eSrOWB5U2y5XHWmnjA%3D%3D
@@ -524,14 +526,14 @@
 0.23 74LS125 https://www.reichelt.de/at/de/shop/produkt/buffer_3-state_4_75_5_25_v_dil-14-10606
 0.46 74LS133 https://www.aliexpress.com/item/1005007536269001.html
 0.71 74LS138 https://www.reichelt.de/at/de/shop/produkt/decoder_demultiplexer_3_8_4_75_5_25_v_dip-16-216887
-0.56 74LS139 https://www.mouser.at/ProductDetail/Texas-Instruments/SN74LS139AN?qs=3pnr37ZAbK%2FhW2T3DHZDAw%3D%3D
+0.52 74LS139 https://www.mouser.at/ProductDetail/Texas-Instruments/SN74LS139AN?qs=3pnr37ZAbK%2FhW2T3DHZDAw%3D%3D
 1.01 74LS145 https://www.reichelt.de/at/de/shop/produkt/bcd-zu-dezimal-decoder_treiber_10_ausgaenge_5_v_dil-16-216939
-0.95 74LS157 https://www.reichelt.de/de/de/shop/produkt/multiplexer_lp-schottky_4_75_5_25_v_dil-16-10625
+0.80 74LS157 https://www.reichelt.de/de/de/shop/produkt/multiplexer_lp-schottky_4_75_5_25_v_dil-16-10625
 0.20 74LS158 https://www.reichelt.de/at/de/shop/produkt/multiplexer_lp-schottky_4_75_5_25_v_dil-16-10626
 0.58 74LS166 https://www.reichelt.de/at/de/shop/produkt/shift_register_8-bit_4_75_5_25_v_dil-16-10633
 1.30 74LS173 https://www.mouser.at/ProductDetail/Texas-Instruments/SN74LS173AN?qs=nMmhAzRCgdAkY4Cck6ihbQ%3D%3D
-0.81 74LS174 https://www.reichelt.de/at/de/shop/produkt/flip-flop_d-type_lp-schottky_4_75_5_25_v_dil-16-10639
-0.72 74LS175 https://www.mouser.at/ProductDetail/Texas-Instruments/SN74LS175N?qs=WzgTT80quPFE8M0oojcOlA%3D%3D
+0.92 74LS174 https://www.reichelt.de/at/de/shop/produkt/flip-flop_d-type_lp-schottky_4_75_5_25_v_dil-16-10639
+0.65 74LS175 https://www.mouser.at/ProductDetail/Texas-Instruments/SN74LS175N?qs=WzgTT80quPFE8M0oojcOlA%3D%3D
 1.01 74LS244 https://www.reichelt.de/at/de/shop/produkt/buffer_3-state_8-ch_4_75_5_25_v_dil-20-216948
 0.69 74LS245 https://www.mouser.at/ProductDetail/Texas-Instruments/SN74LS245N?qs=tJ5HNKWh3OU3CUIGSPX6%2Fg%3D%3D
 0.92 74LS273 https://www.reichelt.de/at/de/shop/produkt/flip-flop_d-type_octal_4_75_5_25_v_dil-20-219525
@@ -547,7 +549,7 @@
 1.51 TLC272 https://www.reichelt.de/at/de/shop/produkt/operationsverstaerker_2-fach_3_6_v_s_1_7_mhz_dip-8-188980
 0.57 6N138 https://www.reichelt.de/at/de/shop/produkt/optokoppler-2859
 0.59 MAX232 https://www.reichelt.de/at/de/shop/produkt/rs232_2_treiber_2_empfaenger_dil-16-11216
-8.34 MAX202 https://www.mouser.at/ProductDetail/Analog-Devices-Maxim-Integrated/MAX202CPE%2b?qs=1THa7WoU59H03WmQ%2FB%2FQ6w%3D%3D
+6.55 MAX202 https://www.mouser.at/ProductDetail/Analog-Devices-Maxim-Integrated/MAX202CPE%2b?qs=1THa7WoU59H03WmQ%2FB%2FQ6w%3D%3D
 6.34 MAX662A https://www.mouser.at/ProductDetail/Analog-Devices-Maxim-Integrated/MAX662ACPA%2b?qs=1THa7WoU59E96DBJgjs4Bw%3D%3D
 0.52 74LS153 SMD https://www.mouser.at/ProductDetail/Texas-Instruments/SN74LS153DR?qs=SL3LIuy2dWyFs2m7ewa9VQ%3D%3D
 0.49 SN74LS245NSR SMD https://www.mouser.at/ProductDetail/Texas-Instruments/SN74LS245NSR?qs=SL3LIuy2dWxnZT3XTjNvUA%3D%3D
@@ -555,23 +557,23 @@
 
 # IC Sockel
 0.64 4-Pin Sockel, schmal https://www.mouser.at/ProductDetail/Preci-dip/110-87-304-41-001101?qs=FtMuP6KVi2Qc12kPxWk2TA%3D%3D
-0.16 6-Pin Sockel, schmal https://www.reichelt.de/de/de/shop/produkt/ic-sockel_6-polig_superflach_gedreht_vergold_-8229
-0.25 8-Pin Sockel, schmal https://www.reichelt.de/at/de/shop/produkt/ic-sockel_8-polig_superflach_gedreht-8231
+0.14 6-Pin Sockel, schmal https://www.reichelt.de/de/de/shop/produkt/ic-sockel_6-polig_superflach_gedreht_vergold_-8229
+0.21 8-Pin Sockel, schmal https://www.reichelt.de/at/de/shop/produkt/ic-sockel_8-polig_superflach_gedreht-8231
 0.21 14-Pin Sockel, schmal https://www.reichelt.de/at/de/shop/produkt/ic-sockel_14-polig_superflach_gedreht_vergold_-8207
-0.21 16-Pin Sockel, schmal https://www.reichelt.de/at/de/shop/produkt/ic-sockel_16-polig_superflach_gedreht_vergold_-8209
+0.23 16-Pin Sockel, schmal https://www.reichelt.de/at/de/shop/produkt/ic-sockel_16-polig_superflach_gedreht_vergold_-8209
 0.30 18-Pin Sockel, schmal https://www.reichelt.de/at/de/shop/produkt/ic-sockel_18-polig_superflach_gedreht_vergold_-8211
 0.30 20-Pin Sockel, schmal https://www.reichelt.de/at/de/shop/produkt/ic-sockel_20-polig_superflach_gedreht_vergold_-8213
 0.43 24-Pin Sockel, schmal https://www.reichelt.de/at/de/shop/produkt/ic-sockel_24-polig_superflach_gedreht_schmal-8219
 0.34 22-Pin Sockel, halb-breit https://www.reichelt.de/at/de/shop/produkt/ic-sockel_22-polig_superflach_gedreht_vergold_-8215
 0.43 24-Pin Sockel, breit https://www.reichelt.de/at/de/shop/produkt/ic-sockel_24-polig_superflach_gedreht_vergold_-8218
-0.49 28-Pin Sockel, breit https://www.reichelt.de/at/de/shop/produkt/ic-sockel_28-polig_superflach_gedreht_vergold_-8221
-0.83 32-Pin Sockel, breit https://www.reichelt.de/at/de/shop/produkt/ic-sockel_32-polig_superflach_gedreht_vergold_-8223
+0.50 28-Pin Sockel, breit https://www.reichelt.de/at/de/shop/produkt/ic-sockel_28-polig_superflach_gedreht_vergold_-8221
+0.50 32-Pin Sockel, breit https://www.reichelt.de/at/de/shop/produkt/ic-sockel_32-polig_superflach_gedreht_vergold_-8223
 0.59 40-Pin Sockel, breit https://www.reichelt.de/at/de/shop/produkt/ic-sockel_40-polig_superflach_gedreht_vergold_-8225
-2.75 48-Pin Sockel, breit https://www.reichelt.de/de/de/shop/produkt/ic-sockel_48-polig_superflach_gedreht_vergold_-8226
+2.31 48-Pin Sockel, breit https://www.reichelt.de/de/de/shop/produkt/ic-sockel_48-polig_superflach_gedreht_vergold_-8226
 - 32-Pin ZIF-Sockel, breit
 0.86 32-Pin PLCC-Sockel https://www.mouser.at/ProductDetail/Adam-Tech/PLCC-32-AT?qs=WZRMhwwaLl%252BghYTuSfuZAg%3D%3D
 0.84 32-Pin PLCC-Sockel https://www.digikey.at/de/products/detail/adam-tech/PLCC-32-AT/9833049
-0.99 44-Pin PLCC Sockel https://www.reichelt.de/de/de/shop/produkt/ic-fassung_44-polig_plcc-14701
+0.83 44-Pin PLCC Sockel https://www.reichelt.de/de/de/shop/produkt/ic-fassung_44-polig_plcc-14701
 
 # Microcontroller
 7.39 Arduino Pro Micro https://www.reichelt.de/at/de/shop/produkt/arduino_-_mikrocontroller_atmega32u4_usb-330660
@@ -580,7 +582,7 @@
 - Raspberry Pi Pico W
 - Raspberry Pi Pico 2
 - Teensy 4.1
-10.65 P8X32A-D40 https://www.mouser.at/ProductDetail/Parallax/P8X32A-D40?qs=QGk6feVlqMKUIA06dhUaew%3D%3D
+10.63 P8X32A-D40 https://www.mouser.at/ProductDetail/Parallax/P8X32A-D40?qs=QGk6feVlqMKUIA06dhUaew%3D%3D
 13.80 P8X32A-D40 https://www.reichelt.de/de/de/shop/produkt/risc_mikrocontroller_80_mhz_32kb_dip-40-367577
 18.34 Wemos LoLin D32 Pro https://www.ebay.de/itm/256369668464
 
@@ -592,24 +594,24 @@
 0.50 CR1620 https://www.reichelt.de/de/de/shop/produkt/lithium-knopfzelle_cr1620_3v_16_0x2_0_mm_5er-pack-357142
 0.39 170mA Sicherung https://www.mouser.de/ProductDetail/Littelfuse/60R017XU?qs=aZoEvtLPFVdzfCf1RWuJkg%3D%3D
 0.50 500mA Sicherung https://www.mouser.de/ProductDetail/Littelfuse/60R050XPR?qs=aZoEvtLPFVfzJMzNtHtCzQ%3D%3D
-1.00 250mA Sicherung https://www.reichelt.de/at/de/shop/produkt/ptc-sicherung_radial_60v_250ma_rueckstellend-279311
-0.55 400mA Sicherung https://www.reichelt.de/at/de/shop/produkt/rueckstellende_sicherungen_400_ma-242442
-0.31 1.5A Sicherungshalterung, 5x20mm https://www.reichelt.de/at/de/shop/produkt/sicherungshalter_feinsicherungen_5x20mm_max_6_3a_250v-286041
-1.16 1.5A Sicherung, 5x15mm https://www.reichelt.de/at/de/shop/produkt/feinsicherung_5x15mm_flink_f_1_5a-278601
-0.87 40p VariCap https://www.digikey.at/de/products/detail/ew-electronics/GKG50015/11689274?s=N4IgTCBcDa4CxwOwFoDiBpVBWADDgjFsgHIAiIAugL5A
-0.33 DSS1NB32A271Q91A EMI Filter https://www.mouser.at/ProductDetail/Murata-Electronics/DSS1NB32A271Q91A?qs=0Ys4hG7ORMdMh3s4a3P7nA%3D%3D
+0.58 250mA Sicherung https://www.reichelt.de/at/de/shop/produkt/ptc-sicherung_radial_60v_250ma_rueckstellend-279311
+0.46 400mA Sicherung https://www.reichelt.de/at/de/shop/produkt/rueckstellende_sicherungen_400_ma-242442
+0.26 1.5A Sicherungshalterung, 5x20mm https://www.reichelt.de/at/de/shop/produkt/sicherungshalter_feinsicherungen_5x20mm_max_6_3a_250v-286041
+0.68 1.5A Sicherung, 5x15mm https://www.reichelt.de/at/de/shop/produkt/feinsicherung_5x15mm_flink_f_1_5a-278601
+0.74 40p VariCap https://www.digikey.at/de/products/detail/ew-electronics/GKG50015/11689274?s=N4IgTCBcDa4CxwOwFoDiBpVBWADDgjFsgHIAiIAugL5A
+0.38 DSS1NB32A271Q91A EMI Filter https://www.mouser.at/ProductDetail/Murata-Electronics/DSS1NB32A271Q91A?qs=0Ys4hG7ORMdMh3s4a3P7nA%3D%3D
 0.14 28L0138-80R-10 EMI Filter https://www.mouser.at/ProductDetail/Laird-Performance-Materials/28L0138-80R-10?qs=qgZcrvoyHAd98f%252B0tLOU0Q%3D%3D
 0.76 W04G-E4 (NTE5304) Diodenbrücke https://www.mouser.de/ProductDetail/Vishay-General-Semiconductor/W04G-E4-51?qs=D6r9GjgEnNO6smGLjWlqbg%3D%3D
 
 # Sonderposten
-1.72 CM4545Z131B-10 https://www.mouser.at/ProductDetail/Laird-Performance-Materials/CM4545Z131B-10?qs=bbdZqDPQhEV545kiIlSJJg%3D%3D
+1.94 CM4545Z131B-10 https://www.mouser.at/ProductDetail/Laird-Performance-Materials/CM4545Z131B-10?qs=bbdZqDPQhEV545kiIlSJJg%3D%3D
 1.26 ATF16V8B https://www.reichelt.de/at/de/shop/produkt/eepld_62_mhz_8_macrocells_20_i_o_pdip-20-386811
 1.26 GAL16V8 https://www.reichelt.de/at/de/shop/produkt/eepld_62_mhz_8_macrocells_20_i_o_pdip-20-386811
 1.70 GAL20V8 https://www.ebay.de/itm/324747112356
 2.50 ATF22V10 https://www.mouser.at/ProductDetail/Microchip-Technology/ATF22V10C-10PU?qs=sbcp%2F4gpy08q9KneenDHAA%3D%3D
 4.25 ATF1504 CPLD https://www.mouser.at/ProductDetail/Microchip-Technology/ATF1504AS-10JU44?qs=fH4tvdCgwtPVDPYqoumHhA%3D%3D
 - W65C51S
-9.98 ATF2500 https://www.mouser.de/ProductDetail/Microchip-Technology/ATF2500C-20PU?qs=2mdvTlUeTfBJnpvhOz41ag%3D%3D
+9.97 ATF2500 https://www.mouser.de/ProductDetail/Microchip-Technology/ATF2500C-20PU?qs=2mdvTlUeTfBJnpvhOz41ag%3D%3D
 .70 2764 EPROM https://de.aliexpress.com/item/1005004967057967.html
 3.10 2764 EPROM https://www.ebay.de/itm/264906348887
 3.10 27C64 EPROM https://www.ebay.de/itm/264906348887
@@ -618,7 +620,7 @@
 3.30 27512 EPROM https://www.ebay.de/itm/275137449131
 - 27C512 EPROM 
 4.26 29F040 Flash ROM https://de.aliexpress.com/item/1005001889894539.html?spm=a2g0o.productlist.main.3.2ff6I9kLI9kLNj&algo_pvid=39e4833c-3440-4623-a0af-c80ec689cd16&algo_exp_id=39e4833c-3440-4623-a0af-c80ec689cd16-1&pdp_ext_f=%7B%22order%22%3A%221%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%213.89%213.50%21%21%214.31%213.88%21%40211b819117464729336654846e04f4%2112000028134866745%21sea%21AT%214802728327%21X&curPageLogUid=9LwZMVVO6PCd&utparam-url=scene%3Asearch%7Cquery_from%3A
-2.30 SST39SF040 Flash ROM, PLCC-32 https://www.reichelt.de/de/de/shop/produkt/multi-nor-flash-speicher_4_mb_512_k_x_8_5_v_plcc-32-121965
+1.93 SST39SF040 Flash ROM, PLCC-32 https://www.reichelt.de/de/de/shop/produkt/multi-nor-flash-speicher_4_mb_512_k_x_8_5_v_plcc-32-121965
  2.90 Userport Stecker https://restore-store.de/home/298-userport-stecker-24-pin-hq-.html
  5.85 Userport Stecker Gehäuse https://restore-store.de/bauelemente/279-gehaeuse-fuer-userport-stecker.html
  - ZX-Spectrum Expansion Port Stecker
@@ -642,7 +644,7 @@
 1.72 LM2937ET-3.3 Spannungswandler https://www.mouser.at/ProductDetail/Texas-Instruments/LM2937ET-3.3-NOPB?qs=X1J7HmVL2ZEMUke2IfNR4w%3D%3D
 - D36V28F5 Spannungswandler
 6.44 DD0315NA -5V Spannungswandler https://de.aliexpress.com/item/33033262757.html?spm=a2g0o.productlist.main.5.7e765a1bPO9HMA&algo_pvid=4d938690-3698-4f44-bc14-52a011bf3769&algo_exp_id=4d938690-3698-4f44-bc14-52a011bf3769-2&pdp_ext_f=%7B%22order%22%3A%221%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%212.01%212.01%21%21%212.22%212.22%21%402103868817464711279094156e0fd8%2167347220725%21sea%21AT%214802728327%21X&curPageLogUid=PtLxuOhyGVzk&utparam-url=scene%3Asearch%7Cquery_from%3A
-0.50 Ferritperle 998Ω 100MHz https://www.mouser.at/ProductDetail/875-28C0236-0EW-10
+0.10 Ferritperle 998Ω 100MHz https://www.mouser.at/ProductDetail/875-28C0236-0EW-10
 0.01 Ferritperle, 6x4mm https://www.mouser.de/ProductDetail/Laird-Performance-Materials/28L0138-80R-10?qs=qgZcrvoyHAd98f%252B0tLOU0Q%3D%3D
 - YM3014
 - YM3526
@@ -660,14 +662,14 @@
 0.20 10µH Drosselspule https://www.reichelt.de/at/de/shop/produkt/festinduktivitaet_axial_micc_ferrit_10_-86427
 1.22 ST1167 Spannungswandler https://www.reichelt.de/at/de/shop/produkt/entwicklerboards_-_ttl_logic_level_converter_3_3v_5v-282702
 6.50 Waveshare USB-TO-TTL-FT232 https://www.berrybase.at/waveshare-usb-zu-uart-ttl-mini-kommunikationsmodul-ft232rnl-300bps-3mbps-usb-type-c
-0.28 4N35 Optokopler https://www.reichelt.de/de/de/shop/produkt/optokoppler_dil-6-216625
+0.24 4N35 Optokopler https://www.reichelt.de/de/de/shop/produkt/optokoppler_dil-6-216625
 0.84 A302 Schmitt-Trigger https://www.ebay.de/itm/265335531699
 7.50 SNES Controller https://www.amazon.de/-/en/Controllers-Double-Nintendo-Controller-Gamepad/dp/B0D3WJPNBF
 - SD Card Slot SMD
 3.32 TV5G Kühlkörper https://www.mouser.at/ProductDetail/Aavid/TV-5G?qs=U7T%2FEnMyvTvxjGl8pBhKCA%3D%3D
 13.14 FT232H Breakout Board https://www.digikey.at/de/products/detail/adafruit-industries-llc/2264/5761217?s=N4IgTCBcDaIIYBM4DMBOBXAlgFwATOzAGYwALEAXQF8g
 
-6.99 SSD1306 I2C OLED 128x64 (0.96") https://www.reichelt.de/de/de/shop/produkt/entwicklerboards_-_display_0_96_oled-display_ssd1306-266107
+5.87 SSD1306 I2C OLED 128x64 (0.96") https://www.reichelt.de/de/de/shop/produkt/entwicklerboards_-_display_0_96_oled-display_ssd1306-266107
 - 2/4GiB µSD Karte (nicht SDHC) https://amazon.de/
 8.04 3.5" Klinke Buchse auf 2x Cinch Stecker https://www.amazon.de/UGREEN-Adapter-Audiokabel-Vergoldete-Kontakte/dp/B079L2VL1S
 4.79 8-pol Kabel, dünn geschirmt https://www.reichelt.de/de/de/shop/produkt/steuerleitung_8x0_14mm_geschirmt_5m-ring-10313

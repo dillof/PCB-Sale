@@ -22,7 +22,7 @@ components:
     10 1N4148 Diode
     1 74HC541
     1 LM2937ET-3.3 Spannungswandler
-    1 25LC256 I2C EPROM
+    1 24LC256 I2C EPROM
     1 P8X32A-D40
     1 65C02 CPU
     1 65C22 VIA

@@ -11,7 +11,7 @@ systems:
 components:
     1 Platine
     1 100nF Kondensator
-    1 25LC1024 I2C EPROM
+    1 25LC1024 SPI EPROM
     1 8-Pin Sockel, schmal
     1 1x2 Stiftleiste
     2 1x3 Stiftleiste
