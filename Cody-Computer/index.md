@@ -33,12 +33,12 @@ components:
     1 32-Pin Sockel, breit
     3 40-Pin Sockel, breit
     1 5MHz Quarz
-    2 1x2 Stiftleiste
-    1 1x4 Stiftleiste
+    1 1x2 Stiftleiste
+    1 90° 1x4 Stiftleiste
     1 1x11 Stiftleiste
     1 90° 1x20 Buchsenleiste
+    1 Jumper
     1 90° 5.5/2.1mm Hohlstecker Buchse
     2 90° Cinch Buchse
     2 90° D-Sub-9 Stecker
-
 --- 

@@ -14,7 +14,7 @@ components:
     1 MAX202
     1 14-Pin Sockel, schmal
     1 16-Pin Sockel, schmal
-    1 2xEin/Ein Schalter
+    1 2xEin/Ein Schalter, SS-25446-N
     4 1xEin/Ein Schalter
     1 PN2222A Transistor
     1 5-4 3.3kΩ Widerstandnetzwerk

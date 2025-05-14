@@ -20,6 +20,5 @@ components:
     1 2x9 Stiftleiste
     1 90° D-Sub-9 Stecker
     1 90° 5.5/2.1mm Hohlstecker Buchse
-
 --- 
 Stromversorgung und serielle Schnittstelle für PAL-2.

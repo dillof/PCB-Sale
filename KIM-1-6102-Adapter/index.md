@@ -11,7 +11,7 @@ components:
     1 Platine
     2 1x8 Stiftleiste rund
     7 1x1 Stiftleiste rund
-    1 62256 32kx8 SRAM
+    1 62256 32k SRAM
     1 28-Pin Sockel, breit
 ---
 Dieser Adapter ersetzt die schwer zu findenden 6102 RAM Chips durch einen 62256.

@@ -13,6 +13,6 @@ components:
     1 1x4 Stiftleiste
     1 Jumper
 systems:
-    Computer
+    Development
 ---
 Diese Platine führt alle Signale des S-Video Steckers an eine Stiftleiste. Zusätzlich können die beiden GND Leitungen per Jumper verbunden werden.

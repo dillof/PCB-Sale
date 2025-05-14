@@ -14,6 +14,6 @@ components:
     1 2x8 Stiftleiste
     4 Jumper
 systems:
-    Computer
+    Development
 ---
 Diese Platine führt alle Signale des VGA Steckers an eine Stiftleiste. Zusätzlich können die verschiedenen GND Leitungen per Jumper verbunden werden.

@@ -14,7 +14,7 @@ components:
     1 1x2 Stiftleiste
     1 1x3 Stiftleiste
     2 74LS174
-    1 62256 32kx8 SRAM
+    1 62256 32k SRAM
     1 27C010 EPROM
     1 PAL16L8
     2 16-Pin Sockel, schmal

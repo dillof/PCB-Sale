@@ -15,15 +15,18 @@ components: console
     2 330pF Kondensator
     5 470pF Kondensator
     1 1nF Kondensator
+    2 1.8nF Kondensator
     2 2.2nF Kondensator
     2 10nF Kondensator
     2 22nF Kondensator
     38 100nF Kondensator
     4 220nF Kondensator, 25V
-    1 1µF Elektrolytkondensator, 16V
+    10 1µF Elektrolytkondensator, 16V
     10 10µF Elektrolytkondensator, 25V
     6 470µF Elektrolytkondensator, 25V 10x12.5mm
     1 2.2mF Elektrolytkondensator, 25V
+    26 1N4148 Diode
+    1 BD239 Transistor
     4 4.7Ω Widerstand, 1W
     1 10Ω Widerstand, 2.5W
     1 18kΩ Widerstand
@@ -85,11 +88,12 @@ components: console
     1 32-Pin Sockel, breit
     1 40-Pin Sockel, breit
     1 48-Pin Sockel, breit
-    1 1.843MHz Quarz
-    1 17.744475MHz Quarz
+    1 1.8432MHz Quarz
+    1 17.734475MHz Quarz
     2 400mA Sicherung
     1 250mA Sicherung
     1 1.5A Sicherungshalterung, 5x20mm
+    1 1.5A Sicherung, 5x15mm
     1 C64 Stromschalter
     54 DSS1NB32A271Q91A EMI Filter
     7 2SC1815 Transistor
@@ -104,7 +108,7 @@ components: console
     1 1x7 Stiftleiste
     1 2x3 Stiftleiste
     1 2x5 Stiftleiste
-    1 NTE5304 Diodenbrücke
+    1 W04G-E4 (NTE5304) Diodenbrücke
     1 40p VariCap
     1 CM4545Z131B-10
     1 2SD880 Transistor

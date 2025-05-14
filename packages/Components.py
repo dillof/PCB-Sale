@@ -7,6 +7,7 @@ seller_links = {
     "amazon": "Amazon",
     "berrybase": "BerryBase",
     "conrad": "Conrad",
+    "digikey": "DigiKey",
     "ebay": "eBay",
     "mouser": "Mouser",
     "reichelt": "Reichelt",

@@ -14,5 +14,6 @@ components:
     1 8-Pin Sockel, schmal
     1 1x2 Stiftleiste
     2 1x3 Stiftleiste
+    3 Jumper
     1 90° 1x20 Stiftleiste
 --- 
