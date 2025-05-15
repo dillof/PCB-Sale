@@ -14,3 +14,5 @@ systems:
     Triumph-Adler Alphatronics PC
 ---
 Dies ist ein ROM Cartridge für den Alphatronics PC. Bank 1 kommt in den rechten Slot, Bank 2 in den linken. Das Cartridge wird so in den Computer gesteckt, dass die EPROMs nach hinten zeigen.
+
+Ich habe es aufgebaut und getestet.
