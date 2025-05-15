@@ -2,6 +2,7 @@ title: MOS KIM-1 PSU
 links:
     ibom
 photos:
+    IMG_7037.jpeg: aufgebaut
     IMG_7016.jpeg: Platine
 components:
     1 Platine
