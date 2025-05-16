@@ -17,10 +17,9 @@ components: Unavailable
     1 SED-9420C
     1 90° 2mm 2x25 Edge Buchse
     1 D36V28F5 Spannungswandler
-    1 ePaper Display, I2C
+    1 ePaper Display, SPI
 components: eBay
     1 74LS654
-    2 MT3608 Spannungwandler
 systems:
     Computer
 ---

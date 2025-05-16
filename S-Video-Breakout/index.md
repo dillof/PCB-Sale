@@ -5,6 +5,7 @@ links:
     ibom
     schematics
 photos:
+    IMG_7039.jpeg: aufgebaut
     IMG_6851.jpeg: Platine
 components:
     1 Platine

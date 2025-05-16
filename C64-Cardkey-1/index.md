@@ -3,6 +3,7 @@ links:
     home: https://github.com/T-Pau/Cardkey-Keypad
     ibom
 photos:
+    IMG_7041.jpeg: aufgebaut
     IMG_7014.jpeg: Platinen
 systems:
     Commodore 64

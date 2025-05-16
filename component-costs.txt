@@ -670,10 +670,6 @@
 13.14 FT232H Breakout Board https://www.digikey.at/de/products/detail/adafruit-industries-llc/2264/5761217?s=N4IgTCBcDaIIYBM4DMBOBXAlgFwATOzAGYwALEAXQF8g
 
 5.87 SSD1306 I2C OLED 128x64 (0.96") https://www.reichelt.de/de/de/shop/produkt/entwicklerboards_-_display_0_96_oled-display_ssd1306-266107
-- 2/4GiB µSD Karte (nicht SDHC) https://amazon.de/
-8.04 3.5" Klinke Buchse auf 2x Cinch Stecker https://www.amazon.de/UGREEN-Adapter-Audiokabel-Vergoldete-Kontakte/dp/B079L2VL1S
 4.79 8-pol Kabel, dünn geschirmt https://www.reichelt.de/de/de/shop/produkt/steuerleitung_8x0_14mm_geschirmt_5m-ring-10313
-131.07 Elgato Wave 3 schwarz https://www.amazon.de/dp/B088HHWC47
-9.06 ML2032 Ladegerät https://www.amazon.de/Knopfbatterieladegerät-wiederaufladbare-Knopfbatterien-Ladegerät-Lithiumzellenbatterien/dp/B0D28KB7XS
-- ePaper Display, I2C
+- ePaper Display, SPI
 0.70 CR2032 Halter, vertikal https://www.reichelt.de/at/de/shop/produkt/knopfzellenclip_fuer_20_mm_pcb-74687
