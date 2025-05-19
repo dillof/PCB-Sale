@@ -2,6 +2,7 @@ title: Open Source Cart Reader TI-99/4A Adapter
 links:
     home: https://github.com/sanni/cartreader/discussions/354
 photos:
+    IMG_7067.jpeg: aufgebaut
     IMG_6650.jpeg: Platine
 components:
     1 Platine

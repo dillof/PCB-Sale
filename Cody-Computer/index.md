@@ -4,7 +4,7 @@ links:
     ibom
     schematics
 photos:
-    IMG_7033.jpeg: aufgebaut
+    IMG_7066.jpeg: aufgebaut
     IMG_7019.jpeg: Platine
 systems:
     Cody | 1
