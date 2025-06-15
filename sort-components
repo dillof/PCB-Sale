@@ -6,7 +6,7 @@ sys.path.append(os.path.join(os.path.dirname(os.path.abspath(__file__)), "packag
 
 import re
 
-import Components
+from packages import Components
 
 components = Components.Components()
 

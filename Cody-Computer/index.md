@@ -11,7 +11,7 @@ systems:
 components:
     1 Platine €4
     9 100nF Kondensator
-    1 1mF Eletrolytkondensator, 8mm
+    1 1mF Elektrolytkondensator, 8mm
     1 220Ω Widerstand
     1 270Ω Widerstand
     1 560Ω Widerstand

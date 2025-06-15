@@ -1,9 +1,9 @@
 title: MOS KIM-1 MTU Stromversorgung
-page: later
 links:
     ibom
     schematics
 photos:
+    IMG_7117.jpeg: Platine
 components:
     1 Platine
     1 330Ω Widerstand

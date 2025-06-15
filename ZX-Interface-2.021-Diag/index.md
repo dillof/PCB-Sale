@@ -3,6 +3,7 @@ links:
     home: https://github.com/tebl/ZX-Interface-2.021
     ibom
 photos:
+    IMG_7158.jpeg: aufgebaut
     IMG_6050.jpeg: Platine
     IMG_6052.jpeg: Frontplatte
 components:

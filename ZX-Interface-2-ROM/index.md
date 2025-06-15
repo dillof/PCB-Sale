@@ -4,7 +4,7 @@ links:
     ibom
 photos:
     IMG_6680.jpeg: aufgebaut
-    IMG_6653.jpg: Platine
+    IMG_6653.jpeg: Platine
 components:
     1 Platine
     1 100nF Kondensator

@@ -13,6 +13,7 @@ BBC Micro
 Commander X16
 Microsoft MSX
 Sinclair ZX Spectrum
+Altair 8800
 Tandy Color Computer, Dragon 32
 Texas Instruments TI-99/4A
 Triumph-Adler Alphatronics PC

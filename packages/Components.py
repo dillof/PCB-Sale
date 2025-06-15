@@ -1,6 +1,10 @@
 # Repsitory of standard components
 
 import re
+import sys
+
+from . import HTMLFormatter
+from . import HTMLWriter
 
 seller_links = {
     "aliexpress": "AliExpress",
@@ -86,21 +90,20 @@ class Components:
         else:
             return Component(name)
     
-    def write_html(self, file):
-        print(f'<html>\n<head>\n<meta charset="utf-8">\n<title>Komponenten</title>\n<link rel="stylesheet" href="style.css">\n</head>\n<body>\n<h1>Komponenten</h1>', file=file)
+    def write_html(self, filename):
+        writer = HTMLWriter.HTMLWriter(filename, "Komponenten")
 
         for category in self.categories:
-            print(f'<h2>{category}</h2>', file=file)
-            print(f'<table class="components cost">\n<tr class="header"><td>Komponente</td><td>Preis</td><td>Anbieter</td><tr>', file=file)
-            for product in self.categories_ordered[category]:
-                price = product.minimum
+            writer.tag("h2", category, newline=True)
+            writer.table("components cost", ["Komponente", "Preis", "Anbieter"])
+            for product in self.category_components[category]:
+                price = product.get_price()
                 if price is None:
                     price = "—"
                 else:
                     price = f"€{price:.2f}"
-                print(f'<tr class="component"><td>{product.name}</td><td>{price}</td><td>{product.suppliers.html()}</td></tr>', file=file)
-            print(f'</table>', file=file)
-        print(f'</body></html>', file=file)
+                writer.table_row([product.name, price, product.suppliers.html()], css_class="component")
+            writer.table_close()
 
 class Component:
     def __init__(self, name):
@@ -113,6 +116,9 @@ class Component:
     
     def get_supplier(self):
         return self.suppliers.get_cheapest()
+    
+    def get_price(self):
+        return self.suppliers.minimum
 
     def __eq__(self, other):
         return self.index == other.index and self.name == other.name
@@ -207,9 +213,9 @@ class Product:
         if match:
             return match.group(1)
         else:
-            return None
+            return self.link
     
     def html(self):
         if self.link is None:
             return None
-        return f'<a class="seller" href="{self.link}">{self.seller()}</a>'
+        return HTMLFormatter.HTMLFormatter().link(self.link, self.seller(), css_class="seller")

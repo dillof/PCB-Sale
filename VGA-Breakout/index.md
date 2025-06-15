@@ -1,7 +1,7 @@
 title: VGA Breakout Platine
 # page: upcoming
 links:
-    home: https://github.com/T-Pau/VGA-Breakout
+    home: https://github.com/T-Pau/Connector-Breakout-Boards
     ibom
     schematics
 photos:

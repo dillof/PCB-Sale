@@ -1,11 +1,12 @@
 title: ATF15xx Programmer
-page: later
 links:
     ibom
     schematics
 photos:
-    sm_blue_top.png: PCB render
+    IMG_7124.jpeg: aufgebaut
+    IMG_7118.jpeg: Platine
 components:
+    1 Platine
     4 100nF Kondensator
     2 220nF Kondensator
     2 4.7µF Elektrolytkondensator

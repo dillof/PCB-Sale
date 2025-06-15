@@ -1,9 +1,21 @@
+import enum
+import glob
 import os
+import re
+import sys
 
-from Messages import messages
+from packages.Link import Link
+from packages.Messages import messages
+from packages.Part import Part
+from packages.Photo import Photo
 
+from . import HTMLWriter
+
+component_pattern = r"^\s*([-.0-9]+)\s+(.*?)(€([-0-9.]+))?$"
+link_pattern = r"^\s*(.*?)(:(.*))?$"
+page_system_pattern =r"^\s*([^|]*)(\|(.*))?$"
+photo_pattern = r"^\s*([^:]*):\s+(.*)$"
 preamble_field_pattern = r"^(\S+):\s*(.*)$"
-
 
 class State(enum.Enum):
     COMPONENTS = "components"
@@ -14,22 +26,28 @@ class State(enum.Enum):
     SYSTEMS = "systems"
 
 class Page:
-    def __init__(self, directory):
+    def __init__(self, directory, systems, components):
         self.directory = directory
         self.title = ""
         self.index_page = "index"
-        self.hidden = False
         self.systems = {}
         self.components = {}
         self.components_names = []
         self.photos = []
         self.content = []
         self.links = []
+        self.parse(systems, components)
     
-    def parse(self):
-        filename = f"{directory}/index.md"
-        if not os.path.exists(file_path):
-            raise RuntimeError(f"no index.md file in '{directory}'")
+    def parse(self, systems, components):
+        filename = f"{self.directory}/index.md"
+        if not os.path.exists(filename):
+            messages.error(f"no index.md file in '{self.directory}'")
+            return
+
+        images = {}
+        for extension in ["jpeg", "jpg", "png"]:
+            for file in glob.glob(f"*.{extension}", root_dir=self.directory):
+                images[file] = False
 
         current_components_name = ""
         with open(filename, "r") as file:
@@ -37,7 +55,7 @@ class Page:
 
             for (line_number, line) in enumerate(file):
                 line = line.rstrip()
-                if state != State.PREAMBLE and state != State.CONTENT:
+                if state != State.CONTENT:
                     if not line or line[0] == "#":
                         continue
                     if line[0] != " ":
@@ -51,21 +69,19 @@ class Page:
                         if match:
                             field = match.group(1)
                             if field == "title":
-                                page.title = match.group(2)
+                                self.title = match.group(2)
                             elif field == "page":
-                                page.index_page = match.group(2)
+                                self.index_page = match.group(2)
                             else:
                                 try:
                                     state = State(field)
                                     if field == "components":
                                         current_components_name = match.group(2)
-                                        page.components_names.append(current_components_name)
+                                        self.components_names.append(current_components_name)
                                 except:
-                                    print(f"{filename}:{line_number}: Invalid preamble field '{field}'", file=sys.stderr)                                
-                                    ok = False
+                                    messages.error(f"Invalid preamble field '{field}'", filename, line_number)
                         else:
-                            print(f"{filename}:{line_number}: Invalid line in preamble: '{line}'", file=sys.stderr)
-                            ok = False
+                            messages.error(f"Invalid line in preamble: '{line}'", filename, line_number)
 
                 elif state == State.COMPONENTS:
                     match = re.search(component_pattern, line)
@@ -73,60 +89,52 @@ class Page:
                         try:
                             amount = float(match.group(1))
                         except:
-                            print(f"{filename}:{line_number}: Invalid amount '{match.group(4)}'", file=sys.stderr)
-                            ok = False
+                            messages.error("Invalid amount '{match.group(4)}'", filename, line_number)
                             continue
 
                         name = match.group(2).rstrip()
                         price = None
                         explicit_price = False
-                        component_cost = None
                         if match.group(4):
                             try:
                                 explicit_price = True
                                 if match.group(4) != "-":
                                     price = float(match.group(4))
                             except:
-                                print(f"{filename}:{line_number}: Invalid price '{match.group(4)}'", file=sys.stderr)
-                                ok = False
-                        if name in components:
-                            component_cost = components[name]
-                        if not explicit_price and component_cost is None:
-                            print(f"{filename}:{line_number}: Unknown component '{name}'", file=sys.stderr)
-                            ok = False
-                        if current_components_name not in page.components:
-                            page.components[current_components_name] = []
-                        page.components[current_components_name].append(Component(amount, name, component_cost, price))
+                                messages.error(f"Invalid price '{match.group(4)}'", filename, line_number)
+                        component = components.get(name)
+                        if not explicit_price and component.index is None:
+                            messages.warning(f"Unknown component '{name}'", filename, line_number)
+                        if current_components_name not in self.components:
+                            self.components[current_components_name] = []
+                        self.components[current_components_name].append(Part(component, amount, price))
                     else:
-                        print(f"{filename}:{line_number}: Invalid component line '{line}'", file=sys.stderr)
-                        ok = False
+                        messages.error(f"Invalid component line '{line}'", filename, line_number)
                 
                 elif state == State.PHOTOS:
                     match = re.search(photo_pattern, line)
                     if match:
-                        page.photos.append(Photo(match.group(1), match.group(2)))
+                        image_file = match.group(1)
+                        title = match.group(2)
+                        if image_file not in images:
+                            messages.error(f"Photo '{image_file}' does not exist", filename, line_number)
+                        else:
+                            self.photos.append(Photo(image_file, title))
+                            images[image_file] = True
                     else:
-                        print(f"{filename}:{line_number}: Invalid photo line '{line}'", file=sys.stderr)
-                        ok = False
+                        messages.error(f"Invalid photo line '{line}'", filename, line_number)
 
                 elif state == State.LINKS:
                     match = re.search(link_pattern, line)
                     if match:
                         name = match.group(1).strip()
                         link = match.group(3)
-                        if not link:
-                            if name in link_defaults:
-                                link = link_defaults[name]
-                            else:
-                                    print(f"{filename}:{line_number}: No link given for '{name}'", file=sys.stderr)
-                                    ok = False
-                                    continue
-                        if name in link_name_aliases:
-                            name = link_name_aliases[name]
-                        page.links.append(Link(name, link))
+                        try:
+                            self.links.append(Link(name, link))
+                        except Exception as ex:
+                            messages.error(ex, filename, line_number)
                     else:
-                        print(f"{filename}:{line_number}: Invalid system line '{line}'", file=sys.stderr)
-                        ok = False
+                        messages.error(f"Invalid system line '{line}'", filename, line_number)
 
 
                 elif state == State.SYSTEMS:
@@ -140,57 +148,54 @@ class Page:
                             try:
                                 index = float(index)
                             except:
-                                print(f"{filename}:{line_number}: Invalid system index '{index}'", file=sys.stderr)
-                                ok = False
+                                messages.error(f"Invalid system index '{index}'", filename, line_number)
                                 continue
                         if systems.has_system(system):
-                            page.systems[system] = index
+                            self.systems[system] = index
                         else:
-                            print(f"{filename}:{line_number}: Unknown system '{system}'", file=sys.stderr)
-                            ok = False
+                            messages.error(f"Unknown system '{system}'", filename, line_number)
                     else:
-                        print(f"{filename}:{line_number}: Invalid system line '{line}'", file=sys.stderr)
-                        ok = False
+                        messages.error(f"Invalid system line '{line}'", filename, line_number)
 
                 elif state == State.CONTENT:
-                    page.content.append(line)
+                    self.content.append(line)
             
-            if len(page.systems) == 0:
-                print(f"{filename}: No systems specified.")
-                ok = False
+            if len(self.systems) == 0:
+                messages.error("No systems specified.", filename)
+            
+            for file, used in images.items():
+                if not used:
+                    messages.warning(f"Photo '{file}' not used", filename)
+
 
     def write(self):
-        with open(f"{directory}/index.html") as file:
-            self.write_html(file)
-    
-    def write_html(self, file):
-        print(f'<html>\n<head>\n<meta charset="utf-8">\n<title>{self.title}</title>\n<link rel="stylesheet" href="../style.css">\n</head>\n<body>\n<h1>{self.title}</h1>', file=file)
+        writer = HTMLWriter.HTMLWriter(f"{self.directory}/index.html", self.title)
 
         if len(self.content) > 0:
-            print(markdown.markdown("\n".join(self.content), extensions=['tables']), file=file)
+            writer.markdown(self.content)
 
         if len(self.links) > 0:
-            print('<p class="links">', file=file)
+            writer.open("p", {"class": "links"})
             first = True
             for link in self.links:
                 if first:
                     first = False
                 else:
-                    print('•', file=file)
-                print(f'<a href="{link.link}">{link.name}</a>', file=file)
-            print('</p>', file=file)
+                    writer.text(" • ")
+                writer.link(link.target, link.name)
+            writer.close()
 
         if len(self.photos) > 0:
-            print('<p class="photos">', file=file)
+            writer.open("p", {"class": "photos"})
             for photo in self.photos:
-                print(f'<img src="{photo.file}" alt="{photo.title}">', file=file)
-            print('</p>', file=file)
+                writer.image(photo.file, photo.title)
+            writer.close()
 
         for components_name in self.components_names:
             components = self.components[components_name]
             if components_name:
-                print(f'<h3 class="components">{components_name}</h3>', file=file)
-            print('<table class="components list">\n<tr class="header"><td>Komponente</td><td>Anzahl</td><td>Preis</td><td>Anbieter</td></tr>', file=file)
+                writer.tag("h3", components_name, {"class":"components"})
+            writer.table("components list", ["Komponente", "Anzahl", "Preis", "Anbieter"])
 
             total_pcb = 0
             total_kit = 0
@@ -211,7 +216,11 @@ class Page:
                     if component.is_pcb():
                         unknown_pcb_price = True
                     unknown_kit_price = True
-                print(component.html(), file=file)
+                if price is None:
+                    price_string = "—"
+                else:
+                    price_string = f"€{price:.2f}"
+                writer.table_row([component.name(), component.amount, price_string, component.component.suppliers.html()], "component")
                 if component.is_pcb():
                     have_pcb = True
             if have_pcb:
@@ -219,17 +228,15 @@ class Page:
                     total_pcb_string = "—"
                 else:
                     total_pcb_string = f"€{total_pcb:.2f}"
-                print(f'<tr class="total"><td>nur Platine</td><td></td><td>{total_pcb_string}</td><td></td></tr>', file=file)
+                writer.table_row(["nur Platine", "", total_pcb_string, ""], "total")
             if have_kit:
                 if unknown_kit_price:
                     kit_name = "Teilbausatz"
                 else:
                     kit_name = "Bausatz"
                 total_kit_string = f"€{total_kit:.2f}"
-                print(f'<tr class="total"><td>{kit_name}</td><td></td><td>{total_kit_string}</td><td></td></tr>', file=file)
-            print('</table>', file=file)
-
-        print("</body>\n</html>", file=file)
+                writer.table_row([kit_name, "", total_kit_string, ""], "total")
+            writer.close()
     
     def compare_system_list(self, other, system):
         if system in self.systems and system in other.systems:

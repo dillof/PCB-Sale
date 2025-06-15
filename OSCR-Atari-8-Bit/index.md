@@ -2,6 +2,7 @@ title: Open Source Cart Reader Atari 8-Bit Adapter
 links:
     home: https://github.com/sanni/cartreader/discussions/354
 photos:
+    IMG_7078.jpeg: aufgebaut
     IMG_6649.jpeg: Platine
 components:
     1 Platine

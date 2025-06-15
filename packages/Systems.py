@@ -1,7 +1,25 @@
-class System:
-    self.category_list = []
-    self.categories = {}
-    self.systems = {}
+class Systems:
+    def __init__(self):
+        self.category_list = []
+        self.categories = {}
+        self.systems = {}
+        self.read_systems()
+
+    def read_systems(self):
+        with open("systems.txt", "r") as file:
+            current_category = None
+            for (line_number, line) in enumerate(file):
+                line = line.rstrip()
+                if not line:
+                    continue
+                if line[0] == "#":
+                    if line[1] == "#":
+                        continue
+                    current_category = line[1:].strip()
+                    self.add_category(current_category)
+                    continue
+
+                self.add_system(current_category, line)
 
     def add_category(self, category):
         if self.has_category(category):

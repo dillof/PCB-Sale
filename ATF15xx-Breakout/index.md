@@ -1,9 +1,9 @@
 title: ATF15xx Breakout Platine
-page: later
 links:
     ibom
 photos:
-    sm_white_top.png: PCB render
+    IMG_7122.jpeg: aufgebaut
+    IMG_7115.jpeg: Platine
 components:
     4 100nF Kondensator
     1 44-Pin PLCC Sockel

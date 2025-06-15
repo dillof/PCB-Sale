@@ -1,3 +1,5 @@
+title: Platinenrestposten
+---
 Ich biete hier zum Selbstkostenpreis die überzähligen Platinen aus meinen Bestellungen an, einerseits um meine Kosten niedrig zu halten, andererseits um mehr Leuten Zugang zu interessanten Retroprojekten zu erleichtern.
 
 Bei einigen Platinen kann ich auch Bausätze anbieten. Sofern ich nicht alle Teile lagernd habe, kann es länger dauern, bis ich eine neue Teilebestellung aufgebe, um Portokosten niedrig zu halten. Auch Teilbausätze sind möglich.
