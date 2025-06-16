@@ -1,5 +1,4 @@
-title: Altair 8800 I/O Bus Monitor
-page: later
+title: Altair 8800 Bus Monitor Karte
 links:
     home: https://github.com/dhansel/Altair8800-IOBus
 components:

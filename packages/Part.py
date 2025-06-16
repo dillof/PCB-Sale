@@ -17,3 +17,9 @@ class Part:
     
     def is_pcb(self):
         return self.component.name == "Platine"
+
+    def __eq__(self, other):
+        return self.component == other.component
+    
+    def __lt__(self, other):
+        return self.component < other.component

@@ -203,7 +203,7 @@ class Page:
             have_kit = False
             unknown_kit_price = False
             unknown_pcb_price = False
-            for component in components:
+            for component in sorted(components):
                 price = component.cost()
                 if price is not None:
                     if component.is_pcb():

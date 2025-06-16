@@ -1,5 +1,4 @@
 title: Altair 8800 LED Ausgabe
-page: later
 links:
     home: https://github.com/dhansel/Altair8800-IOBus
 components:

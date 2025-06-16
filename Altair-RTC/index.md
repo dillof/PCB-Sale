@@ -1,5 +1,4 @@
-title: Altair 8800 I/O Echtzeituhr
-page: later
+title: Altair 8800 Echtzeituhr Karte
 links:
     home: https://github.com/dhansel/Altair8800-IOBus
 components:
