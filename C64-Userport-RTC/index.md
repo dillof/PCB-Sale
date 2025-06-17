@@ -22,4 +22,6 @@ systems:
 ---
 Dieses Modul erlaubt den Anschluss einer Echtzeituhr am Userport des C64. Der Userport ist durchgeschliffen, sodass noch weitere Geräte angeschlossen werden können. Es gibt Treiber für GEOS und [C64 OS](https://c64os.com/).
 
-Die [Schaltung](https://sites.google.com/site/dividedbit/home/c64-projects/ds1307-rtc) stammt von Timo Voutilainen. Das PCB wurde von mir entworfen und getestet.
+Die [Schaltung](https://sites.google.com/site/dividedbit/home/c64-projects/ds1307-rtc) stammt von Timo Voutilainen. Das Platine stammt von mir.
+
+Bei der Beschriftung sind SCL (links) und SDA (rechts) vertauscht.
