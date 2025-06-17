@@ -1,5 +1,5 @@
 title: MOS KIM-1 6501 Adapter
-# page: upcoming
+tested: none
 photos:
     IMG_6281.jpeg: aufgebaut
     IMG_6237.jpeg: Platine

@@ -1,5 +1,5 @@
 title: Gotek Schalter
-# page: upcoming
+tested: function
 links:
     home: https://github.com/T-Pau/Gotek-Switches
     ibom

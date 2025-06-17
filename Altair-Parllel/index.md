@@ -1,4 +1,5 @@
 title: Altair 8800 I/O Parallel
+tested: original
 page: later
 links:
     home: https://github.com/dhansel/Altair8800-IOBus

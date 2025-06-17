@@ -1,4 +1,5 @@
 title: Open Source Cart Reader Commodore 64 Adapter
+tested: function
 links:
     home: https://github.com/sanni/cartreader/discussions/354
 photos:

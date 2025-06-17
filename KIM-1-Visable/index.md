@@ -1,4 +1,5 @@
 title: MOS KIM-1 MTU Visable Memory Card
+tested: original
 links:
     home: https://github.com/eduardocasino/k-1008-visable-memory-card-replica
     ibom

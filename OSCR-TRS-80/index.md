@@ -1,4 +1,5 @@
 title: Open Source Cart Reader TRS-80 Adapter
+tested: original
 links:
     home: https://github.com/sanni/cartreader/discussions/354
 photos:

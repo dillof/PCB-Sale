@@ -1,4 +1,5 @@
 title: Open Source Cart Reader Microsoft MSX Adapter
+tested: original
 links:
     home: https://github.com/sanni/cartreader/discussions/354
 photos:

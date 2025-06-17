@@ -1,4 +1,5 @@
 title: Altair 8800 Kassettencontroller Karte
+tested: original
 page: later
 links:
     home: https://github.com/dhansel/Altair8800-IOBus

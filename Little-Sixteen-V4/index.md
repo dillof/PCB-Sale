@@ -1,4 +1,5 @@
 title: Little Sixteen V4
+tested: original
 page: private
 links:
     home: https://github.com/SukkoPera/LittleSixteen

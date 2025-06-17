@@ -1,4 +1,5 @@
 title: Socket Sizer
+tested: function
 links:
 photos:
     IMG_7120.jpeg: aufgebaut

@@ -1,5 +1,5 @@
 title: MOS KIM-1 Keypad
-# page: upcoming
+tested: original modified
 links:
     home: https://github.com/eduardocasino/kim-1-keypad
     ibom

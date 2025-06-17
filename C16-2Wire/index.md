@@ -1,4 +1,5 @@
 title: Commodore 16, Plus/4 2Wire Modul
+tested: original
 links:
     home: https://github.com/SukkoPera/Plus42Wire
     ibom

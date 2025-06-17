@@ -1,4 +1,5 @@
 title: Cody Cartridge
+tested: original
 links:
     home: https://codycomputer.org/
     ibom

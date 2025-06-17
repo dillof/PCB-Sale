@@ -1,4 +1,5 @@
 title: Commodore 16, Plus/4 ReVox Digital-Sound Modul
+tested: original
 links:
     home: https://github.com/SukkoPera/ReVox
     ibom

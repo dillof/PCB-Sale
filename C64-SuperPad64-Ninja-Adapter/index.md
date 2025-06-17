@@ -1,5 +1,5 @@
 title: Commodore 64 SuperPad64 auf Ninja SNES Pad Adapter
-# page: upcoming
+tested: function
 links:
     home: https://github.com/T-Pau/SNES-Pad
     ibom

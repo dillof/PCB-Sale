@@ -1,4 +1,5 @@
 title: Commodore 16, Plus/4 Joystick Adapter
+tested: function
 links:
     home: https://github.com/SukkoPera/OpenC16JoyAdapter
     ibom

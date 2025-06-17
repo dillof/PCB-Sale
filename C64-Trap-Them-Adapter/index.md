@@ -1,5 +1,5 @@
 title: Commodore 64 Trap Them Adapter
-# page: upcoming
+tested: function
 links:
     ibom
 photos:

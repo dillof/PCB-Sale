@@ -1,5 +1,5 @@
 title: Commodore 128 Magic Desk Modul
-# page: upcoming
+tested: original
 links:
     home: https://github.com/RetroNynjah/Magic-Desk-128
     schematics

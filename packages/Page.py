@@ -31,12 +31,19 @@ class Tested(enum.Enum):
     ORIGINAL = "original"
     ORIGINAL_MODIFIED = "original modified"
 
+tested_description = {
+    Tested.NONE: "**Diese Platine ist von mir entworfen und noch nicht getestet.**",
+    Tested.FUNCTION: "Ich habe die Platine aufgebaut und getestet.",
+    Tested.ORIGINAL: "Die Platine wurde vom Originalautor getestet.",
+    Tested.ORIGINAL_MODIFIED: "Das ürsprüngliche Design wurde vom Originalautor getest. **Meine Modifikationen sind noch ungetestet.**"
+}
+
 class Page:
     def __init__(self, directory, site):
         self.directory = directory
         self.title = ""
         self.index_page = "index"
-        self.tested = Tested.NONE
+        self.tested = None
         self.systems = {}
         self.components = {}
         self.components_names = []
@@ -75,20 +82,21 @@ class Page:
                         match = re.search(preamble_field_pattern, line)
                         if match:
                             field = match.group(1)
+                            value = match.group(2)
                             if field == "title":
-                                self.title = match.group(2)
+                                self.title = value
                             elif field == "page":
-                                self.index_page = match.group(2)
+                                self.index_page = value
                             elif field == "tested":
                                 try:
-                                    self.tested = Tested(match.group(2))
+                                    self.tested = Tested(value)
                                 except:
-                                    messages.error(f"Invalid tested '{field}'", filename, line_number)
+                                    messages.error(f"Invalid tested '{value}'", filename, line_number)
                             else:
                                 try:
                                     state = State(field)
                                     if field == "components":
-                                        current_components_name = match.group(2)
+                                        current_components_name = value
                                         self.components_names.append(current_components_name)
                                 except:
                                     messages.error(f"Invalid preamble field '{field}'", filename, line_number)
@@ -187,6 +195,9 @@ class Page:
 
     def write(self):
         writer = HTMLWriter.HTMLWriter(f"{self.directory}/index.html", self.title)
+
+        if self.tested is not None:
+            writer.markdown([tested_description[self.tested]])
 
         if len(self.links) > 0:
             writer.open("p", {"class": "links"})

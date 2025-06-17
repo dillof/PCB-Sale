@@ -1,5 +1,5 @@
 title: Commodore 64 SuperClone 5.0 Modul
-# page: upcoming
+tested: function
 links:
     home: https://github.com/Kalidomra/SuperClone-5.0
     ibom

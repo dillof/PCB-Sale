@@ -1,4 +1,5 @@
 title: Commodore 64 Modulport Winkeladapter
+tested: function
 links:
     home: https://github.com/RetroNynjah/C64-Cartridge-Relocator
     schematics

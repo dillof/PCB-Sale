@@ -1,4 +1,5 @@
 title: MOS KIM-1 SD Card Shield
+tested: original
 links:
     home: https://github.com/eduardocasino/sd-card-shield
     ibom

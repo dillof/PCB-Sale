@@ -1,4 +1,5 @@
 title: Atari 2600 Keyboard Controller
+tested: function
 links:
     home: https://github.com/tebl/A2600-Keyboard
     ibom

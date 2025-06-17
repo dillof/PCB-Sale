@@ -1,4 +1,5 @@
-title: Atari 5200 Joystick Adapter
+title: Atari 5200 Joystick Adapter\
+tested: function
 links:
     ibom
 photos:

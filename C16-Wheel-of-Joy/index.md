@@ -1,4 +1,5 @@
 title: Wheel of Joy Multiplayer Adapter
+tested: function
 links:
     home: https://github.com/SukkoPera/WheelOfJoy
     ibom

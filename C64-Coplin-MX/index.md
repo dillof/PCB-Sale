@@ -1,5 +1,5 @@
 title: Coplin Keypad mit MX Tasten
-# page: upcoming
+tested: function
 links:
     Interaktiver Bestückungsplan (Tasten): ibom-keys.html
     Interaktiver Bestückungsplan (Logik): ibom-logic.html

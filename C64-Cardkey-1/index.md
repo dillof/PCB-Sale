@@ -1,4 +1,5 @@
 title: Commodore 64 Cardko Cardkey 1 Keypad
+tested: function
 links:
     home: https://github.com/T-Pau/Cardkey-Keypad
     ibom

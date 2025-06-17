@@ -1,4 +1,5 @@
 title: Wheel of Joy Mini Multiplayer Adapter
+tested: original
 links:
     home: https://github.com/SukkoPera/WheelOfJoyMini
     ibom

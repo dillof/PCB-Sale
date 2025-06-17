@@ -1,4 +1,5 @@
 title: Open Source Cart Reader Atari 2600 Adapter
+tested: function
 links:
     home: https://github.com/sanni/cartreader/discussions/354
 photos:

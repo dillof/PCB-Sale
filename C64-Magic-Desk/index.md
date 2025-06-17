@@ -1,5 +1,5 @@
 title: Commodore 64 Magic Desk Modul
-# page: upcoming
+tested: function
 links:
     home: https://github.com/msolajic/c64-magic-desk-512k
 photos:

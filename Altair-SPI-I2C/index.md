@@ -1,4 +1,5 @@
 title: Altair 8800 SPI und I2C Karte
+tested: original
 links:
     home: https://github.com/dhansel/Altair8800-IOBus
 components:

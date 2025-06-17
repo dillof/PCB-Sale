@@ -1,4 +1,5 @@
 title: MOS KIM-1 MTU Expansion Card
+tested: original
 links:
     home: https://github.com/eduardocasino/kim-1-mtu-expansion-card
     ibom

@@ -1,4 +1,5 @@
 title: Amstrad CPC Joystick Adapter
+tested: function
 links:
     home: https://github.com/tebl/CPC464-Joystick-Splitter
     ibom

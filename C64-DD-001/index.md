@@ -1,4 +1,5 @@
 title: Commodore 64 DD-001 Floppy Controller Modul
+tested: function
 links:
     home: http://news.ide64.org/2018/11/floppy-drive-tib-plc-dd-001-drive-2001.html
 photos:

@@ -1,4 +1,5 @@
 title: Commodore 16, Plus/4 Reseed SID Modul
+tested: original
 links:
     home: https://github.com/SukkoPera/ReSeed
     ibom

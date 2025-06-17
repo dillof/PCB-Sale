@@ -1,4 +1,5 @@
 title: Atari 7800 Megadrive Controller Adapter
+tested: original
 links:
     home: https://github.com/tebl/A7800-Mega-Adapter
     ibom

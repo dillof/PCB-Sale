@@ -1,4 +1,5 @@
 title: Tandy Color Computer, Dragon 32 Joystick Adapter
+tested: original
 links:
     home: https://github.com/tebl/D32-Joystick-Adapter
     ibom

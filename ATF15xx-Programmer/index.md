@@ -1,4 +1,5 @@
 title: ATF15xx Programmer
+tested: original modified
 links:
     ibom
     schematics

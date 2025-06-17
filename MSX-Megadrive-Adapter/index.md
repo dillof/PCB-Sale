@@ -1,4 +1,5 @@
 title: Microsoft MSX Megadrive Adapter
+tested: original
 links:
     home: https://github.com/tebl/MSX-Mega-Adapter
     ibom

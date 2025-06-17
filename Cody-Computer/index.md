@@ -1,4 +1,5 @@
 title: Cody Computer
+tested: original
 links:
     home: https://codycomputer.org/
     ibom

@@ -1,4 +1,5 @@
 title: Commodore Amiga Lazarustorm
+tested: function
 links:
     home: https://github.com/arananet/LAZARUSTORM
 photos:
@@ -18,5 +19,3 @@ systems:
     Commodore Amiga
 ---
 Mit diesem Adapter kann man eine externe CPU am Expansion Port des Amiga 500 anschließen, speziell auch den PiStorm Raspberry Pi CPU Emulator.
-
-Ich habe es aufgebaut und getestet.

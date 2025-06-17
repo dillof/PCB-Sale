@@ -1,4 +1,5 @@
 title: Open Source Cart Reader TI-99/4A Adapter
+tested: original
 links:
     home: https://github.com/sanni/cartreader/discussions/354
 photos:
