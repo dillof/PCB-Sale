@@ -25,20 +25,27 @@ class State(enum.Enum):
     PREAMBLE = "preamble"
     SYSTEMS = "systems"
 
+class Tested(enum.Enum):
+    NONE = "none"
+    FUNCTION = "function"
+    ORIGINAL = "original"
+    ORIGINAL_MODIFIED = "original modified"
+
 class Page:
-    def __init__(self, directory, systems, components):
+    def __init__(self, directory, site):
         self.directory = directory
         self.title = ""
         self.index_page = "index"
+        self.tested = Tested.NONE
         self.systems = {}
         self.components = {}
         self.components_names = []
         self.photos = []
         self.content = []
         self.links = []
-        self.parse(systems, components)
+        self.parse(site)
     
-    def parse(self, systems, components):
+    def parse(self, site):
         filename = f"{self.directory}/index.md"
         if not os.path.exists(filename):
             messages.error(f"no index.md file in '{self.directory}'")
@@ -72,6 +79,11 @@ class Page:
                                 self.title = match.group(2)
                             elif field == "page":
                                 self.index_page = match.group(2)
+                            elif field == "tested":
+                                try:
+                                    self.tested = Tested(match.group(2))
+                                except:
+                                    messages.error(f"Invalid tested '{field}'", filename, line_number)
                             else:
                                 try:
                                     state = State(field)
@@ -102,7 +114,7 @@ class Page:
                                     price = float(match.group(4))
                             except:
                                 messages.error(f"Invalid price '{match.group(4)}'", filename, line_number)
-                        component = components.get(name)
+                        component = site.components.get(name)
                         if not explicit_price and component.index is None:
                             messages.warning(f"Unknown component '{name}'", filename, line_number)
                         if current_components_name not in self.components:
@@ -150,7 +162,7 @@ class Page:
                             except:
                                 messages.error(f"Invalid system index '{index}'", filename, line_number)
                                 continue
-                        if systems.has_system(system):
+                        if site.systems.has_system(system):
                             self.systems[system] = index
                         else:
                             messages.error(f"Unknown system '{system}'", filename, line_number)
@@ -166,6 +178,11 @@ class Page:
             for file, used in images.items():
                 if not used:
                     messages.warning(f"Photo '{file}' not used", filename)
+                
+            if self.index_page not in site.index_pages:
+                messages.error(f"Unknown index page '{self.index_page}'")
+            else:
+                site.index_pages[self.index_page].add_page(self)
 
 
     def write(self):

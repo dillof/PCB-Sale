@@ -90,8 +90,8 @@ class Components:
         else:
             return Component(name)
     
-    def write_html(self, filename):
-        writer = HTMLWriter.HTMLWriter(filename, "Komponenten")
+    def write(self):
+        writer = HTMLWriter.HTMLWriter("component-costs.html", "Komponenten")
 
         for category in self.categories:
             writer.tag("h2", category, newline=True)

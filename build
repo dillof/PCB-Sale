@@ -2,41 +2,12 @@
 
 import sys
 
-from pathlib import Path
-
-from packages import Components
-from packages import IndexPage
-from packages import Page
-from packages import Systems
-
+from packages.Site import Site
 from packages.Messages import messages
 
-components = Components.Components()
-systems = Systems.Systems()
-
-components.write_html("components_new.html")
-
-ignored_directories = [
-    "django",
-    "orders",
-    "packages"
-]
-
-index_pages = {}
-
-for directory in [d.name for d in Path(".").iterdir() if d.is_dir()]:
-    if directory.startswith(".") or directory in ignored_directories:
-        continue
-
-    page = Page.Page(directory, systems, components)
-    if page.index_page not in index_pages:
-        index_pages[page.index_page] = IndexPage.IndexPage(page.index_page, systems)
-    index_pages[page.index_page].add_page(page)
+site = Site()
 
 if not messages.ok:
     sys.exit(1)
 
-for index_page in index_pages.values():
-    index_page.write()
-    for page in index_page.all_pages():
-        page.write()
+site.write()
