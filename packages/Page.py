@@ -188,9 +188,6 @@ class Page:
     def write(self):
         writer = HTMLWriter.HTMLWriter(f"{self.directory}/index.html", self.title)
 
-        if len(self.content) > 0:
-            writer.markdown(self.content)
-
         if len(self.links) > 0:
             writer.open("p", {"class": "links"})
             first = True
@@ -207,6 +204,9 @@ class Page:
             for photo in self.photos:
                 writer.image(photo.file, photo.title)
             writer.close()
+
+        if len(self.content) > 0:
+            writer.markdown(self.content)
 
         for components_name in self.components_names:
             components = self.components[components_name]

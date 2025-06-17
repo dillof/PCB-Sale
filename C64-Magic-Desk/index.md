@@ -21,4 +21,4 @@ components:
 systems:
     Commodore 64
 ---
-Modified to fit into The Future Was 8-Bit cartridge case.
+Dies ist eine Variante vom Magic Desk Modul, dass für die Konfiguration normale Jumper statt Lötbrücken verwendet und in das [Gehäuse von The Future Was 8Bit](https://www.tfw8b.com/product/commodore-c64-stumpy-cartridge-case/) passt.
