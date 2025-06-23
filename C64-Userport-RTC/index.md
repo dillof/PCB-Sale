@@ -1,5 +1,5 @@
 title: Commodore 64 Userport DS-3231 RTC Modul
-tested: function
+tested: cosmetic SLA und SDA sind vertauscht.
 links:
     home: https://github.com/T-Pau/User-Port-RTC
     ibom

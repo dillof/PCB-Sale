@@ -1,4 +1,5 @@
 title: PAL-2 Stromversorgung
+tested: fixable
 links:
     home: https://github.com/T-Pau/PAL-2-PSU
     ibom

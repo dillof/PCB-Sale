@@ -2,6 +2,8 @@ title: MOS KIM-1 MTU Programmable Memory Card
 tested: original
 links:
     home: https://github.com/eduardocasino/kim-1-programmable-memory-card
+    ibom
+    schematics
 photos:
     kim-1-programmable-memory.png: Render
     IMG_6243.jpeg: Platine

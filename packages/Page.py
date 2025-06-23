@@ -29,13 +29,17 @@ class Tested(enum.Enum):
     NONE = "none"
     FUNCTION = "function"
     ORIGINAL = "original"
-    ORIGINAL_MODIFIED = "original modified"
+    ORIGINAL_MODIFIED = "original-modified"
+    COSMETIC = "cosmetic"
+    FIXABLE = "fixable"
 
 tested_description = {
     Tested.NONE: "**Diese Platine ist von mir entworfen und noch nicht getestet.**",
     Tested.FUNCTION: "Ich habe die Platine aufgebaut und getestet.",
     Tested.ORIGINAL: "Die Platine wurde vom Originalautor getestet.",
-    Tested.ORIGINAL_MODIFIED: "Das ürsprüngliche Design wurde vom Originalautor getest. **Meine Modifikationen sind noch ungetestet.**"
+    Tested.ORIGINAL_MODIFIED: "Das ürsprüngliche Design wurde vom Originalautor getest. **Meine Modifikationen sind noch ungetestet.**",
+    Tested.COSMETIC: "Ich habe die Platine aufgebaut und getestet. Die Beschriftung enthält Fehler.",
+    Tested.FIXABLE: "Ich habe die Platine aufgebaut und getestet. Die Schaltung enthält behebbare Fehler."
 }
 
 class Page:
@@ -44,6 +48,7 @@ class Page:
         self.title = ""
         self.index_page = "index"
         self.tested = None
+        self.tested_comment = None
         self.systems = {}
         self.components = {}
         self.components_names = []
@@ -89,7 +94,10 @@ class Page:
                                 self.index_page = value
                             elif field == "tested":
                                 try:
-                                    self.tested = Tested(value)
+                                    values = value.split(maxsplit=1)
+                                    self.tested = Tested(values[0])
+                                    if len(values) > 1:
+                                        self.tested_comment = values[1]
                                 except:
                                     messages.error(f"Invalid tested '{value}'", filename, line_number)
                             else:
@@ -197,7 +205,10 @@ class Page:
         writer = HTMLWriter.HTMLWriter(f"{self.directory}/index.html", self.title)
 
         if self.tested is not None:
-            writer.markdown([tested_description[self.tested]])
+            tested = [tested_description[self.tested]]
+            if self.tested_comment is not None:
+                tested.append(self.tested_comment)
+            writer.markdown(tested)
 
         if len(self.links) > 0:
             writer.open("p", {"class": "links"})

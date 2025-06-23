@@ -3,6 +3,7 @@ tested: original
 links:
     home: https://github.com/eduardocasino/kim-1-mtu-ram-rom
     ibom
+    schematics
 photos:
     kim-1-RAM-ROM.png: Render
     IMG_6240.jpeg: Platine

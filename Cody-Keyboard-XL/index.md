@@ -1,5 +1,5 @@
 title: Cody Keyboard XL
-tested: original modified
+tested: original-modified
 links:
     home: https://codycomputer.org/
     ibom

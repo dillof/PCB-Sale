@@ -19,8 +19,6 @@ components: Unavailable
     1 90° 2mm 2x25 Edge Buchse
     1 D36V28F5 Spannungswandler
     1 PS/2->USB keyboard adapter
-    5 Kassettenhülle
-    1 MiSTer RTC
     1 D-Sub-25 Kabel Buchse/Buchse 1:1
 components: eBay
     1 74LS654
