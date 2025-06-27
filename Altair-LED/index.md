@@ -1,5 +1,5 @@
 title: Altair 8800 LED Ausgabe
-tested: original
+tested: function
 links:
     home: https://github.com/dhansel/Altair8800-IOBus
     ibom

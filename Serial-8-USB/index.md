@@ -1,6 +1,8 @@
 title: Serial-8 auf USB Adapter
+tested: function
 links:
 photos:
+    IMG_7225.jpeg: aufgebaut
     IMG_7210.jpeg: Platine
 components: USB Adapter
     1 Platine
