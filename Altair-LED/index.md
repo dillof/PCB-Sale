@@ -2,6 +2,11 @@ title: Altair 8800 LED Ausgabe
 tested: original
 links:
     home: https://github.com/dhansel/Altair8800-IOBus
+    ibom
+    schematics
+photos:
+    IMG_7224.jpeg: aufgebaut
+    IMG_7213.jpeg: Platine
 components:
     1 Platine
     4 100nF Kondensator

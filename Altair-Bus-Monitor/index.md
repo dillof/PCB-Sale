@@ -2,6 +2,8 @@ title: Altair 8800 Bus Monitor Karte
 tested: original
 links:
     home: https://github.com/dhansel/Altair8800-IOBus
+photos:
+    IMG_7215.jpeg: Platine
 components:
     1 Platine
     2 100nF Kondensator

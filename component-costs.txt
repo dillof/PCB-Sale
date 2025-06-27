@@ -284,6 +284,7 @@
 0.09 1x5 Stiftleiste https://www.reichelt.de/de/de/shop/produkt/stiftleiste_36_polig_vergoldet_2_54mm-235640
 0.11 1x6 Stiftleiste https://www.reichelt.de/de/de/shop/produkt/stiftleiste_36_polig_vergoldet_2_54mm-235640
 - 1x7 Stiftleiste
+- 1x8 Stiftleiste
 0.18 1x10 Stiftleiste https://www.reichelt.de/de/de/shop/produkt/stiftleiste_36_polig_vergoldet_2_54mm-235640
 - 1x11 Stiftleiste
 0.23 1x13 Stiftleiste https://www.reichelt.de/de/de/shop/produkt/stiftleiste_36_polig_vergoldet_2_54mm-235640
@@ -420,6 +421,7 @@
 0.01 M3 12mm Abstandhalter Buchse/Buchse https://www.reichelt.de/de/de/shop/produkt/raspberry_pi_-_abstandshalter-sortiment_380tlg_m2_5_schwarz-291439?nbc=1&q=%2Fat%2Fde%2Fshop%2Fraspberry-pi-abstandshalter-sortiment-380tlg-m2-5-schwarz-rpi-mountingkit5-p291439.html
 0.02 M3 16mm Abstandhalter Buchse/Buchse https://www.reichelt.de/de/de/shop/produkt/raspberry_pi_-_abstandshalter-sortiment_380tlg_m2_5_schwarz-291439?nbc=1&q=%2Fat%2Fde%2Fshop%2Fraspberry-pi-abstandshalter-sortiment-380tlg-m2-5-schwarz-rpi-mountingkit5-p291439.html
 0.12 Gummifuß, 8mm https://www.reichelt.de/de/de/shop/produkt/gummifuesse_8_x_2_8_mm_schwarz_56_stueck-225123
+- Kabelbinder
 
 # Stecker
 - 90° DIN-4 Buchse
@@ -427,9 +429,11 @@
 1.60 90° DIN-6 Buchse https://www.reichelt.de/de/de/shop/produkt/din-einbaukupplung_-_90_6-pol_fuer_pcb-171913
 0.61 90° DIN-7 Buchse https://www.aliexpress.com/item/32981543684.html
 0.62 90° DIN-8 Buchse https://www.aliexpress.com/item/32981543684.html
+- 90° DIN-8 270° Buchse
 0.64 DIN-5 Stecker https://www.reichelt.de/de/de/shop/produkt/din-stecker_5-polig_180_halbrund-11198
 0.61 DIN-6 Stecker https://www.reichelt.de/de/de/shop/produkt/din-stecker_6-polig-11200
 3.79 DIN-7 Stecker https://www.conrad.at/de/p/rean-av-nys323-din-rundsteckverbinder-stecker-gerade-polzahl-7-schwarz-1-st-746721.html
+- DIN-8 270° Stecker
 4.20 DIN-5 Buchse https://www.conrad.at/de/p/hirschmann-930-151-517-1-din-rundsteckverbinder-buchse-gerade-polzahl-5-grau-1-st-737534.html
 0.84 DIN-6 Buchse https://www.reichelt.de/de/de/shop/produkt/din-kupplung_6-polig-11191
 1.41 Mini-DIN-8 Stecker https://www.reichelt.de/de/de/shop/produkt/mini-din-stecker_-_8-pol-17459

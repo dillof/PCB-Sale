@@ -4,6 +4,8 @@ links:
     ibom
     schematics
 photos:
+    IMG_7223.jpeg: aufgebaut
+    IMG_7208.jpeg: Platine
 components:
     1 Platine
     1 90° SCART Buchse
