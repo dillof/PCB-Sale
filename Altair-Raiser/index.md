@@ -1,5 +1,5 @@
 title: Altair 8800 Raiser
-tested: original
+tested: function
 links:
 photos:
     IMG_7226.jpeg: aufgebaut
