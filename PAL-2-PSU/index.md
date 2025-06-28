@@ -1,11 +1,12 @@
 title: PAL-2 Stromversorgung
-tested: fixable
+tested: fixable  Für die serielle Schnittstelle muß ein Kabel gelegt werden.
 links:
     home: https://github.com/T-Pau/PAL-2-PSU
     ibom
 photos:
     IMG_7036.jpeg: aufgebaut
     IMG_7013.jpeg: Platine
+    IMG_7187.jpeg: Fix
 systems:
     MOS KIM-1
 components:

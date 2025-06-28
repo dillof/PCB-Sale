@@ -1,4 +1,5 @@
 title: USB Joystick Adapter
+tested: function
 links:
     home: https://github.com/tebl/C64-Joystick-Adapter
     ibom

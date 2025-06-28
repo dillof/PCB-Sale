@@ -1,4 +1,5 @@
 title: Serial Adapter
+tested: none
 page: later
 links:
     ibom

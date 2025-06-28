@@ -15,3 +15,4 @@ components:
 systems:
     Commodore 64
 ---
+Adapter für SNES Kontroller auf Trap Them Kontroller.

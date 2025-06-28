@@ -1,4 +1,5 @@
 title: U2600+8 Plus
+tested: original
 page: private
 links:
     home: https://uni64.com/shop/index.php?m=70&item_id=7525

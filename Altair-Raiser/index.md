@@ -1,7 +1,8 @@
-title: Altair 8800 Riser
+title: Altair 8800 Raiser
 tested: original
 links:
 photos:
+    IMG_7226.jpeg: aufgebaut
     IMG_7211.jpeg: Platine
 components:
     1 Platine

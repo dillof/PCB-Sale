@@ -1,4 +1,5 @@
 title: PiTube Direct
+tested: original
 links:
     home: https://github.com/hoglet67/PiTubeDirect
     ibom

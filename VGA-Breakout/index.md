@@ -1,5 +1,5 @@
 title: VGA Breakout Platine
-# page: upcoming
+tested: function
 links:
     home: https://github.com/T-Pau/Connector-Breakout-Boards
     ibom

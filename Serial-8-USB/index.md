@@ -10,8 +10,6 @@ components: USB Adapter
     1 5mm LED, rot
     2 1x6 Stiftleiste
     1 1x5 Stiftleiste
-    2 1x6 Buchsenleiste
-    1 1x5 Buchsenleiste
     1 1xEin/Ein Schalter
     1 Waveshare USB-TO-TTL-FT232
 components: Kabel

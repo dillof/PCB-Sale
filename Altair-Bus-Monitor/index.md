@@ -1,12 +1,14 @@
 title: Altair 8800 Bus Monitor Karte
 tested: original
 links:
-    home: https://github.com/dhansel/Altair8800-IOBus
+    home: https://github.com/dhansel/Altair8800-IOBus/tree/main/10-bus-monitor
+    ibom
 photos:
+    IMG_7227.jpeg: aufgebaut
     IMG_7215.jpeg: Platine
 components:
     1 Platine
-    2 100nF Kondensator
+    4 100nF Kondensator
     1 10µF Elektrolytkondensator
     3 1N4001 Diode
     1 1x3 Stiftleiste

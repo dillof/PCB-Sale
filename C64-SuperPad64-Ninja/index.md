@@ -1,4 +1,5 @@
 title: Commodore 64 SuperPad64 / Ninja SNES Pad
+tested: none
 page: later
 links:
 photos:

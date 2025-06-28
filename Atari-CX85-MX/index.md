@@ -1,4 +1,5 @@
 title: Atari CX85 Keypad mit MX Tasten
+tested: none
 page: later
 links:
 photos:

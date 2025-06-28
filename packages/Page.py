@@ -194,7 +194,13 @@ class Page:
             for file, used in images.items():
                 if not used:
                     messages.warning(f"Photo '{file}' not used", filename)
-                
+            
+            if self.directory != "order" and False: # TODO: add command line argument for additional checks
+                if self.tested is None:
+                    messages.warning(f"No testing state specified.", filename)
+                if not self.content:
+                    messages.warning(f"No description provided.", filename)
+
             if self.index_page not in site.index_pages:
                 messages.error(f"Unknown index page '{self.index_page}'")
             else:

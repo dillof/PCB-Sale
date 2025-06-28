@@ -1,4 +1,5 @@
 title: MOS KIM-1 Keypad mit MX Switches
+tested: none
 page: later
 links:
 photos:

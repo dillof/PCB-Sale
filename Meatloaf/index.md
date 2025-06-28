@@ -1,4 +1,5 @@
 title: Meatloaf IEC Multidevice Emulator
+tested: none
 page: later
 links:
     home: https://meatloaf.cc

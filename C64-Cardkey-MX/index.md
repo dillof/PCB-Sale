@@ -1,4 +1,5 @@
 title: Cardco Cardkey 1 Keypad mit MX Tasten
+tested: none
 page: later
 links:
 photos:
@@ -16,3 +17,4 @@ components: Kabel
 systems:
     Commodore 64
 ---
+Nachbau des Cardo Carkey 1 Keypads, Variante mit MX Schaltern und Tasten.

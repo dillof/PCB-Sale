@@ -1,4 +1,5 @@
 title: Triumph-Adler Alphatronics PC Floppy Controller
+tested: original
 links:
     home: https://github.com/felge1966/Alphatronic-PC
     ibom

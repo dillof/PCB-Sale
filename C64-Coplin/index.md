@@ -1,5 +1,5 @@
 title: Coplin Keypad
-# page: upcoming
+tested: none
 links:
     ibom
 photos:

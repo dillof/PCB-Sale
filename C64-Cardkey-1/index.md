@@ -23,3 +23,4 @@ components: Kabel
 systems:
     Commodore 64
 --- 
+Nachbau des Cardco Cardkey 1 Keypads.
