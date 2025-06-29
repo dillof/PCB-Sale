@@ -1,5 +1,5 @@
 title: Commander X16 90° Cartridge Adapter
-tested: none
+tested: function
 links:
 photos:
     IMG_6678.jpeg: aufgebaut
