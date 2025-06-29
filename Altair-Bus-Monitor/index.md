@@ -24,7 +24,7 @@ components:
     2 16-Pin Sockel, schmal
     2 18-Pin Sockel, schmal
     4 LTD-4708JR 2x7-Segment Display
-    1 EC12E 24-Stufen Drehimpulsgeber
+    1 EN12-HS22AF20 24-Stufen Drehimpulsgeber mit Taster
 systems:
     Altair 8800
 ---

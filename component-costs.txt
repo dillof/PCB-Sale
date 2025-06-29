@@ -407,7 +407,7 @@
 2.44 1xEin/Ein Schalter, SS-25136-NH https://www.reichelt.de/de/de/shop/produkt/schiebeschalter_gerade_rm2_54_-_1x_ein_-_ein-105709
 2.06 90° 1xEin/Ein Schalter SS-25336-N https://www.reichelt.de/de/de/shop/produkt/schiebeschalter_90_rm2_54_-_1x_ein_-_ein-105717
 3.35 2xEin/Ein Schalter, SS-25446-N https://www.reichelt.de/de/de/shop/produkt/schiebeschalter_gerade_rm5_08_-_2x_ein_-_ein-105715
-1.51 EC12E 24-Stufen Drehimpulsgeber https://www.reichelt.de/de/de/shop/produkt/drehimpulsegeber_24_impulse_24_rastungen_vertikal-73922
+1.44 EN12-HS22AF20 24-Stufen Drehimpulsgeber mit Taster https://www.mouser.at/ProductDetail/BI-Technologies-TT-Electronics/EN12-HS22AF20?qs=u1MaZ2%2F4xgvgjtvh4WE3uw%3D%3D
 
 # Montagematerial
 0.38 M2 Schraube https://www.conrad.at/de/p/toolcraft-839945-senkschrauben-m2-16-mm-schlitz-din-963-kunststoff-polyamid-10-st-839945.html
@@ -520,6 +520,7 @@
 - 8501 CPU
 - 8580 SID
 - 65C02 CPU
+12.17 65C816 CPU https://www.mouser.at/ProductDetail/Western-Design-Center-WDC/W65C816S6PG-14?qs=opBjA1TV900oFHK2UUDZKA%3D%3D
 13.95 65C22 VIA https://www.reichelt.de/de/de/shop/produkt/65xx_68xx_vielseitiger_schnittstellenadapter_pdip-40-323440
 - UM6526P1 TIA
 - PCF8584 I2C-Bus Controller
@@ -720,6 +721,7 @@
 - 27C512 EPROM 
 4.26 29F040 Flash ROM https://de.aliexpress.com/item/1005001889894539.html?spm=a2g0o.productlist.main.3.2ff6I9kLI9kLNj&algo_pvid=39e4833c-3440-4623-a0af-c80ec689cd16&algo_exp_id=39e4833c-3440-4623-a0af-c80ec689cd16-1&pdp_ext_f=%7B%22order%22%3A%221%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%213.89%213.50%21%21%214.31%213.88%21%40211b819117464729336654846e04f4%2112000028134866745%21sea%21AT%214802728327%21X&curPageLogUid=9LwZMVVO6PCd&utparam-url=scene%3Asearch%7Cquery_from%3A
 1.93 SST39SF040 Flash ROM, PLCC-32 https://www.reichelt.de/de/de/shop/produkt/multi-nor-flash-speicher_4_mb_512_k_x_8_5_v_plcc-32-121965
+3.48 SST39SF040 Flash ROM https://www.mouser.at/ProductDetail/Microchip-Technology/SST39SF040-70-4C-PHE?qs=YClUa%252B2dcx1pgizrqJ6nyQ%3D%3D
  2.90 Userport Stecker https://restore-store.de/home/298-userport-stecker-24-pin-hq-.html
  5.85 Userport Stecker Gehäuse https://restore-store.de/bauelemente/279-gehaeuse-fuer-userport-stecker.html
  - ZX-Spectrum Expansion Port Stecker
@@ -752,6 +754,7 @@
 3.08 GM82C765B https://de.aliexpress.com/item/1005007552514148.html
 1.27 µPD765A https://www.aliexpress.com/item/1005006998943523.html
 0.37 CR2032 Batterie https://www.reichelt.de/de/de/lithium-knopfzelle-3-v-210-mah-20-0x3-2-mm-cr-2032-p26550.html
+- CR1220 Batterie
 8.07 ML2032 aufladbare Batterie https://www.amazon.de/Girafus-ML2032-wiederaufladbare-80mAh-Ersetzt-Taschenrechner-elektr-Kerzen/dp/B0CL6Z8W44
 - CR2025 Halter
 4.64 Teensy Ethernet Kit https://www.berrybase.at/ethernet-kit-fuer-teensy-4.1
