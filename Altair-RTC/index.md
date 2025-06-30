@@ -1,7 +1,8 @@
 title: Altair 8800 Echtzeituhr Karte
 tested: original
 links:
-    home: https://github.com/dhansel/Altair8800-IOBus
+    home: https://github.com/dhansel/Altair8800-IOBus/tree/main/08-timekeeping
+    ibom
 photos:
     IMG_7214.jpeg: Platine
 components:
