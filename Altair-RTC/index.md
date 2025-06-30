@@ -4,6 +4,7 @@ links:
     home: https://github.com/dhansel/Altair8800-IOBus/tree/main/08-timekeeping
     ibom
 photos:
+    IMG_7246.jpeg: aufgebaut
     IMG_7214.jpeg: Platine
 components:
     1 Platine
@@ -32,7 +33,7 @@ components:
     1 74HC14
     1 74HC112
     1 74HC04
-    1 8-Pin Sockel, schmal
+    2 8-Pin Sockel, schmal
     6 14-Pin Sockel, schmal
     5 16-Pin Sockel, schmal
 systems:

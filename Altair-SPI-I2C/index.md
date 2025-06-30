@@ -4,6 +4,7 @@ links:
     home: https://github.com/dhansel/Altair8800-IOBus/tree/main/09-spi-i2c
     ibom
 photos:
+    IMG_7247.jpeg: aufgebaut
     IMG_7212.jpeg: Platine
 components:
     1 Platine
