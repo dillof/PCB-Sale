@@ -5,6 +5,7 @@ links:
     ibom
     schematics
 photos:
+    IMG_7243.jpeg: aufgebaut
     IMG_7216.jpeg: Platine
     IMG_6085.jpeg: Kabel
 components: Adapter

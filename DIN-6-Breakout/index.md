@@ -1,7 +1,9 @@
 title: DIN-6 Breakout Platine
+tested: function
 links:
     home: https://github.com/T-Pau/Connector-Breakout-Boards
 photos:
+    IMG_7228.jpeg: aufgebaut
     IMG_7204.jpeg: Platine
 components:
     1 Platine
