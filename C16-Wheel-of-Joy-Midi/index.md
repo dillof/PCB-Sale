@@ -1,5 +1,5 @@
 title: Wheel of Joy Midi Multiplayer Adapter
-tested: none
+tested: function
 links:
     home: https://github.com/T-Pau/Wheel-of-Joy-Midi
     ibom
