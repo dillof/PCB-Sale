@@ -1,5 +1,5 @@
 title: Altair 8800 Bus Monitor Karte
-tested: original
+tested: function
 links:
     home: https://github.com/dhansel/Altair8800-IOBus/tree/main/10-bus-monitor
     ibom
