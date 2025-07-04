@@ -1,4 +1,5 @@
 title: D-Sub-9 Breakout Platine
+tested: function
 links:
     home: https://github.com/T-Pau/Connector-Breakout-Boards
 photos:
