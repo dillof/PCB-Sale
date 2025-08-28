@@ -17,7 +17,7 @@ Bis 75g (2-5 Platinen, je nach Größe) gehen sich noch in einem Kouvert aus, Be
 
 Ein paar generelle Punkte:
 
-- Der **Versand erfolgt aus Österreich**, bezahlung per PayPal für Freunde oder Banküberweisung. Bitte vor der Zahlung meine Rückmeldung über Verfügbarkeit und endgültigen Preis abwarten.
+- Der **Versand erfolgt aus Österreich**, bezahlung per PayPal für Freunde oder Banküberweisung. Bitte vor der Zahlung meine Rückmeldung über Verfügbarkeit und endgültigen Preis abwarten. *(Ich bin 4. - 7. 9. auf der DoReCo und kann's gerne dort übergeben.)*
 
 - Dies ist kein Shop sondern mein Hobby, ich mache dabei auch keinen Gewinn. Dementsprechend bitte ich um Rücksicht und Geduld.
 
