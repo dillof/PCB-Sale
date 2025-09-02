@@ -5,7 +5,7 @@ links:
     ibom
 photos:
     IMG_7036.jpeg: aufgebaut
-    IMG_7013.jpeg: Platine
+    IMG_7016.jpeg: Platine
     IMG_7187.jpeg: Fix
 systems:
     MOS KIM-1

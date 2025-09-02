@@ -4,7 +4,7 @@ links:
     ibom
 photos:
     IMG_7037.jpeg: aufgebaut
-    IMG_7016.jpeg: Platine
+    IMG_7013.jpeg: Platine
 components:
     1 Platine
     4 220nF Kondensator
