@@ -1,11 +1,12 @@
 title: Commodore 64 Userport DS-3231 RTC Modul
-tested: cosmetic SLA und SDA sind vertauscht.
+tested: cosmetic Pin-Beschriftung für SLA und SDA sind vertauscht.
 links:
     home: https://github.com/T-Pau/User-Port-RTC
     ibom
 photos:
     IMG_6068.jpeg: aufgebaut
     IMG_6055.jpeg: Platine
+    IMG_6055a.jpeg: Fix
 components:
     1 Platine
     1 Userport Stecker
