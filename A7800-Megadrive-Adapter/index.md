@@ -1,4 +1,6 @@
 title: Atari 7800 Megadrive Controller Adapter
+description: Verwende einen Megadrive Controller am Atari 7800.
+amount: 10
 tested: original
 links:
     home: https://github.com/tebl/A7800-Mega-Adapter

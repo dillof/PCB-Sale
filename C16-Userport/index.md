@@ -1,4 +1,5 @@
 title: Commodore 16, Plus/4 Userport Modul V3
+amount:3
 tested: original
 links:
     home: https://github.com/SukkoPera

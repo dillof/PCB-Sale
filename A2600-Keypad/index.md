@@ -1,4 +1,6 @@
 title: Atari 2600 Keyboard Controller
+description: Ziffernblock für Atari-kompatiblen Joystickport.
+amount: 3
 tested: function
 links:
     home: https://github.com/tebl/A2600-Keyboard
@@ -28,4 +30,4 @@ systems:
 ---
 Dieses 12-Tasten Keypad war ursprünglich für das Atari 2600 konzipiert, ist aber auch am C64 betreibbar.
 
-Diese Nachbildung stammt von tebl. Ich habe sie aufgebaut und getestet.
+Diese Nachbildung stammt von tebl.

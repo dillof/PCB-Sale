@@ -1,4 +1,6 @@
 title: Open Source Cart Reader Atari 7800 Adapter
+description: Lese Atari 2600/7800 Module mit dem OSCR aus.
+amount: 9
 tested: original
 links:
     home: https://github.com/sanni/cartreader/discussions/354

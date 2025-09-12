@@ -1,4 +1,5 @@
 title: PiTube Signal Converter
+amount: 10
 tested: original
 # can't find homepage, bom
 page: private

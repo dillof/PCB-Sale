@@ -1,4 +1,5 @@
 title: Altair 8800 LED Ausgabe
+amount: 4
 tested: function
 links:
     home: https://github.com/dhansel/Altair8800-IOBus

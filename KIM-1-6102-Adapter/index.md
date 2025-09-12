@@ -1,4 +1,6 @@
 title: MOS KIM-1 6501 Adapter
+description: Verwende 62256 RAM im KIM-1.
+amount: 9
 tested: none
 photos:
     IMG_6281.jpeg: aufgebaut

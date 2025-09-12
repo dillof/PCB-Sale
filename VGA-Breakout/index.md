@@ -1,4 +1,5 @@
 title: VGA Breakout Platine
+amount: 5
 tested: function
 links:
     home: https://github.com/T-Pau/Connector-Breakout-Boards

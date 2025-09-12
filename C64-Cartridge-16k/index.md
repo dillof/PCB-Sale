@@ -1,4 +1,5 @@
 title: Commodore 64 16k Modul
+amount: 2
 tested: original
 links:
     home: https://github.com/SukkoPera/OpenC64Cart16K

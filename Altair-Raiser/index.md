@@ -1,4 +1,5 @@
 title: Altair 8800 Raiser
+amount: 8
 tested: function
 links:
 photos:

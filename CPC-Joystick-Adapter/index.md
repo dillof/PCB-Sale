@@ -1,4 +1,6 @@
 title: Amstrad CPC Joystick Adapter
+description: Verwende 2 Atari-kompatible Joysticks am CPC.
+amount: 6
 tested: function
 links:
     home: https://github.com/tebl/CPC464-Joystick-Splitter

@@ -1,4 +1,6 @@
 title: Commodore 64 Userport DS-3231 RTC Modul
+description: Echtzeituhr am Userport, kompatibel mit GEOS und C64OS.
+amount: 6
 tested: cosmetic Pin-Beschriftung für SLA und SDA sind vertauscht.
 links:
     home: https://github.com/T-Pau/User-Port-RTC

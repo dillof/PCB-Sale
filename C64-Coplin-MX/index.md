@@ -1,4 +1,6 @@
 title: Coplin Keypad mit MX Tasten
+description: Ziffernblock für Atari-kompatiblen Joystickport.
+amount: 8
 tested: function
 links:
     Interaktiver Bestückungsplan (Tasten): ibom-keys.html

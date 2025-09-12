@@ -1,4 +1,6 @@
 title: Open Source Cart Reader Atari 2600 Adapter
+description: Lese Atari 2600 Module mit dem OSCR aus.
+amount: 9
 tested: function
 links:
     home: https://github.com/sanni/cartreader/discussions/354

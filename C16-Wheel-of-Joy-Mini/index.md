@@ -1,4 +1,6 @@
 title: Wheel of Joy Mini Multiplayer Adapter
+description: Schließe 4 Amiga kompatible Joysticks mit 2 Feuertasten am Userport an.
+amount: 3
 tested: original
 links:
     home: https://github.com/SukkoPera/WheelOfJoyMini

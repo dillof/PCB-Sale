@@ -1,4 +1,5 @@
 title: MOS KIM-1 MTU Stromversorgung
+amount: 9
 tested: none
 links:
     ibom

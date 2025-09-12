@@ -1,4 +1,5 @@
 title: Microsoft MSX Megadrive Adapter
+amount: 10
 tested: original
 links:
     home: https://github.com/tebl/MSX-Mega-Adapter

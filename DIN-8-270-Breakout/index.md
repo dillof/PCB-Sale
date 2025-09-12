@@ -1,4 +1,6 @@
 title: DIN-8 270° Breakout Platine
+description: Greife auf die Pins von Stecker oder Buchse via Stiftleiste zu.
+amount: 9
 links:
     home: https://github.com/T-Pau/Connector-Breakout-Boards
 photos:

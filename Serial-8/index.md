@@ -1,4 +1,5 @@
 title: Serial Adapter
+amount: 9
 tested: none
 page: later
 links:

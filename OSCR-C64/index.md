@@ -1,4 +1,6 @@
 title: Open Source Cart Reader Commodore 64 Adapter
+description: Lese Commodore 64 Module mit dem OSCR aus.
+amount: 7
 tested: function
 links:
     home: https://github.com/sanni/cartreader/discussions/354

@@ -1,4 +1,6 @@
 title: Open Source Cart Reader Atari 5200 Adapter
+description: Lese Atari 5200 Module mit dem OSCR aus.
+amount: 9
 tested: original
 links:
     home: https://github.com/sanni/cartreader/discussions/354

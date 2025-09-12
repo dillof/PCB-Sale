@@ -1,4 +1,6 @@
 title: Commodore 64 SuperClone 5.0 Modul
+description: Nachbau des SuperSnapshot 5.
+amount: 5
 tested: function
 links:
     home: https://github.com/Kalidomra/SuperClone-5.0

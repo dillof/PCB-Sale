@@ -1,4 +1,5 @@
 title: Cody Keyboard XL
+amount: 4
 tested: original-modified
 links:
     home: https://codycomputer.org/

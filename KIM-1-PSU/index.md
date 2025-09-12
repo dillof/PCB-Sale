@@ -1,4 +1,5 @@
 title: MOS KIM-1 PSU
+amount: 9
 tested: none
 links:
     ibom

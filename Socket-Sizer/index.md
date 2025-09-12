@@ -1,4 +1,5 @@
 title: Socket Sizer
+amount: 3
 tested: function
 links:
 photos:

@@ -1,4 +1,6 @@
 title: Commodore 64 SuperPad64 auf Ninja SNES Pad Adapter
+description: Verwende den 8xSNES Controller Adapter an den Joystickports.
+amount: 9
 tested: function
 links:
     home: https://github.com/T-Pau/SNES-Pad

@@ -1,4 +1,5 @@
 title: Sinclair ZX Spectrum Interface 2 ROM Modul
+amount: 9
 tested: function
 links:
     home: https://github.com/mosaicmap/ZXS_I2_kartridz

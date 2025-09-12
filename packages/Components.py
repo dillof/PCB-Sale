@@ -14,6 +14,7 @@ seller_links = {
     "digikey": "DigiKey",
     "ebay": "eBay",
     "mouser": "Mouser",
+    "polyplay": "Poly.Play",
     "reichelt": "Reichelt",
     "restore-store": "Restore-Store",
     "welectron": "Welectron"

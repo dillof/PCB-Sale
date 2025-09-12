@@ -1,4 +1,5 @@
 title: Cody Cartridge
+amount: 9
 tested: original
 links:
     home: https://codycomputer.org/

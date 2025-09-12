@@ -1,4 +1,6 @@
 title: Open Source Cart Reader Microsoft MSX Adapter
+description: Lese MSX Module mit dem OSCR aus.
+amount: 9
 tested: original
 links:
     home: https://github.com/sanni/cartreader/discussions/354

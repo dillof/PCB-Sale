@@ -1,4 +1,5 @@
 title: Altair 8800 I/O Bus Backplane
+description: Bus Backplane für Altair 8800 Mini.
 tested: original
 page: later
 links:

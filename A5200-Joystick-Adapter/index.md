@@ -1,4 +1,6 @@
-title: Atari 5200 Joystick Adapter\
+title: Atari 5200 Joystick Adapter
+description: Verwende einen Atari, Megadrive oder PC Joystick am Atari 5200.
+amount: 6
 tested: function
 links:
     ibom

@@ -1,4 +1,5 @@
 title: Commodore Amiga Lazarustorm
+amount: 13
 tested: function
 links:
     home: https://github.com/arananet/LAZARUSTORM

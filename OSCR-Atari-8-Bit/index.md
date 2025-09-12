@@ -1,4 +1,6 @@
 title: Open Source Cart Reader Atari 8-Bit Adapter
+description: Lese Atari XL/XE Module mit dem OSCR aus.
+amount: 9
 tested: original
 links:
     home: https://github.com/sanni/cartreader/discussions/354

@@ -67,23 +67,41 @@ p.photos img {
 div.links {
     display: table;
     padding-left: 5ex;
+    min-width: 50%;
+    max-width: 90%;
 }
 div.links a {
     display: table-row;
+    text-decoration: none;
 }
-div.links a span {
+div.links a:hover {
+    background-color: #f0f0f0;
+}
+div.links a div {
     display: table-cell;
     vertical-align: middle;
     padding-top: 1ex;
     padding-bottom: 1ex;
-}
-div.links span:first-child {
-    text-align: right;
     padding-right: 1ex;
+    width: auto;
+    max-width: 50%;
+}
+div.links div:first-child {
+    text-align: right;
+    padding-left: 1ex;
+    width: 1%;
 }
 div.links img {
     max-height: 100px;
     max-width: 250px;
+}
+div.links span.title {
+    font-weight: bold;
+}
+
+div.links span.sold-out {
+    font-weight: bold;
+    color: red;
 }
 
 table.postage td, table.postage th {

@@ -1,4 +1,5 @@
 title: Commodore 64 Easyflash 3 Modul
+amount: 5
 tested: original
 photos:
     IMG_5512.jpeg: Platine

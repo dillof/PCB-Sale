@@ -1,4 +1,6 @@
 title: Altair 8800 Bus Monitor Karte
+description: Zeigt Buszugriffe auf Display oder über serielle Schnittstelle.
+amount: 4
 tested: function
 links:
     home: https://github.com/dhansel/Altair8800-IOBus/tree/main/10-bus-monitor

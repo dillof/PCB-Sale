@@ -1,4 +1,6 @@
 title: Commodore 64 Cardko Cardkey 1 Keypad
+description: Ziffernblock für Atari-kompatiblen Joystickport.
+amount: 9
 tested: function
 links:
     home: https://github.com/T-Pau/Cardkey-Keypad

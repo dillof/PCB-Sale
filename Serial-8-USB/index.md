@@ -1,4 +1,5 @@
 title: Serial-8 auf USB Adapter
+amount: 9
 tested: function
 links:
 photos:

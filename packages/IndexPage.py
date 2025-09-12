@@ -82,10 +82,18 @@ class IndexPage:
                 sorted_pages = sorted(self.pages[system], key=functools.cmp_to_key(lambda a, b: a.compare_system_list(b, system)))
                 for page in sorted_pages:
                     writer.link(f"{page.directory}/")
-                    writer.open("span")
+                    writer.open("div")
                     if len(page.photos) > 0:
                         writer.image(f"{page.directory}/{page.photos[0].file}")
                     writer.close()
-                    writer.tag("span", page.link_title(system))
+                    writer.open("div")
+                    if page.amount == 0:
+                        writer.tag("span", "Ausverkauft", {"class":"sold-out"})
+                        writer.tag("br")
+                    writer.tag("span", page.link_title(system), {"class":"title"})
+                    if page.description is not None:
+                        writer.tag("br")
+                        writer.tag("span", page.description, {"class":"description"})
+                    writer.close()
                     writer.close(newline=True)
                 writer.close(newline=True)

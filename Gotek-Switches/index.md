@@ -1,4 +1,5 @@
 title: Gotek Schalter
+amount: 5
 tested: function
 links:
     home: https://github.com/T-Pau/Gotek-Switches

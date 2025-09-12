@@ -1,4 +1,5 @@
 title: ATF15xx Breakout Platine
+amount: 4
 tested: none
 links:
     ibom

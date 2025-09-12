@@ -1,4 +1,6 @@
 title: MOS KIM-1 Replica
+description: Nachbau im original Layout.
+amount: 4
 tested: original
 links:
     home: https://github.com/eduardocasino/kim-1

@@ -1,4 +1,5 @@
 title: Cody Computer
+amount: 4
 tested: original
 links:
     home: https://codycomputer.org/

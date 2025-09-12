@@ -1,4 +1,5 @@
 title: Altair 8800 Echtzeituhr Karte
+amount: 4
 tested: original
 links:
     home: https://github.com/dhansel/Altair8800-IOBus/tree/main/08-timekeeping

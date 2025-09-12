@@ -1,4 +1,5 @@
 title: MOS KIM-1 MTU Programmable Memory Card
+amount: 4
 tested: original
 links:
     home: https://github.com/eduardocasino/kim-1-programmable-memory-card

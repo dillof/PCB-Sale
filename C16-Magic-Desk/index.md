@@ -1,4 +1,5 @@
 title: Commodore 16, Plus/4 Magic Desk Modul
+amount: 7
 tested: original
 links:
     home: https://github.com/msolajic/c264-magic-cart

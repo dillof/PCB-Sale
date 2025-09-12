@@ -1,4 +1,5 @@
 title: Kaleidoscopico
+amount: 9
 tested: function
 links:
     home: https://github.com/T-Pau/Kaleidoscopico

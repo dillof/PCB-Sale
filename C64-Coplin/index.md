@@ -1,4 +1,6 @@
 title: Coplin Keypad
+description: Ziffernblock für Atari-kompatiblen Joystickport.
+amount: 9
 tested: none
 links:
     ibom

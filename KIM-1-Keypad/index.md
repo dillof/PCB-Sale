@@ -1,4 +1,6 @@
 title: MOS KIM-1 Keypad
+description: Ziffernblock mit 6x6mm Tastern.
+amount: 9
 tested: original-modified
 links:
     home: https://github.com/eduardocasino/kim-1-keypad

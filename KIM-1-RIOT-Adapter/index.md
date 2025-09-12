@@ -1,4 +1,5 @@
 title: MOS KIM-1 RIOT Adapter
+amount: 4
 tested: original
 links:
     home: https://github.com/eduardocasino/kim-1-dual-6532-adapter

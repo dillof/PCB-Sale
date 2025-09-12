@@ -1,4 +1,5 @@
 title: MOS KIM-1 MTU AUX Karte
+amount: 4
 tested: original
 links:
     home: https://github.com/eduardocasino/kim-1-mtu-motherboard

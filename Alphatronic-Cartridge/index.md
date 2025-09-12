@@ -1,4 +1,5 @@
-title: Triumph-Adler Alphatronics PC ROM Cartridge
+title: Triumph-Adler Alphatronics PC ROM Modul
+amount: 10
 tested: function
 links:
     home: https://github.com/felge1966/Alphatronic-PC

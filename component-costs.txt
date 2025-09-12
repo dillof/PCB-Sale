@@ -94,6 +94,7 @@
 0.04 33Ω Widerstand https://www.reichelt.de/de/de/shop/produkt/widerstand_kohleschicht_33_ohm_0207_250_mw_5_-1409
 0.04 47Ω Widerstand https://www.reichelt.de/de/de/shop/produkt/widerstand_kohleschicht_47_ohm_0207_250_mw_5_-1431
 - 68Ω Widerstand
+0.03 75Ω Widerstand https://www.reichelt.de/de/de/shop/produkt/widerstand_kohleschicht_75_ohm_0207_250_mw_5_-1466
 0.03 82Ω Widerstand https://www.reichelt.de/de/de/shop/produkt/widerstand_kohleschicht_82_ohm_0207_250_mw_5_-1473
 0.03 100Ω Widerstand https://www.reichelt.de/de/de/shop/produkt/widerstand_kohleschicht_100_ohm_0207_250_mw_5_-1336
 0.09 150Ω Widerstand https://www.reichelt.de/de/de/shop/produkt/widerstand_kohleschicht_150_ohm_0207_250_mw_5_-1354
@@ -254,6 +255,7 @@
 0.53 11.0592MHz Quarz https://www.mouser.at/ProductDetail/Vishay-Dale/XT9S20ANA11M0592?qs=QGk6feVlqMIXmdLJPpYq9Q%3D%3D
 0.21 16MHz Quarz https://www.reichelt.de/de/de/shop/produkt/standardquarz_grundton_16_000000_mhz-32852
 0.42 17.734475MHz Quarz https://www.mouser.at/ProductDetail/Citizen-FineDevice/HC-49-U-S17734475ABJB?qs=byeeYqUIh0P%2FYY9QYd%252B6GQ%3D%3D
+0.25 20MHz Quarz https://www.reichelt.de/de/de/shop/produkt/standardquarz_metall_20mhz_-30ppm_30pf_10_7mm_x_4_3mm_x_3_5mm-407350
 0.42 32.768MHz Quarz, 3mm https://www.mouser.at/ProductDetail/Citizen-FineDevice/HC-49-U-S32768000ABJB?qs=byeeYqUIh0OYwzqhEUKHpw%3D%3D
 0.97 12MHz Quarz, 4-Pin https://www.reichelt.de/de/de/shop/produkt/quarzoszillator_12_00_mhz-13680
 
@@ -328,6 +330,7 @@
 0.53 90° 1x20 Stiftleiste https://www.reichelt.de/de/de/shop/produkt/stiftleiste_36-polig_gewinkelt_vergold_-235643
 0.94 90° 1x{36} Stiftleiste https://www.reichelt.de/de/de/shop/produkt/stiftleiste_36-polig_gewinkelt_vergold_-235643
 0.38 90° 2x22 Stiftleiste
+0.69 90° 2x40 Stiftleiste https://www.reichelt.de/de/de/shop/produkt/stiftleiste_40_pin_rastermass_2_54_mm_2-reihig_gewinkelt_5_st-371055
 0.69 90° 2x{40} Stiftleiste https://www.reichelt.de/de/de/shop/produkt/stiftleiste_40_pin_rastermass_2_54_mm_2-reihig_gewinkelt_5_st-371055
 
 0.30 2x3 Stiftleiste mit Rahmen https://www.reichelt.de/de/de/shop/produkt/stiftwanne_6-pol_kontakte_vergoldet_2_54mm-235688
@@ -517,7 +520,7 @@
 - 6532 RIOT https://de.aliexpress.com/item/1005007119328718.html
 1.60 6551 CIA https://www.aliexpress.com/item/1005004690347906.html?spm=a2g0o.order_list.order_list_main.178.584e5c5fRT2jr4
 - 6581 SID
-- 7360 TED
+39 7360 TED https://www.polyplay.xyz/MOS-8360R2-TED-NOS
 - 8501 CPU
 - 8580 SID
 - 65C02 CPU
@@ -676,6 +679,8 @@
 1.60 ATTiny 85 https://www.reichelt.de/de/de/shop/produkt/8-bit-attiny_avr-risc_mikrocontroller_8_kb_20_mhz_dip-8-69299
 2.88 ATMEGA328P-PU https://www.mouser.at/ProductDetail/Microchip-Technology/ATMEGA328P-PU?qs=K8BHR703ZXguOQv3sKbWcg%3D%3D
 3.32 ATMEGA328P-PU https://www.reichelt.de/de/de/shop/produkt/atmega_avr_inkl_ic-sockel_32_kb_20_mhz_pdip-28-358225
+5.68 ATMEGA644P-20U https://www.mouser.at/ProductDetail/Microchip-Technology/ATMEGA644PA-PU?qs=jWm4idrLpzyKQSxMsQwiWg%3D%3D
+8.45 ATMEGA644P-20U https://www.reichelt.de/de/de/shop/produkt/8-bit_atmega_avr_mikrocontroller_64_kb_20_mhz_dip-40-88482
 4.80 Raspberry Pi Pico H https://www.welectron.com/Raspberry-Pi-Pico-H
 4.19 Raspberry Pi Pico https://www.reichelt.de/de/de/shop/produkt/raspberry_pi_pico_rp2040_cortex-m0_microusb-295706
 - Raspberry Pi Pico W
@@ -780,9 +785,13 @@
 0.58 CR2032 Halter https://www.reichelt.de/de/de/shop/produkt/knopfzellenhalter_fuer_20_mm-44621
 40.78 SLG4DVKLITE https://www.mouser.at/ProductDetail/Renesas-Dialog/SLG4DVKLITE?qs=sGAEpiMZZMuqBwn8WqcFUipNgoezRlc4VjS6ne14JavHkRjhYCDyKA%3D%3D
 2.86 R-78E50 5V Spannungsregler https://www.reichelt.de/de/de/shop/suche/R-78E5?GROUPINDEX=0&search=R-78E5
+- 9V Blockbaterie Halter
 
 - PS/2->USB keyboard adapter
 - Kassettenhülle
 - MiSTer RTC
 106.77 8.9" 1920x1200 display https://de.aliexpress.com/item/1005007065448562.html?spm=a2g0o.productlist.main.1.2da1izDJizDJpn&algo_pvid=4a29ae31-843f-4b03-ad5a-d7a4b12e3b02&algo_exp_id=4a29ae31-843f-4b03-ad5a-d7a4b12e3b02-1&pdp_ext_f=%7B%22order%22%3A%221%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%21137.17%2196.02%21%21%211096.52%21767.56%21%40211b61d017495627376777273ea810%2112000039295762871%21sea%21AT%214802728327%21X&curPageLogUid=idtKB3SXcn93&utparam-url=scene%3Asearch%7Cquery_from%3A
 - D-Sub-25 Kabel Buchse/Buchse 1:1
+- USBasp
+- Metallösen
+- Power Inductor, 5x5mm SMD

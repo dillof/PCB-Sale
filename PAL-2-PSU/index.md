@@ -1,4 +1,6 @@
 title: PAL-2 Stromversorgung
+description: Stromversorgung, serielle Schnittstelle und I/O Pins für den PAL-2.
+amount: 3
 tested: fixable  Für die serielle Schnittstelle muß ein Kabel gelegt werden.
 links:
     home: https://github.com/T-Pau/PAL-2-PSU

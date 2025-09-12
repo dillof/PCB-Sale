@@ -1,4 +1,5 @@
 title: PAL-2 to KIM-1 Adapter
+amount: 3
 tested: none
 links:
     home: https://github.com/T-Pau/PAL-2-KIM-1-Adapter

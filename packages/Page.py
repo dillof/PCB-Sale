@@ -46,7 +46,9 @@ class Page:
     def __init__(self, directory, site):
         self.directory = directory
         self.title = ""
+        self.description = None
         self.index_page = "index"
+        self.amount = None
         self.tested = None
         self.tested_comment = None
         self.systems = {}
@@ -90,8 +92,12 @@ class Page:
                             value = match.group(2)
                             if field == "title":
                                 self.title = value
+                            elif field == "description":
+                                self.description = value
                             elif field == "page":
                                 self.index_page = value
+                            elif field == "amount":
+                                self.amount = int(value)
                             elif field == "tested":
                                 try:
                                     values = value.split(maxsplit=1)
@@ -210,6 +216,9 @@ class Page:
     def write(self):
         writer = HTMLWriter.HTMLWriter(f"{self.directory}/index.html", self.title)
 
+        if self.description is not None:
+            writer.tag("h2", self.description)
+
         if self.tested is not None:
             tested = [tested_description[self.tested]]
             if self.tested_comment is not None:
@@ -232,6 +241,9 @@ class Page:
             for photo in self.photos:
                 writer.image(photo.file, photo.title)
             writer.close()
+
+        if self.amount is not None:
+            writer.tag("p", f"{self.amount} Stück verfügbar.")
 
         if len(self.content) > 0:
             writer.markdown(self.content)

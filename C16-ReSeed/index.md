@@ -1,4 +1,5 @@
 title: Commodore 16, Plus/4 Reseed SID Modul
+amount: 3
 tested: original
 links:
     home: https://github.com/SukkoPera/ReSeed

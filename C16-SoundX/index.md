@@ -1,4 +1,5 @@
 title: Commodore 16, Plus/4 SoundX Modul
+amount: 2
 tested: original
 links:
     home: https://github.com/SukkoPera/SoundX

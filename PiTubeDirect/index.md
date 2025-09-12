@@ -1,4 +1,5 @@
 title: PiTube Direct
+amount: 4
 tested: original
 links:
     home: https://github.com/hoglet67/PiTubeDirect

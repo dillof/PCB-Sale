@@ -1,4 +1,6 @@
 title: Open Source Cart Reader TRS-80 Adapter
+description: Lese TRS-80 Module mit dem OSCR aus.
+amount: 9
 tested: original
 links:
     home: https://github.com/sanni/cartreader/discussions/354

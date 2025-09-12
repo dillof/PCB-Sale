@@ -1,4 +1,6 @@
 title: Open Source Cart Reader TI-99/4A Adapter
+description: Lese TI-99/4A Module mit dem OSCR aus.
+amount: 9
 tested: original
 links:
     home: https://github.com/sanni/cartreader/discussions/354

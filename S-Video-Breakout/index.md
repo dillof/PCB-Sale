@@ -1,5 +1,5 @@
 title: S-Video Breakout Platine
-# page: upcoming
+amount: 7
 links:
     home: https://github.com/T-Pau/S-Video-Breakout
     ibom

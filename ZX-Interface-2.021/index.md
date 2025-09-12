@@ -1,4 +1,5 @@
 title: Sinclair ZX Spectrum Interface 2.021
+amount: 3
 tested: original
 links:
     home: https://github.com/tebl/ZX-Interface-2.021
