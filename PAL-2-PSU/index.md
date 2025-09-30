@@ -5,6 +5,7 @@ tested: fixable  Für die serielle Schnittstelle muß ein Kabel gelegt werden.
 links:
     home: https://github.com/T-Pau/PAL-2-PSU
     ibom
+    schematics
 photos:
     IMG_7036.jpeg: aufgebaut
     IMG_7016.jpeg: Platine

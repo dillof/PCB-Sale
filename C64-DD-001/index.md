@@ -24,6 +24,4 @@ components:
 systems:
     Commodore 64
 ---
-**Alle Platinen sind bereits verkauft, diese Seite ist nur noch als Referenz hier.**
-
 Diese Modul erlaubt das Betreiben eines PC 3.5" Diskettenlaufwerks am C64.

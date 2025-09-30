@@ -38,6 +38,8 @@ class Components:
                 line = line.rstrip()
                 if not line:
                     continue
+                if line[0] == ";":
+                    continue
                 if line[0] == "#":
                     if line[1] == "#":
                         continue

@@ -10,7 +10,7 @@ photos:
 components:
     1 Platine
     1 90° DIN-6 Buchse
-    1 DIN-6 Buchse
+    1 DIN-6 Stecker
     0.2 6 poliges Kabel, 1m
     1 1x6 Stiftleiste
     1 Kabelbinder

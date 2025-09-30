@@ -243,7 +243,10 @@ class Page:
             writer.close()
 
         if self.amount is not None:
-            writer.tag("p", f"{self.amount} Stück verfügbar.")
+            if self.amount == 0:
+                writer.markdown(["**Alle Platinen sind bereits verkauft, diese Seite ist nur noch als Referenz hier.**"])
+            else:
+                writer.tag("p", f"{self.amount} Stück verfügbar.")
 
         if len(self.content) > 0:
             writer.markdown(self.content)
