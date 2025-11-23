@@ -7,6 +7,22 @@ links:
     schematics
 systems:
     Commodore 16, Plus/4
+components: V3
+    5 10-5 100Ω Widerstandnetzwerk
+    2 8-4 68Ω Widerstandnetzwerk
+    1 330pF Kondensator
+    2 10nF Kondensator
+    4 100nF Kondensator
+    6 220nF Kondensator
+    1 1.2µH Drosselspule
+    1 10µH Drosselspule
+    1 220Ω Potentiometer 3296W
+    3 DSS1NB32A271Q91A EMI Filter
+    1 CM4545Z131B-10
+    1 90° DIN-7 Buchse
+    1 90° DIN-8 Buchse
+    1 2.2mF Elektrolytkondensator, 25V
+
 components: console
     1 Platine €23
     1 22pF Kondensator

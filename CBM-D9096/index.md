@@ -1,10 +1,11 @@
 title: CBM D9096
-page: upcoming
 tested: original
+amount: 9
 links:
     home: https://github.com/InsaneDruid/CBM-D9096
     ibom
 photos:
+    IMG_7723.jpeg: Platine
 components:
     1 Platine
     1 10nF Kondensator

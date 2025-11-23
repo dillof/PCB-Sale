@@ -5,6 +5,7 @@ tested: function
 links:
     home: https://github.com/T-Pau/SNES-Pad
     ibom
+    schematics
 photos:
     IMG_6246.jpeg: aufgebaut
     IMG_6224.jpeg: Platine

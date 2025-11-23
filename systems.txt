@@ -18,6 +18,7 @@ Tandy Color Computer, Dragon 32
 Texas Instruments TI-99/4A
 Triumph-Adler Alphatronics PC
 Cody
+My4TH
 # Spielekonsolen
 Atari 2600
 Atari 5200
