@@ -17,6 +17,7 @@ class Site:
         self.components = Components()
         self.systems = Systems()
         self.index_pages = {}
+        self.pages = {}
 
         self.parse()
 
@@ -29,7 +30,7 @@ class Site:
             if directory.startswith(".") or directory in ignored_directories:
                 continue
 
-            Page(directory, self)
+            self.pages[directory] = Page(directory, self)
 
     def write(self):
         self.components.write()

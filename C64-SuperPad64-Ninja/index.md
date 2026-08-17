@@ -1,5 +1,6 @@
 title: Commodore 64 SuperPad64 / Ninja SNES Pad
-tested: none
+tested: function
+additional-pages: DoReCo
 amount: 9
 links:
     ibom
@@ -16,6 +17,8 @@ components: Adpater
     8 SNES Controller Buchse
     2 2x5 Stiftleiste mit Rahmen
     1 2x12 Stiftleiste mit Rahmen
+    5 M3 Schraube
+    5 M3 6mm Abstandhalter Buchse/Buchse
 components: Userport Kabel
     1 2x12 Buchsenleiste für Flachbandkabel
     1 Userport Stecker

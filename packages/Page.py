@@ -47,7 +47,7 @@ class Page:
         self.directory = directory
         self.title = ""
         self.description = None
-        self.index_page = "index"
+        self.index_pages = ["index"]
         self.amount = None
         self.tested = None
         self.tested_comment = None
@@ -58,6 +58,13 @@ class Page:
         self.content = []
         self.links = []
         self.parse(site)
+
+    @property
+    def tested_description(self):
+        if self.tested is not None:
+            return tested_description[self.tested]
+        else:
+            return None
     
     def parse(self, site):
         filename = f"{self.directory}/index.md"
@@ -95,7 +102,9 @@ class Page:
                             elif field == "description":
                                 self.description = value
                             elif field == "page":
-                                self.index_page = value
+                                self.index_pages = value.split()
+                            elif field == "additional-pages":
+                                self.index_pages += value.split()
                             elif field == "amount":
                                 self.amount = int(value)
                             elif field == "tested":
@@ -207,10 +216,11 @@ class Page:
                 if not self.content:
                     messages.warning(f"No description provided.", filename)
 
-            if self.index_page not in site.index_pages:
-                messages.error(f"Unknown index page '{self.index_page}'")
-            else:
-                site.index_pages[self.index_page].add_page(self)
+            for index_page in self.index_pages:
+                if index_page not in site.index_pages:
+                    messages.error(f"Unknown index page '{index_page}'")
+                else:
+                    site.index_pages[index_page].add_page(self)
 
 
     def write(self):

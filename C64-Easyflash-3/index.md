@@ -1,4 +1,5 @@
 title: Commodore 64 Easyflash 3 Modul
+additional-pages: DoReCo
 amount: 5
 tested: original
 photos:

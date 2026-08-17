@@ -1,4 +1,5 @@
 title: Ultimate64 Kassetenport-Verlängerer
+additional-pages: DoReCo
 amount: 9
 tested: none
 links:

@@ -1,5 +1,6 @@
 title: Wheel of Joy Multiplayer Adapter
 description: Schließe 8 Joysticks mit 1 Feuertaste am Userport an.
+additional-pages: DoReCo
 amount: 10
 tested: function
 links:

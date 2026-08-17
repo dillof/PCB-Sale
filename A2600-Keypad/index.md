@@ -1,5 +1,6 @@
 title: Atari 2600 Keyboard Controller
 description: Ziffernblock für Atari-kompatiblen Joystickport.
+additional-pages: DoReCo
 amount: 3
 tested: function
 links:

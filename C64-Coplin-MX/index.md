@@ -1,5 +1,6 @@
 title: Coplin Keypad mit MX Tasten
 description: Ziffernblock für Atari-kompatiblen Joystickport.
+additional-pages: DoReCo
 amount: 8
 tested: function
 links:

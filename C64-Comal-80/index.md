@@ -1,5 +1,6 @@
 title: Commodore 64 COMAL-80 Modul
 description: Replikat des COMAL-80 Moduls
+additional-pages: DoReCo
 amount: 10
 tested: original
 links:

@@ -1,5 +1,6 @@
 title: Commodore 64 Trap Them Adapter
 description: Verwende SNES Controller mit allen Tasten am Joystickport.
+additional-pages: DoReCo
 amount: 6
 tested: function
 links:

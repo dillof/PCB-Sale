@@ -1,5 +1,6 @@
 title: Commodore 128 Magic Desk Modul
-amount: 3
+additional-pages: DoReCo
+amount: 1
 tested: original
 links:
     home: https://github.com/RetroNynjah/Magic-Desk-128

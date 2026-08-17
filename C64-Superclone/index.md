@@ -1,5 +1,6 @@
 title: Commodore 64 SuperClone 5.0 Modul
 description: Nachbau des SuperSnapshot 5.
+additional-pages: DoReCo
 amount: 5
 tested: function
 links:

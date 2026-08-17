@@ -1,4 +1,5 @@
 title: Gotek Schalter
+additional-pages: DoReCo
 amount: 5
 tested: function
 links:

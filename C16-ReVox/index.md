@@ -1,4 +1,5 @@
 title: Commodore 16, Plus/4 ReVox Digital-Sound Modul
+additional-pages: DoReCo
 amount: 7
 tested: original
 links:

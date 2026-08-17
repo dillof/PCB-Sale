@@ -1,3 +1,5 @@
 .DS_Store
 __pycache__
 /.idea
+/handout.typ
+/handout.pdf

@@ -1,4 +1,5 @@
 title: Commodore 64 Magic Desk 1mb Modul
+additional-pages: DoReCo
 tested: original
 links:
     home: https://github.com/msolajic/c64-magic-desk-1024k

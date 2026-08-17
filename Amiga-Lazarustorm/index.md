@@ -1,4 +1,5 @@
 title: Commodore Amiga Lazarustorm
+additional-pages: DoReCo
 amount: 13
 tested: function
 links:

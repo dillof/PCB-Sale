@@ -1,4 +1,5 @@
 title: VGA Breakout Platine
+additional-pages: DoReCo
 amount: 5
 tested: function
 links:
