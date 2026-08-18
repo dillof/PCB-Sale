@@ -4,8 +4,4 @@ Ich habe eine Auswahl meiner Platinen auf die DoReCo mitgenommen. Sie liegen in 
 
 Die vollständige Liste meiner Platinen findet ihr auf [https://tpau-group/platinenrestposten](https://tpau-group/platinenrestposten)
 
-Preise:
-
-Lazarustorm: €7.50
-
-alle anderen: **€1 pro Platine**
+Preise: **€1 pro Platine** (außer Lazarustorm €11.60)

@@ -3,6 +3,7 @@ class Systems:
         self.category_list = []
         self.categories = {}
         self.systems = {}
+        self.sorted_systems = []
         self.read_systems()
 
     def read_systems(self):
@@ -20,6 +21,9 @@ class Systems:
                     continue
 
                 self.add_system(current_category, line)
+        
+        for category in self.category_list:
+            self.sorted_systems += self.categories[category]
 
     def add_category(self, category):
         if self.has_category(category):

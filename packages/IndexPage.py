@@ -15,6 +15,7 @@ class IndexPage:
         self.categories = {}
         self.pages = {}
         self.content = []
+        self.all_pages = []
         self.parse()
     
     def parse(self):
@@ -48,6 +49,7 @@ class IndexPage:
                     self.content.append(line)
     
     def add_page(self, page):
+        self.all_pages.append(page)
         for system in page.systems:
             if not self.systems.has_system:
                 raise RuntimeError(f"unknown system '{system}'")
@@ -59,12 +61,6 @@ class IndexPage:
     def has_category(self, category):
         return category in self.categories
     
-    def all_pages(self):
-        all_pages = []
-        for pages in self.pages.values():
-            all_pages += pages
-        return all_pages
-
     def write(self):
         writer = HTMLWriter(f"{self.name}.html", self.title)
         writer.markdown(self.content)

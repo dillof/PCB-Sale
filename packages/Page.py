@@ -331,3 +331,12 @@ class Page:
             return self.title[len(system):].strip()
         else:
             return self.title
+
+    def pcb_price(self):
+        for components_name in self.components_names:
+            components = self.components[components_name]
+            for component in components:
+                if component.is_pcb():
+                    price = component.cost()
+                    if price is not None:
+                        return price

@@ -9,6 +9,7 @@ links:
 photos:
     IMG_7722.jpeg: Platine
 components:
+    1 Platine
     7 100nF Kondensator
     1 74LS86
     1 74LS139

@@ -7,8 +7,10 @@ from .HandoutPage import HandoutPage
 
 preamble = """
 #set page(\"a5\")
+#set page(numbering: "1")
 #set text(lang: "de")
 #set par(justify: true)
+#show outline.entry.where(level: 1): it => []
 #show heading: it => {
   // Clever trick to reduce spacing between consecutive headings
   // See https://github.com/typst/typst/issues/2953
@@ -29,7 +31,7 @@ class Handout:
     def __init__(self, index_page: str):
         self.site = Site()
         self.index_page = self.site.index_pages[index_page]
-        self.pcbs = [HandoutPage(page) for page in self.site.index_pages[index_page].all_pages()]
+        self.pcbs = [HandoutPage(page) for page in self.site.index_pages[index_page].all_pages]
 
     def write(self):
         self._create_qr_code()
@@ -50,7 +52,9 @@ class Handout:
                     print(f"{text}\n", file=file)
                 print("", file=file)
 
-            for pcb in self.pcbs:
+            print("#outline(depth: 2)", file=file)
+
+            for pcb in self._sorted_pcbs():
                 pcb.write(file)
 
     def compile(self):
@@ -64,4 +68,6 @@ class Handout:
     def _create_qr_code(self):
         img = qrcode.make(f"https://tpau-group/platinenrestposten/{self.index_page.name}.html")
         img.save("handout.png")
-    
+
+    def _sorted_pcbs(self):
+        return sorted(self.pcbs, key=lambda page: page.sort_keys(self.site.systems.sorted_systems))

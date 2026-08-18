@@ -12,7 +12,7 @@ class HandoutPage:
     def write(self, file):
         print("#pagebreak(weak: true)", file=file)
         print("#block(breakable: false)[", file=file)
-        print(f"== {self.page.directory}", file=file)
+        print(f"== {self.page.title}", file=file)
 
         if self.page.description is not None:
             print(f"=== {self.page.description}", file=file)
@@ -35,6 +35,14 @@ class HandoutPage:
                 print(f"{text}\n", file=file)
             print("", file=file)
 
+        pcb_price = self.page.pcb_price()
+        if pcb_price is not None:
+            if pcb_price != int(pcb_price):
+                pcb_price = f"{pcb_price:.2f}"
+            else:
+                pcb_price = f"{int(pcb_price)}"
+            print(f"Preis: *€{pcb_price}*\n", file=file)
+
         print("]", file=file)
 
         if len(self.page.components_names) > 0:
@@ -54,3 +62,9 @@ class HandoutPage:
             print("]", file=file)
 
         print("\n", file=file)
+
+    def sort_keys(self, sorted_systems):
+        for system_index, system in enumerate(sorted_systems):
+            if system in self.page.systems:
+                return (system_index, self.page.systems[system], self.page.directory)
+        return(999, 999, self.page.directory)
