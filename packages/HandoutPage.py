@@ -10,6 +10,7 @@ class HandoutPage:
         self.page = page
 
     def write(self, file):
+        print("#pagebreak(weak: true)", file=file)
         print("#block(breakable: false)[", file=file)
         print(f"== {self.page.directory}", file=file)
 
@@ -36,17 +37,20 @@ class HandoutPage:
 
         print("]", file=file)
 
-        for components_name in self.page.components_names:
-            #print("#block(breakable: false)[", file=file)
-            components = self.page.components[components_name]
-            if components_name:
-                print(f"=== {components_name}", file=file)
-            print("#{show table.cell: set text(size: 9pt)\ntable(\ncolumns: (auto, auto),\ntable.header([*Komponente*], [*Anzahl*]),\n", file=file)
+        if len(self.page.components_names) > 0:
+            print("#columns(2, gutter: 8pt)[", file=file)
+            for components_name in self.page.components_names:
+                #print("#block(breakable: false)[", file=file)
+                components = self.page.components[components_name]
+                if components_name:
+                    print(f"=== {components_name}", file=file)
+                print("#{set text(size: 8pt)\ntable(\nalign: (left, center),\nstroke: none,\nfill: (col, row) => if type(row) == int and row > 0 and calc.rem(row, 2) == 1 {luma(240)} else {none},\ncolumns: (auto, auto),\ntable.header([*Komponente*], [*Anzahl*]),\n", file=file)
 
-            for component in sorted(components):
-                print(f"[{component.name()}], [{component.amount}],", file=file)
+                for component in sorted(components):
+                    print(f"[{component.name()}], [{component.amount}],", file=file)
 
-            print(")}", file=file)
-            #print("]", file=file)
+                print(")}", file=file)
+                #print("]", file=file)
+            print("]", file=file)
 
         print("\n", file=file)
