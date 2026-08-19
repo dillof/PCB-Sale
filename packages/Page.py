@@ -2,7 +2,7 @@ import enum
 import glob
 import os
 import re
-import sys
+from PIL import Image
 
 from packages.Link import Link
 from packages.Messages import messages
@@ -43,6 +43,8 @@ tested_description = {
 }
 
 class Page:
+    max_photo_size = 640
+
     def __init__(self, directory, site):
         self.directory = directory
         self.title = ""
@@ -249,6 +251,7 @@ class Page:
         if len(self.photos) > 0:
             writer.open("p", {"class": "photos"})
             for photo in self.photos:
+                self.cap_size(photo)
                 writer.image(photo.file, photo.title)
             writer.close()
 
@@ -340,3 +343,16 @@ class Page:
                     price = component.cost()
                     if price is not None:
                         return price
+
+
+    def cap_size(self, photo):
+        filename = os.path.join(self.directory, photo.file)
+        image = Image.open(filename)
+        width, height = image.size
+        if width <= self.max_photo_size and height <= self.max_photo_size:
+            return
+        ratio = min(float(self.max_photo_size) / float(width), float(self.max_photo_size) / float(height))
+        width = int(width * ratio)
+        height = int(height * ratio)
+        image = image.resize((width, height), Image.Resampling.LANCZOS)
+        image.save(filename)

@@ -312,6 +312,7 @@
 - 1x9 Stiftleiste
 0.18 1x10 Stiftleiste https://www.reichelt.de/de/de/shop/produkt/stiftleiste_36_polig_vergoldet_2_54mm-235640
 - 1x11 Stiftleiste
+- 1x12 Stiftleiste
 0.23 1x13 Stiftleiste https://www.reichelt.de/de/de/shop/produkt/stiftleiste_36_polig_vergoldet_2_54mm-235640
 0.27 1x15 Stiftleiste https://www.reichelt.de/de/de/shop/produkt/stiftleiste_36_polig_vergoldet_2_54mm-235640
 - 1x16 Stiftleiste
@@ -322,6 +323,8 @@
 0.20 1x5 Stiftleiste rund https://www.reichelt.de/de/de/shop/produkt/stiftleiste_rm_2_54mm_gerade_1-reihig_36-polig-331052
 0.27 1x7 Stiftleiste rund https://www.reichelt.de/de/de/shop/produkt/stiftleiste_rm_2_54mm_gerade_1-reihig_36-polig-331052
 0.31 1x8 Stiftleiste rund https://www.reichelt.de/de/de/shop/produkt/stiftleiste_rm_2_54mm_gerade_1-reihig_36-polig-331052
+- 1x12 Stiftleiste rund
+- 1x14 Stiftleiste rund
 0.78 1x20 Stiftleiste rund https://www.reichelt.de/de/de/shop/produkt/stiftleiste_rm_2_54mm_gerade_1-reihig_36-polig-331052
 1.39 1x36 Stiftleiste rund https://www.reichelt.de/de/de/shop/produkt/stiftleiste_rm_2_54mm_gerade_1-reihig_36-polig-331060
 1.39 1x{36} Stiftleiste rund https://www.reichelt.de/de/de/shop/produkt/stiftleiste_rm_2_54mm_gerade_1-reihig_36-polig-331060

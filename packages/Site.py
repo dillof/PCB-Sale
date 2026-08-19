@@ -37,5 +37,5 @@ class Site:
 
         for index_page in self.index_pages.values():
             index_page.write()
-            for page in index_page.all_pages():
+            for page in index_page.all_pages:
                 page.write()

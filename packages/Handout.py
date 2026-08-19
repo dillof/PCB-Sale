@@ -52,7 +52,9 @@ class Handout:
                     print(f"{text}\n", file=file)
                 print("", file=file)
 
-            print("#outline(depth: 2)", file=file)
+            print("#v(10pt)", file=file)
+
+            print("#outline(depth: 2, title: none)", file=file)
 
             for pcb in self._sorted_pcbs():
                 pcb.write(file)
