@@ -16,3 +16,5 @@ components:
 systems:
     Commodore 64
 ---
+Ein Winkeladapter für den Modulport des C64, mit dem die Cartridges senkrecht nach oben ausgerichtet werden. Er eignet sich besonders für Motifcartridges.
+

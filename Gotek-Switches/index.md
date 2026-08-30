@@ -18,3 +18,4 @@ components:
 systems:
     Computer
 ---
+Diese Platine ist für externe Gotek Laufwerke gedacht. Sie deckt die Konfigurations-Jumper ab und ermöglicht die Konfiguration über Schiebeschalter. Außerdem fürht sie den Lautsprecheranschluss nach innen, ohne dass das Kabel von außen sichtbar ist.

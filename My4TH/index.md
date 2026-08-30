@@ -79,3 +79,4 @@ components: 14MHz
 systems:
     My4TH
 ---
+Ein Forth Einplatinencomputer aus Logik-ICs, ohne dedizierte CPU.

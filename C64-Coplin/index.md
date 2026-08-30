@@ -30,3 +30,4 @@ components: Kabel
 systems:
     Commodore 64
 ---
+Nachbau des Coplin Keypads für den Atari-kompatiblen Joystickport. Er kann auch als Joystick verwendet werden.

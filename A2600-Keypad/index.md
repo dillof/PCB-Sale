@@ -29,6 +29,6 @@ systems:
     Atari 2600
     Commodore 64
 ---
-Dieses 12-Tasten Keypad war ursprünglich für das Atari 2600 konzipiert, ist aber auch am C64 betreibbar.
+Dieses 12-Tasten Keypad war ursprünglich für das Atari 2600 konzipiert, ist aber auch am C64 betreibbar. Es gibt 3 verschiedene doppelseitige Frontplatten. Für BASIC und Synthcart werden zwei Keypads benötigt.
 
 Diese Nachbildung stammt von tebl.

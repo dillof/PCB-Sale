@@ -20,3 +20,4 @@ components:
 systems:
     Commodore 128
 ---
+Eine Variante des bekannten Magic Desk Moduls, die für den Commodore 128 angepasst wurde.

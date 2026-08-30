@@ -3,6 +3,8 @@ amount: 8
 tested: original
 links:
     home: https://github.com/necroware/gameport-adapter
+    ibom
+    schematics
 photos:
     IMG_8518.jpeg: Platine
 components:

@@ -13,3 +13,4 @@ components:
     4 M3 8mm Abstandhalter Buchse/Buchse
     4 M3 Schraube
 ---
+Diese Platine ist für Leute, die keine Pins zählen wollen. Sie ermöglicht das Bestimmen der Größe von ICs oder Sockeln, indem man sie auf die Platine legt. Sie eignet sich auch ausgezeichnet, um einen Überblick über den Lagerbestand an Sockeln zu bekommen.

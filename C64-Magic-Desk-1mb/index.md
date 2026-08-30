@@ -17,3 +17,4 @@ components:
 systems:
     Commodore 64
 ---
+Eine Variante des bekannten Magic Desk Moduls, die 1MB Speicherplatz bietet.

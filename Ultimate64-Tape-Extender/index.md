@@ -11,3 +11,4 @@ components:
 systems:
     Commodore 64
 ---
+Diese Platine ist ein Kassettenport-Verlängerer für das Ultimate64. Sie kann in das Userport-Gehäuse eingebaut werden, um den Kassettenport an die Hinterkante des Gehäuses zu führen. Dadurch können breitere Kassettenstecker angesteckt werden, und es erhöht die Stabilität des Gehäuses.

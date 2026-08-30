@@ -5,8 +5,9 @@ amount: 9
 links:
     ibom
 photos:
+    IMG_7938.jpeg: aufgebaut
     IMG_7724.jpeg: Platine
-components: Adpater
+components: Adapter
     1 Platine
     2 100nF Kondensator
     8 10kΩ Widerstand
@@ -31,3 +32,4 @@ components: Controller Kabel
 systems:
     Commodore 64
 ---
+Dieser Adapter ermöglicht den Anschluss von 8 SNES Controllern an den C64. Er kann an den Userport angeschlossen werden und ist dann kompatibel mit dem SuperPad64 von Poly.Play. Oder er kann an die beiden Joystickports angeschlossen werden und ist dann kompatibel mit dem SNES Pad von Ninja.

@@ -19,3 +19,4 @@ components:
 systems:
     Commodore 16, Plus/4
 ---
+Eine Variante des bekannten Magic Desk Moduls, die für den Commodore 16 und Plus/4 angepasst wurde.

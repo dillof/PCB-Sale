@@ -29,4 +29,4 @@ systems:
     Commodore 64
     Commodore 16, Plus/4
 ---
-Mit diesem Adapter kann man 4 Joysticks mit 2 Feuerknöpfen am Userport anschließen. Mit entsprechendem Kabel ist er mit dem Plus/4 oder C64, C128, VC-20 kompatibel. Der zweite Feuerknopf muss jedoch nach GND gehen (wie am Amiga üblich), nicht nach 5V (wie am C64 üblich).
+Mit diesem Adapter kann man 4 Joysticks mit 2 Feuerknöpfen am Userport anschließen. Mit entsprechendem Kabel ist er mit dem Plus/4 oder C64, C128, VC-20 kompatibel. Der zweite Feuerknopf muss jedoch nach GND gehen (wie am Amiga üblich), nicht nach 5V (wie am C64 üblich). Diese Variante verwendet SMD Bauteile.
