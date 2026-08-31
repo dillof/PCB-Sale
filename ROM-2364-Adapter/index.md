@@ -14,7 +14,7 @@ components: THT
     1 27512 EPROM
 components: SMD
     1 Platine
-    4 10kΩ Widerstand SMD
+    4 10kΩ Widerstand, SMD 0805
     1 90° 1x4 Stiftleiste
     2 1x12 Stiftleiste rund
     1 28-Pin Sockel, breit
