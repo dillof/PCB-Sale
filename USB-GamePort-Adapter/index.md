@@ -13,7 +13,7 @@ components:
     4 100kΩ Widerstand
     1 4xDIP Schalter
     2 1x12 Stiftleiste
-    1 Arduino Pro Micro ATmega32U4 16MHz 5V
+    1 Arduino Pro Micro
 systems:
     Computer
 ---

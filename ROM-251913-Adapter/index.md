@@ -1,8 +1,11 @@
 title: ROM 251913 Adapter
 additional-pages: DoReCo
+tested: function
 links:
     ibom
 photos:
+    IMG_8042.jpeg: Platine (weiss)
+    IMG_8045.jpeg: Platine (schwarz)
 components:
     1 Platine
     2 10kΩ Widerstand

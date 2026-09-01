@@ -14,8 +14,8 @@ components:
     3 74LVC245
     1 Raspberry Pi Pico
     3 20-Pin Sockel, schmal
-    1 90° 6x6x5mm Taster
-    1 Micro-SD Buchse
+    1 90° 6x6mm Taster
+    1 MicroSD Card Slot SMD
 systems:
     Mattel Intellivision
 ---

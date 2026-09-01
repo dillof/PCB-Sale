@@ -11,9 +11,9 @@ components:
     1 3.9kΩ Widerstand
     6 1N4148 Diode
     1 BAT85 Diode
-    1 MC6821P Peripheral Interface Adapter
+    1 MC6821P PIA
     1 27C256 EPROM
-    1 25C512 EPROM
+    1 27C512 EPROM
     1 6264 8k SRAM
     1 74LS00
     1 74LS04

@@ -39,6 +39,7 @@
 0.08 220nF Kondensator, 25V https://www.reichelt.de/de/de/shop/produkt/vielschicht-keramikkondensator_220n_20_-22980
 0.25 330nF Kondensator https://www.mouser.at/ProductDetail/KYOCERA-AVX/SR215E334MARAP1?qs=urM7c0%2FbhXj%252BGR0gH7TDew%3D%3D
 0.33 470nF Kondensator https://www.mouser.at/ProductDetail/KYOCERA-AVX/SL151A180JABTR1?qs=%252BdQmOuGyFcE2Ln25TiPoYA%3D%3D
+- 1µF Kondensator
 
 ## Folienkondensator
 0.68 102MWR630K 1nF Kondensator https://www.mouser.at/ProductDetail/598-102MWR630K
@@ -159,10 +160,12 @@
 0.03 11kΩ Widerstand 1% https://www.reichelt.de/de/de/shop/produkt/widerstand_metallschicht_11_0_kohm_0207_0_6_w_1_-11466
 0.03 22kΩ Widerstand 1% https://www.reichelt.de/de/de/shop/produkt/widerstand_metallschicht_22_0_kohm_0207_0_6_w_1_-11622
 
+### SMD
 0.02 1kΩ Widerstand, SMD 0805 https://www.reichelt.de/de/de/shop/produkt/smd-widerstand_0805_1_kohm_125_mw_1_-346593
 0.05 1kΩ Widerstand, SMD 1206 https://www.reichelt.de/de/de/shop/produkt/smd-widerstand_1206_1_0_kohm_250_mw_5_-18221
 0.02 3kΩ Widerstand, SMD 0805 https://www.reichelt.de/at/de/shop/produkt/smd-widerstand_0805_3_0_kohm_125_mw_5_-250296
 0.01 10kΩ Widerstand, SMD 0603 https://www.reichelt.de/at/de/shop/produkt/smd-widerstand_0603_10_kohm_100_mw_1_-89442
+- 10kΩ Widerstand, SMD 0805
 
 ## Widerstandnetzwerk
 1.29 16-8 33Ω Widerstandnetzwerk, DIP-16 https://www.mouser.at/ProductDetail/Bourns/4116R-1-330LF?qs=Mo5R8jVSnj%252BSizEEL4hLbg%3D%3D
@@ -223,7 +226,9 @@
 0.02 1N4148 Diode https://www.reichelt.de/de/de/shop/produkt/schalt-diode_100_v_150_ma_do-35-1730
 0.11 1N4735 Diode https://www.mouser.at/ProductDetail/onsemi-Fairchild/1N4735A?qs=SSucg2PyLi5YUnIaMJAttg%3D%3D
 0.05 1N5711 Diode https://www.reichelt.de/de/de/shop/produkt/schottkydiode_70_v_0_015_a_do-35-220392
+- 1N5817 Diode
 0.04 1N5818 Diode https://www.reichelt.de/de/de/shop/produkt/schottkydiode_30_v_1_a_do-41-41849
+- 1N5819 Diode
 0.04 BAT41 Diode https://www.reichelt.de/de/de/shop/produkt/kleinsignal-schottky-diode_100_v_0_1_a_do-35-219561
 0.05 BAT46 Diode https://www.reichelt.de/de/de/shop/produkt/schottkydiode_100_v_0_15_a_do-35-219622
 0.07 BAT85 Diode https://www.reichelt.de/de/de/shop/produkt/schottkydiode_30_v_0_2_a_do-35-4857
@@ -420,6 +425,7 @@
 0.28 12x12x7.3mm Taster mit Rille https://www.reichelt.de/de/de/shop/produkt/kurzhubtaster_printmontage_1_schliesser_12_x_12_x_7_3_mm-360039
 0.34 12x12x4.3mm Taster https://www.mouser.at/ProductDetail/Diptronics/DTS-21R-V?qs=gTYE2QTfZfSyx06nPyiGoQ%3D%3D
 - 90° Taster
+- 90° 6x6mm Taster
 0.13 Tastenkappe https://www.mouser.at/ProductDetail/Diptronics/KTSC-62K?qs=T3oQrply3y9Gd4mLfpE6hw%3D%3D
 0.19 12mm Tastenkappe weiß https://www.mouser.at/ProductDetail/Diptronics/KTSC-22I?qs=sGAEpiMZZMsqIr59i2oRcr6gQedWCBTnRL0m8vse8Hg%3D
 0.19 12mm Tastenkappe rot https://www.mouser.at/ProductDetail/Diptronics/KTSC-22R?qs=sGAEpiMZZMsqIr59i2oRcr6gQedWCBTnIXnjNVjxO9Y%3D
@@ -467,6 +473,7 @@
 - Kabelbinder
 
 # Stecker
+## DIN
 - 90° DIN-4 Buchse
 1.51 90° DIN-5 Buchse https://www.reichelt.de/de/de/shop/produkt/din-buchse_5-polig_halbrund_printausfuehrung-11178
 1.60 90° DIN-6 Buchse https://www.reichelt.de/de/de/shop/produkt/din-einbaukupplung_-_90_6-pol_fuer_pcb-171913
@@ -482,16 +489,22 @@
 - DIN-8 262° Stecker
 4.20 DIN-5 Buchse https://www.conrad.at/de/p/hirschmann-930-151-517-1-din-rundsteckverbinder-buchse-gerade-polzahl-5-grau-1-st-737534.html
 0.84 DIN-6 Buchse https://www.reichelt.de/de/de/shop/produkt/din-kupplung_6-polig-11191
+
+## Mini-DIN
 1.41 Mini-DIN-8 Stecker https://www.reichelt.de/de/de/shop/produkt/mini-din-stecker_-_8-pol-17459
 0.30 90° Mini-DIN-8 Buchse https://www.reichelt.de/de/de/shop/produkt/mini-din-printbuchse_8-polig-7284
 1.93 90° Mini-DIN-4 Buchse https://www.mouser.at/ProductDetail/TE-Connectivity/5749181-1?qs=sGAEpiMZZMtAYTMy7wxAr8U2M3JzGM3DkazcBIA6tKc%3D
 1.68 Mini-DIN-4 Buchse https://www.reichelt.de/de/de/shop/produkt/mini-din-einbaubuchse_4-polig_mit_kabel-235713
+
+## Klinke
 0.75 SJ1-3525N 90° 3.5" Stereo-Klinke Buchse https://www.mouser.at/ProductDetail/Same-Sky/SJ1-3525N?qs=WyjlAZoYn505QPmBO3I74g%3D%3D
 1.75 35RAPC2AVN4 90° 3.5" Stereo-Klinke https://www.mouser.at/ProductDetail/Switchcraft/35RAPC2AVN4?qs=EUmV0Jb91HPsqV9zLvaIGQ%3D%3D
 - SPC21348 90° 3.5mm Stereo-Klinke Buchse
 - 90° 3-Pol 3.5" Stereo-Klinke Buchse
 0.30 KB-3-SPRS 90° 3-Pol 3.5" Stereo-Klinke Buchse https://www.reichelt.de/de/de/shop/produkt/klinkeneinbaubuchse_3_5_mm_stereo-7301
 1.09 90° 4-Pol 3.5" Stereo-Klinke Buchse https://www.mouser.at/ProductDetail/Same-Sky/SJ3-35074A?qs=IKkN%2F947nfAFUkxOk370qg%3D%3D
+
+## D-Sub
 0.35 90° D-Sub-9 Buchse https://www.reichelt.de/de/de/shop/produkt/d-sub-buchse_9-polig_gewinkelt_rm_7_2-6954
 0.36 90° D-Sub-9 Stecker https://www.reichelt.de/de/de/shop/produkt/d-sub-stecker_9-polig_gewinkelt-6992
 0.48 90° D-Sub-15 Buchse https://www.reichelt.de/de/de/shop/produkt/d-sub-buchse_15-polig_gewinkelt_rm_7_2-6962
@@ -513,6 +526,8 @@
 0.67 D-Sub-9 Buchse für Flachbandkabel https://www.reichelt.de/de/de/shop/produkt/d-sub-buchse_9-pol_flachbandkabel_ohne_isolator-6951
 0.75 D-Sub-15 Buchse für Flachbandkabel https://www.reichelt.de/de/de/shop/produkt/d-sub-buchse_15-pol_flachbandkabel_mit_isolator-259836
 0.74 D-Sub-15 Stecker für Flachbandkabel https://www.reichelt.de/de/de/shop/produkt/d-sub-stecker_15-pol_flachbandkabel_mit_isolator-259837
+
+## Flachbandkabel
 - 2x4 Stiftleiste für Flachbandkabel
 0.20 2x4 Buchsenleiste für Flachbandkabel https://www.reichelt.de/de/de/shop/produkt/pfostenbuchse_8-polig_mit_zugentlastung-284853
 0.08 2x5 Buchsenleiste für Flachbandkabel https://www.reichelt.de/de/de/shop/produkt/pfostenbuchse_10-polig_mit_zugentlastung-14571
@@ -521,10 +536,14 @@
 - 2x12 Buchsenleiste für Flachbandkabel
 0.70 2x13 Buchsenleiste für Flachbandkabel https://www.reichelt.de/de/de/shop/produkt/pfosten-verbinder_2x13polig_kontakte_vergoldet-235685
 0.88 2x17 Buchsenleiste für Flachbandkabel https://www.reichelt.de/de/de/shop/produkt/pfosten-verbinder_2x17polig_kontakte_vergoldet-235686
+
+## Cinch
 - 90° Cinch Buchse
 1.60 90° 2-Pol Cinch Buchse https://www.reichelt.de/de/de/shop/produkt/cinch-einbaubuchse_farbcodierung_schwarz_vergoldet-198330
 1.67 90° USB-A Buchse https://www.reichelt.de/de/de/shop/produkt/usb_2_0_typ_a_buchse-304021
 - 90° USB-B Buchse
+
+## andere
 1.20 90° 5.5/2.1mm Hohlstecker Buchse https://www.reichelt.de/de/de/shop/produkt/einbaubuchse_innen_2_1_mm-183502
 0.60 90° 1x5 Klemmblock, 5mm https://www.reichelt.de/de/de/shop/produkt/loetbare_schraubklemme_-_5-pol_rm_5_mm_90_-292683
 2.64 90° SNES Controller Buchse https://de.aliexpress.com/item/1005006424999034.html
@@ -783,7 +802,7 @@
 10.63 P8X32A-D40 https://www.mouser.at/ProductDetail/Parallax/P8X32A-D40?qs=QGk6feVlqMKUIA06dhUaew%3D%3D
 13.80 P8X32A-D40 https://www.reichelt.de/de/de/shop/produkt/risc_mikrocontroller_80_mhz_32kb_dip-40-367577
 18.34 Wemos LoLin D32 Pro https://www.ebay.de/itm/256369668464
-
+- Tang Nano 20k
 
 # Sonstiges
 8.26 4x4 Ziffernblock https://www.ebay.de/itm/143411990588
@@ -875,6 +894,7 @@
 0.84 A302 Schmitt-Trigger https://www.ebay.de/itm/265335531699
 7.50 SNES Controller https://www.amazon.de/-/en/Controllers-Double-Nintendo-Controller-Gamepad/dp/B0D3WJPNBF
 - SD Card Slot SMD
+- MicroSD Card Slot SMD
 3.32 TV5G Kühlkörper https://www.mouser.at/ProductDetail/Aavid/TV-5G?qs=U7T%2FEnMyvTvxjGl8pBhKCA%3D%3D
 13.14 FT232H Breakout Board https://www.digikey.at/de/products/detail/adafruit-industries-llc/2264/5761217?s=N4IgTCBcDaIIYBM4DMBOBXAlgFwATOzAGYwALEAXQF8g
 2.02 LTD-4708JR 2x7-Segment Display https://www.mouser.at/ProductDetail/LITEON/LTD-4708JR?qs=gnaPJ2cis71m0RPz2ERE6Q%3D%3D

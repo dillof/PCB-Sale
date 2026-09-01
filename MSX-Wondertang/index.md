@@ -18,12 +18,12 @@ components:
     1 3mm LED, rot
     1 1N5817 Diode
     5 20-Pin Sockel, schmal
-    5 SN74LVC245AN
+    5 74LVC245A
     2 2N3904 Transistor
     1 10µF Elektrolytkondensator
-    2 7.7µF Elektrolytkondensator
+    2 4.7µF Elektrolytkondensator
     2 1x2 Stiftleiste
-    1 3.5mm Stereo-Klinke Buchse SJ1-3533NG
+    1 SJ1-3525N 90° 3.5" Stereo-Klinke Buchse
     1 Tang Nano 20k
 systems:
     Microsoft MSX
