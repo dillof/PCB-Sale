@@ -1,6 +1,5 @@
 title: Commodore 64 16k Modul
-additional-pages: DoReCo
-amount: 2
+amount: 0
 tested: original
 links:
     home: https://github.com/SukkoPera/OpenC64Cart16K

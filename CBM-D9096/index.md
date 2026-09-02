@@ -1,6 +1,7 @@
 title: CBM D9096
 tested: original
 amount: 9
+additional-pages: DoReCo
 links:
     home: https://github.com/InsaneDruid/CBM-D9096
     ibom
