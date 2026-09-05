@@ -4,6 +4,7 @@ tested: original
 links:
     home: https://github.com/Retroisten/MagicFormel
 photos:
+    IMG_8548.jpeg: Platine
 components:
     1 Platine
     1 100nF Kondensator

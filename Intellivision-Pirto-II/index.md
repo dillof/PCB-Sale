@@ -6,6 +6,7 @@ links:
     home: https://github.com/SukkoPera/PiRTOII
     ibom
 photos:
+    IMG_8549.jpeg: Platine
 components:
     1 Platine
     1 100kΩ Widerstand

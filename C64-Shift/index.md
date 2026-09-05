@@ -5,6 +5,8 @@ additional-pages: DoReCo
 tested: fixable  Der Reset-Schalter darf nicht bestückt werden.
 links:
 photos:
+    IMG_8552.jpeg: aufgebaut
+    IMG_8547.jpeg: Platine
 components:
     1 Platine
     1 100nF Kondensator

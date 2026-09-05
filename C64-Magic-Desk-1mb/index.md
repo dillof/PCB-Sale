@@ -4,6 +4,7 @@ tested: original
 links:
     home: https://github.com/msolajic/c64-magic-desk-1024k
 photos:
+    IMG_8551.jpeg: Platine
 components:
     1 Platine
     2 100nF Kondensator
