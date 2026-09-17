@@ -1,6 +1,6 @@
 title: Gotek Schalter
 additional-pages: DoReCo
-amount: 5
+amount: 4
 tested: function
 links:
     home: https://github.com/T-Pau/Gotek-Switches

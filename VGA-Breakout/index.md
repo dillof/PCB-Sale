@@ -1,6 +1,6 @@
 title: VGA Breakout Platine
 additional-pages: DoReCo
-amount: 5
+amount: 2
 tested: function
 links:
     home: https://github.com/T-Pau/Connector-Breakout-Boards

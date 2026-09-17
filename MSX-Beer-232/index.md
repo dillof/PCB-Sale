@@ -1,6 +1,7 @@
 title: CBM D9096
 page: upcoming
 tested: original
+amount: 4
 links:
     home: https://github.com/b3rendsh/msxdos2s/tree/main/hardware/beer-232
     ibom

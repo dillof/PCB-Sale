@@ -1,5 +1,5 @@
 title: Commodore 16, Plus/4 2Wire Modul
-amount: 9
+amount: 7
 additional-pages: DoReCo
 tested: original
 links:

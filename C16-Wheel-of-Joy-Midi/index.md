@@ -1,7 +1,7 @@
 title: Wheel of Joy Midi Multiplayer Adapter
 description: Schließe 4 C64 oder Amiga kompatible Joysticks mit 2 Feuertasten am Userport an.
 additional-pages: DoReCo
-amount: 8
+amount: 7
 tested: function
 links:
     home: https://github.com/T-Pau/Wheel-of-Joy-Midi

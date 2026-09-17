@@ -2,6 +2,9 @@ title: Atari 2600 Keyboard Controller
 description: Ziffernblock für Atari-kompatiblen Joystickport.
 additional-pages: DoReCo
 amount: 3
+# star raiders: 4
+# BASIC: 5
+# Synthcart: 6
 tested: function
 links:
     home: https://github.com/tebl/A2600-Keyboard

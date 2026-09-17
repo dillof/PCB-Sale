@@ -1,5 +1,6 @@
 title: MicroPET
 tested: original
+amount: 8
 page: private
 links:
     home: https://github.com/fachat/MicroPET

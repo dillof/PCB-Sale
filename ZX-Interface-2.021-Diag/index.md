@@ -1,5 +1,5 @@
 title: Sinclair ZX Spectrum Interface 2.021 Diagnostics Modul
-amount: 9
+amount: 8
 tested: original
 links:
     home: https://github.com/tebl/ZX-Interface-2.021

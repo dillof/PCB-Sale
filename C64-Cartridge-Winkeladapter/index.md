@@ -1,6 +1,6 @@
 title: Commodore 64 Modulport Winkeladapter
 additional-pages: DoReCo
-amount: 3
+amount: 0
 tested: function
 links:
     home: https://github.com/RetroNynjah/C64-Cartridge-Relocator

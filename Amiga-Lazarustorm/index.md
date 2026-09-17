@@ -1,6 +1,6 @@
 title: Commodore Amiga Lazarustorm
 additional-pages: DoReCo
-amount: 13
+amount: 12
 tested: function
 links:
     home: https://github.com/arananet/LAZARUSTORM

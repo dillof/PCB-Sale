@@ -1,5 +1,5 @@
 title: Socket Sizer
-amount: 3
+amount: 2
 additional-pages: DoReCo
 tested: function
 links:

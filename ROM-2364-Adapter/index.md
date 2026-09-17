@@ -1,5 +1,7 @@
 title: ROM 2364 Adapter
 additional-pages: DoReCo
+amount: 4
+# tht: 4, smd: 0
 links:
     home: https://github.com/SukkoPera/Open2327RomAdapter
 photos:
@@ -23,3 +25,5 @@ systems:
     Commodore 64
 ---
 Mit dieser Platine kann ein 2364 8k ROM mit einem EPROM ersetzt werden. Bei größeren EPROMs kann zwischen mehreren 8k Blöcken umgeschaltet werden. Die Platine ist in zwei Versionen verfügbar, einmal mit THT Bauteilen und einmal mit SMD Bauteilen.
+
+SMD Variante ist ausverkauft.

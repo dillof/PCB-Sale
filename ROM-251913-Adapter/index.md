@@ -1,6 +1,8 @@
 title: ROM 251913 Adapter
 additional-pages: DoReCo
 tested: function
+amount: 14
+# white: 9, black: 5
 links:
     ibom
 photos:

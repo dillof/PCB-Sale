@@ -1,6 +1,7 @@
 title: Commodore 64 Magic Formel 2 Modul
 additional-pages: DoReCo
 tested: original
+amount: 3
 links:
     home: https://github.com/Retroisten/MagicFormel
 photos:

@@ -1,5 +1,6 @@
 title: Sinclair ZX Spectrum Interface 2.021 ROM Modul
-amount: 9
+amount: 8
+# cartridge PCB: 9
 tested: original
 links:
     home: https://github.com/tebl/ZX-Interface-2.021

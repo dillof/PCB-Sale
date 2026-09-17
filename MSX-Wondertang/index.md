@@ -1,5 +1,5 @@
 title: Microsoft MSX Wondertang
-amount: 10
+amount: 9
 tested: original
 links:
     home: https://github.com/lfantoniosi/WonderTANG

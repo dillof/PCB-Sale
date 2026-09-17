@@ -1,6 +1,6 @@
 title: Commodore 16, Plus/4 Joystick Adapter
 additional-pages: DoReCo
-amount: 4
+amount: 0
 tested: function
 links:
     home: https://github.com/SukkoPera/OpenC16JoyAdapter

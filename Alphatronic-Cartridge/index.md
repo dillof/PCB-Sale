@@ -1,5 +1,5 @@
 title: Triumph-Adler Alphatronics PC ROM Modul
-amount: 10
+amount: 8
 tested: function
 links:
     home: https://github.com/felge1966/Alphatronic-PC
