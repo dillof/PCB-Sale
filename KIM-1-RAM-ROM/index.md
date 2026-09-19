@@ -1,5 +1,5 @@
 title: MOS KIM-1 MTU RAM/ROM Card
-amount: 4
+amount: 3
 tested: original
 links:
     home: https://github.com/eduardocasino/kim-1-mtu-ram-rom
