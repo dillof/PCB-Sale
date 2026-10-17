@@ -1,7 +1,6 @@
 title: Commodore 64 Motif-Modul Shift
 description: Haplo's Shift als Motif-Modul
 amount: 0
-additional-pages: DoReCo
 tested: fixable  Der Reset-Schalter darf nicht bestückt werden.
 links:
 photos:

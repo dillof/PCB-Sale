@@ -1,6 +1,5 @@
 title: Commodore 16, Plus/4 2Wire Modul
 amount: 7
-additional-pages: DoReCo
 tested: original
 links:
     home: https://github.com/SukkoPera/Plus42Wire

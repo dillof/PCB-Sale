@@ -1,6 +1,5 @@
 title: Commander X16 90° Cartridge Adapter
 amount: 8
-additional-pages: DoReCo
 tested: function
 links:
 photos:

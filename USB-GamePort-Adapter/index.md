@@ -1,6 +1,5 @@
 title: USB GamePort Adapter
 amount: 8
-additional-pages: DoReCo
 tested: original
 links:
     home: https://github.com/necroware/gameport-adapter

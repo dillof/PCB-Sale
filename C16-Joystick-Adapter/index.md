@@ -1,5 +1,4 @@
 title: Commodore 16, Plus/4 Joystick Adapter
-additional-pages: DoReCo
 amount: 0
 tested: function
 links:

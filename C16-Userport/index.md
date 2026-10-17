@@ -1,5 +1,4 @@
 title: Commodore 16, Plus/4 Userport Modul V3
-additional-pages: DoReCo
 amount: 0
 tested: original
 links:

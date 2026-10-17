@@ -1,6 +1,5 @@
 title: Socket Sizer
 amount: 2
-additional-pages: DoReCo
 tested: function
 links:
 photos:

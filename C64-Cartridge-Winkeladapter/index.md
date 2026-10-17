@@ -1,5 +1,4 @@
 title: Commodore 64 Modulport Winkeladapter
-additional-pages: DoReCo
 amount: 0
 tested: function
 links:

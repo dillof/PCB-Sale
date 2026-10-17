@@ -1,5 +1,4 @@
 title: Commodore 128 Magic Desk Modul
-additional-pages: DoReCo
 amount: 0
 tested: original
 links:
