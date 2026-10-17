@@ -1,5 +1,5 @@
 title: ROM 251913 Adapter
-additional-pages: DoReCo
+additional-pages: C=-Stammtisch
 tested: function
 amount: 14
 # white: 9, black: 5

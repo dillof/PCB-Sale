@@ -538,7 +538,7 @@
 0.88 2x17 Buchsenleiste für Flachbandkabel https://www.reichelt.de/de/de/shop/produkt/pfosten-verbinder_2x17polig_kontakte_vergoldet-235686
 
 ## Cinch
-- 90° Cinch Buchse
+1.60 90° Cinch Buchse https://www.reichelt.de/at/de/shop/produkt/cinch-einbaubuchse_farbcodierung_schwarz-6483
 1.60 90° 2-Pol Cinch Buchse https://www.reichelt.de/de/de/shop/produkt/cinch-einbaubuchse_farbcodierung_schwarz_vergoldet-198330
 1.67 90° USB-A Buchse https://www.reichelt.de/de/de/shop/produkt/usb_2_0_typ_a_buchse-304021
 - 90° USB-B Buchse
@@ -793,7 +793,7 @@
 6.30 ESP8266-12F https://www.reichelt.de/de/de/shop/produkt/entwicklerboards_-_esp8266_wifi-aufloetmodul-236022
 4.80 Raspberry Pi Pico H https://www.welectron.com/Raspberry-Pi-Pico-H
 4.19 Raspberry Pi Pico https://www.reichelt.de/de/de/shop/produkt/raspberry_pi_pico_rp2040_cortex-m0_microusb-295706
-- Raspberry Pi Pico W
+6.22 Raspberry Pi Pico W https://www.reichelt.de/at/de/shop/produkt/raspberry_pi_pico_w_rp2040_cortex-m0_wlan_microusb-329646
 - Raspberry Pi Pico 2
 7.56 Raspberry Pi Pico 2W https://www.reichelt.at/at/de/shop/produkt/raspberry_pi_pico_2_w_rp235x_cortex-m33_wifi_microusb-390453?utm_source=psuma&utm_medium=geizhals.at&PROVID=2835
 6.02 Raspberry Pi Pico 2W https://www.mouser.at/ProductDetail/Raspberry-Pi/SC1633?qs=3vio67wFuYrX4U8ue%2Fh1eA%3D%3D
@@ -894,7 +894,7 @@
 0.84 A302 Schmitt-Trigger https://www.ebay.de/itm/265335531699
 7.50 SNES Controller https://www.amazon.de/-/en/Controllers-Double-Nintendo-Controller-Gamepad/dp/B0D3WJPNBF
 - SD Card Slot SMD
-- MicroSD Card Slot SMD
+0.81 MicroSD Card Slot SMD https://de.aliexpress.com/item/1005012879827972.html?gatewayAdapt=glo2deu
 3.32 TV5G Kühlkörper https://www.mouser.at/ProductDetail/Aavid/TV-5G?qs=U7T%2FEnMyvTvxjGl8pBhKCA%3D%3D
 13.14 FT232H Breakout Board https://www.digikey.at/de/products/detail/adafruit-industries-llc/2264/5761217?s=N4IgTCBcDaIIYBM4DMBOBXAlgFwATOzAGYwALEAXQF8g
 2.02 LTD-4708JR 2x7-Segment Display https://www.mouser.at/ProductDetail/LITEON/LTD-4708JR?qs=gnaPJ2cis71m0RPz2ERE6Q%3D%3D

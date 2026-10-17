@@ -1,5 +1,5 @@
 title: Commodore 64 Magic Formel 2 Modul
-additional-pages: DoReCo
+additional-pages: C=-Stammtisch
 tested: original
 amount: 3
 links:

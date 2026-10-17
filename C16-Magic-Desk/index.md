@@ -1,6 +1,6 @@
 title: Commodore 16, Plus/4 Magic Desk Modul
-additional-pages: DoReCo
 amount: 2
+additional-pages: C=-Stammtisch
 tested: original
 links:
     home: https://github.com/msolajic/c264-magic-cart

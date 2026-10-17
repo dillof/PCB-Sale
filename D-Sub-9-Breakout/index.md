@@ -1,6 +1,6 @@
 title: D-Sub-9 Breakout Platine
 description: Greife auf die Pins von Stecker oder Buchse via Stiftleiste zu.
-additional-pages: DoReCo
+additional-pages: C=-Stammtisch
 amount: 9
 tested: function
 links:

@@ -1,6 +1,6 @@
 title: Commodore 64 Easyflash 3 Modul
-additional-pages: DoReCo
 amount: 2
+additional-pages: C=-Stammtisch
 tested: original
 photos:
     IMG_5512.jpeg: Platine

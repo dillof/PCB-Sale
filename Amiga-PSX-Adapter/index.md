@@ -1,5 +1,6 @@
 title: Commodore Amiga Playstation Controller Adapter
 amount: 9
+additional-pages: C=-Stammtisch
 tested: original
 links:
     home: https://github.com/SukkoPera/OpenPSX2AmigaPadAdapter

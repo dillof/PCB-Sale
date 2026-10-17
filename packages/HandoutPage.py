@@ -6,11 +6,13 @@ from .Systems import Systems
 
 
 class HandoutPage:
-    def __init__(self, page: Page):
+    def __init__(self, page: Page, brief: bool = False):
         self.page = page
+        self.brief = brief
 
     def write(self, file):
-        print("#pagebreak(weak: true)", file=file)
+        if not self.brief:
+            print("#pagebreak(weak: true)", file=file)
         print("#block(breakable: false)[", file=file)
         print(f"== {self.page.title}", file=file)
 
@@ -45,7 +47,7 @@ class HandoutPage:
 
         print("]", file=file)
 
-        if len(self.page.components_names) > 0:
+        if not self.brief and len(self.page.components_names) > 0:
             print("#columns(2, gutter: 8pt)[", file=file)
             for components_name in self.page.components_names:
                 #print("#block(breakable: false)[", file=file)

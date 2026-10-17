@@ -1,6 +1,6 @@
 title: S-Video Breakout Platine
-additional-pages: DoReCo
 amount: 6
+additional-pages: C=-Stammtisch
 links:
     home: https://github.com/T-Pau/S-Video-Breakout
     ibom

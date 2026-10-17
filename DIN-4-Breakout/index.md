@@ -1,7 +1,7 @@
 title: DIN-4 Breakout Platine
 description: Greife auf die Pins von Stecker oder Buchse via Stiftleiste zu.
-additional-pages: DoReCo
 amount: 8
+additional-pages: C=-Stammtisch
 tested: function
 links:
     home: https://github.com/T-Pau/Connector-Breakout-Boards

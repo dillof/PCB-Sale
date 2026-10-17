@@ -12,7 +12,7 @@ components:
     1 Platine, teilbestückt €19
     1 Jumper
     1 Raspberry Pi Pico W
-    1 SD Card Slot SMD
+    1 MicroSD Card Slot SMD
     1 90° D-Sub-15-HD Buchse, 1.98mm Zeilenabstand
     1 90° Cinch Buchse
 

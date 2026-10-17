@@ -1,7 +1,7 @@
 title: D-Sub-25 Breakout Platine
 description: Greife auf die Pins von Stecker oder Buchse via Stiftleiste zu.
-additional-pages: DoReCo
 amount: 5
+additional-pages: C=-Stammtisch
 links:
     home: https://github.com/T-Pau/Connector-Breakout-Boards
 photos:

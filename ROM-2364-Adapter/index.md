@@ -1,7 +1,7 @@
 title: ROM 2364 Adapter
-additional-pages: DoReCo
 amount: 4
 # tht: 4, smd: 0
+additional-pages: C=-Stammtisch
 links:
     home: https://github.com/SukkoPera/Open2327RomAdapter
 photos:

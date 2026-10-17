@@ -1,5 +1,6 @@
 title: Commodore 64 Magic Desk Modul
 description: EPROM per Jumper konfigurierbar.
+additional-pages: C=-Stammtisch
 amount: 2
 tested: function
 links:

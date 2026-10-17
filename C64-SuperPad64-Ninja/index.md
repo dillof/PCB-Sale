@@ -1,6 +1,6 @@
 title: Commodore 64 SuperPad64 / Ninja SNES Pad
 tested: function
-additional-pages: DoReCo
+additional-pages: C=-Stammtisch
 amount: 9
 links:
     ibom

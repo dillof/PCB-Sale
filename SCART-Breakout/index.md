@@ -1,5 +1,5 @@
 title: SCART Breakout Platine
-additional-pages: DoReCo
+additional-pages: C=-Stammtisch
 amount: 7
 links:
     home: https://github.com/T-Pau/Connector-Breakout-Boards

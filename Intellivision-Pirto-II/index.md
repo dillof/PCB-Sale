@@ -1,6 +1,6 @@
 title: IntelliVision PiRTO II
-additional-pages: DoReCo
 amount: 7
+additional-pages: C=-Stammtisch
 tested: original
 links:
     home: https://github.com/SukkoPera/PiRTOII
